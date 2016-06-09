@@ -14,8 +14,18 @@ Want to run this on your own machine? Follow these commands to get up and runnin
 ```sh
 $ git clone https://github.com/xasos/IlliniGuide.git
 $ cd IlliniGuide
+$ virtualenv venv
+$ source venv/bin/activate
 $ pip install -r requirements.txt
 $ python main.py
+```
+
+## Deploy to Herkou
+```sh
+$ heroku create --stack cedar
+$ heroku addons:add shared-database
+$ git push heroku master
+```
 
 # In a separate terminal instance:
 $ sql ...

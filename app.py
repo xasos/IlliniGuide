@@ -20,6 +20,8 @@ def index():
   #return render_template('index.html', users = User.query.all())
   return('sup')
 
+@app.route('/ee')
+
 #@app.route('/user', methods=['POST'])
 #def user():
 #  if request.method == 'POST':
