@@ -28,6 +28,7 @@ $ git push heroku master
 ```
 
 # In a separate terminal instance:
+```sh
 $ sql ...
 ```
 
