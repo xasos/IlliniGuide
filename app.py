@@ -20,7 +20,16 @@ def index():
   #return render_template('index.html', users = User.query.all())
   return('sup')
 
-@app.route('/ee')
+@app.route('/department/<department>/')
+def home(department):
+  return department
+
+
+@app.route('/department/<department>/class/<class>')
+def home(department, class):
+  return class
+
+@app.route('/professor
 
 #@app.route('/user', methods=['POST'])
 #def user():
