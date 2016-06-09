@@ -26,7 +26,7 @@ def home(department):
 
 
 @app.route('/department/<department>/class/<class>')
-def home(department, class):
+def homenew(department, class):
   return class
 
 @app.route('/professor
