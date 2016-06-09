@@ -17,7 +17,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-  return render_template('index.html', users = User.query.all())
+  #return render_template('index.html', users = User.query.all())
   return('sup')
 
 #@app.route('/user', methods=['POST'])
