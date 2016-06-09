@@ -24,12 +24,13 @@ def index():
 def home(department):
   return department
 
+#@app.route('/department/<department>/class/<class>')
+#def homenew(department, class):
+#  return class
 
-@app.route('/department/<department>/class/<class>')
-def homenew(department, class):
-  return class
-
-@app.route('/professor
+@app.route('/professor/<professor>')
+def thang(professor):
+  return professor
 
 #@app.route('/user', methods=['POST'])
 #def user():
@@ -41,5 +42,5 @@ def homenew(department, class):
 
 if __name__ == '__main__':
   db.create_all()
-  port = int(os.environ.get('PORT',5000))
+  port = int(os.environ.get('PORT', 5000))
   app.run(host='0.0.0.0', port=port)
