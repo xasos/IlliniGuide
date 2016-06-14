@@ -1,0 +1,220 @@
+{
+    "ratings": [
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 24004027, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "SPAN395", 
+            "rComments": "AMAZING TEACHER. SUPER FAIR, HELPFUL AND SHE DEFINITELY KNOW WHAT SHE IS TALKING ABOUT. ALWAYS ENGAGED. ", 
+            "rDate": "12/09/2014", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "Really into it", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A", 
+            "teacherRatingTags": [
+                "CARES ABOUT STUDENTS", 
+                "Respected by students", 
+                "Participation matters"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 23210369, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 4, 
+            "rClass": "SPAN250", 
+            "rComments": "Class was pretty easy. Make sure you really participate because you do get graded on that. She's a very nice lady and really knows what she's talking about. Read ALL the stories too!", 
+            "rDate": "05/09/2014", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "Really into it", 
+            "rOverall": 4.5, 
+            "rOverallString": "4.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 22885450, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "SPAN250", 
+            "rComments": "She's honestly the nicest. She's always ready to help her students, and she's very approachable. Also, she's probably one of the fairest professors I've ever had. Ugh. She's great.", 
+            "rDate": "03/04/2014", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "poor", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 22113292, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "SPAN250310", 
+            "rComments": "Pilar is one of my favourite professors at UIUC. She is extremely knowledgeable and approachable; she's always willing to accommodate and help her students. I liked her so much for 250, I took 310 with her... as did half of my 310 class. If you show up and are engaged, you shouldn't have any problem getting at least an A.", 
+            "rDate": "09/09/2013", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "Really into it", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "A+", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "poor", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 21918652, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "SPAN250", 
+            "rComments": "Very very clear about expectations and the tests are very easy if you attend class. Attendance points are taken but you can miss a few days no problem. As long as you pay attention in class you should get an A.", 
+            "rDate": "06/24/2013", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}

@@ -1,0 +1,298 @@
+{
+    "ratings": [
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "average", 
+            "easyColor": "poor", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 26540401, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 3, 
+            "rClass": "HORT100", 
+            "rComments": "Very easy course.  Dr. Wortman is pretty chill.  I'm sad that he is leaving UIUC.  Exams and quizzes are easy.  Plenty of extra credit.", 
+            "rDate": "05/11/2016", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "N/A", 
+            "rOverall": 3.5, 
+            "rOverallString": "3.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "Yes", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A+", 
+            "teacherRatingTags": [
+                "Clear grading criteria", 
+                "EXTRA CREDIT OFFERED"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "poor", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 25741143, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "HORT100", 
+            "rComments": "Great professor!", 
+            "rDate": "12/17/2015", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "Really into it", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "Yes", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A", 
+            "teacherRatingTags": [
+                "Skip class? You won't pass.", 
+                "Hilarious"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 25659240, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 4, 
+            "rClass": "HORT100", 
+            "rComments": "very good at explaining material", 
+            "rDate": "12/12/2015", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 4, 
+            "rOverallString": "4.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A", 
+            "teacherRatingTags": [
+                "Clear grading criteria", 
+                "Gives good feedback", 
+                "Respected by students"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 1, 
+            "id": 25565999, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "HORT100", 
+            "rComments": "Very wonderful, class was very into the material so it made the lectures very enjoyable. It may be a little boring for those uninterested in Horticulture, but I overall looked foward to this class every MWF. ", 
+            "rDate": "12/06/2015", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "Yes", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "Not sure yet", 
+            "teacherRatingTags": [
+                "CARES ABOUT STUDENTS"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "person"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "average", 
+            "easyColor": "average", 
+            "helpColor": "average", 
+            "helpCount": 1, 
+            "id": 25359819, 
+            "notHelpCount": 1, 
+            "onlineClass": "", 
+            "quality": "average", 
+            "rClarity": 2, 
+            "rClass": "HORT100", 
+            "rComments": "SO amazingly boring. ", 
+            "rDate": "11/06/2015", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 3, 
+            "rInterest": "Low", 
+            "rOverall": 2.5, 
+            "rOverallString": "2.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A", 
+            "teacherRatingTags": [
+                "LECTURE HEAVY", 
+                "Get ready to read"
+            ], 
+            "unUsefulGrouping": "person", 
+            "usefulGrouping": "person"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "poor", 
+            "helpColor": "good", 
+            "helpCount": 1, 
+            "id": 24596170, 
+            "notHelpCount": 0, 
+            "onlineClass": "online", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "HORT100", 
+            "rComments": "I took this class at the same time time as HORT 105, and enjoyed it much more. He knows the material well and is a really nice guy. He even helped me get a research position! I wish the class would have a hand-on lab portion, but other than that it's a great class. As long as you pay attention, it's easy and interesting.", 
+            "rDate": "04/14/2015", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "person"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "good", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 23607752, 
+            "notHelpCount": 1, 
+            "onlineClass": "online", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "HORT435", 
+            "rComments": "He has the students do too much work for the amount of credit received.  All the lecture material comes from the book, and the weekly scientific paper assignments. The lecture is focused on weekly group presentations. If you do not mind doing copious amount of work on a weekly basis, take his class. He really knows how to make urban ag boring. ", 
+            "rDate": "09/23/2014", 
+            "rEasy": 4, 
+            "rEasyString": "4.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "It's my life", 
+            "rOverall": 4.5, 
+            "rOverallString": "4.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [
+                "LOTS OF HOMEWORK", 
+                "Gives good feedback"
+            ], 
+            "unUsefulGrouping": "person", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}

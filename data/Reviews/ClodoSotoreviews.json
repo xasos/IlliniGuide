@@ -1,0 +1,216 @@
+{
+    "ratings": [
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 14758140, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 4, 
+            "rClass": "SPAN228", 
+            "rComments": "I'm a little bitter because I missed the cutoff for an A by 0.06%, but he is a good teacher. He explains well and as people said will speak English to help if necessary. Nice and helpful for the most part, and greatly improves your Spanish writing abilities if you take this class. However,you have to come to class EVERY DAY and work hard to do well", 
+            "rDate": "08/20/2008", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Really into it", 
+            "rOverall": 4, 
+            "rOverallString": "4.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 11268450, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "SPANISH", 
+            "rComments": "Prof. Soto is the kindest teacher ever. He is willing to help all of the tie, and he is a genius. He speaks English, Spanish, and Quechua, and prob other languages with great fluency. He's a rare gem.", 
+            "rDate": "12/28/2005", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "N/A", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "average", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 3170902, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 2, 
+            "rClass": "SPAN210", 
+            "rComments": "He is not a good teacher at all. His understanding of the english language is very bad. He didn't know how to help the students because he couldn't translate from Spanish to English. I do not recommend him to anyone!", 
+            "rDate": "01/06/2005", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 2, 
+            "rInterest": "It's my life", 
+            "rOverall": 2, 
+            "rOverallString": "2.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "N/A", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 2045638, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "SPAN210", 
+            "rComments": "not really sure where that last rating came from, as you can't get much more clear than clodo's teaching.  he'd even switch to english at points where he didn't think people were &quot;getting it&quot;, which is against department policy, i believe.", 
+            "rDate": "04/27/2004", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "N/A", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "N/A", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "average", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 1691455, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "average", 
+            "rClarity": 2, 
+            "rClass": "SPAN210", 
+            "rComments": "No Comments", 
+            "rDate": "02/05/2004", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "N/A", 
+            "rOverall": 3, 
+            "rOverallString": "3.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "N/A", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}

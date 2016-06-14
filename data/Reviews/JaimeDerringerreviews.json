@@ -1,0 +1,259 @@
+{
+    "ratings": [
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 25657380, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "PSYC250", 
+            "rComments": "A really great lecturer.  The class was interesting and prepared you well for the tests.  It was easy to do well if you paid attention in class.", 
+            "rDate": "12/12/2015", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Really into it", 
+            "rOverall": 4.5, 
+            "rOverallString": "4.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "Yes", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [
+                "Respected by students", 
+                "Clear grading criteria"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Not Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 25243064, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "PSYC250", 
+            "rComments": "Great lecturer, nice/funny person, makes the material interesting. Posts slides online, but GO TO LECTURE because there's material she discusses not in the slides that will be on the exam.  Exams are tricky, so use the study guides she gives. I got As and Bs with a decent amount of studying, so it's not too tough. Just not an easy A. Fun class!", 
+            "rDate": "10/11/2015", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Really into it", 
+            "rOverall": 4.5, 
+            "rOverallString": "4.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [
+                "EXTRA CREDIT OFFERED", 
+                "Tough Grader", 
+                "Amazing lectures"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 24886342, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "PSYCH496", 
+            "rComments": "This class was great. She was very knowledgable of the topic and she made it interesting. There was a lot of reading and a long paper but she broke it up well. Overall, I loved this class.", 
+            "rDate": "05/21/2015", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "Yes", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A", 
+            "teacherRatingTags": [
+                "Amazing lectures"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 24857484, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 4, 
+            "rClass": "PSYC496", 
+            "rComments": "Jaime is knowledgeable and funny. This was the pilot of this class and it was well - structured with a midterm, final paper, discussion question submission and attendance points. There's a lot of reading primary lit for behavior genetics but it's worth it. ", 
+            "rDate": "05/18/2015", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 4.5, 
+            "rOverallString": "4.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "Yes", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [
+                "SO MANY PAPERS"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Not Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "good", 
+            "helpColor": "good", 
+            "helpCount": 2, 
+            "id": 23133567, 
+            "notHelpCount": 1, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "PSYC250", 
+            "rComments": "Extremely helpful, always clear with her points and humorous. Makes an hour and 20 minute class go by pretty fast, always left feeling I had learned something that day.", 
+            "rDate": "04/30/2014", 
+            "rEasy": 4, 
+            "rEasyString": "4.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "B", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "person", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 22167102, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "PSYC250", 
+            "rComments": "She is awesome! She's hilarious without really trying. She knows exactly what she is talking about and is SO educated in her field. Easy to listen to because she is very personable. The class is a bit on the tougher side but super interesting, definitely take this class!", 
+            "rDate": "10/09/2013", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "B+", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}

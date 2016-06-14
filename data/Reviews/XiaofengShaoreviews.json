@@ -1,0 +1,248 @@
+{
+    "ratings": [
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 21299558, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "STAT510", 
+            "rComments": "Organized with easy midterm. However, the final is on a different level.", 
+            "rDate": "01/27/2013", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 4.5, 
+            "rOverallString": "4.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "good", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 20769917, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 4, 
+            "rClass": "STAT510", 
+            "rComments": "Really like this professor! well prepared notes for the class and clear statement.But you have to attend class because his material is different from the books.Though the exams are not easy.", 
+            "rDate": "11/02/2012", 
+            "rEasy": 4, 
+            "rEasyString": "4.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Really into it", 
+            "rOverall": 4, 
+            "rOverallString": "4.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "good", 
+            "helpColor": "poor", 
+            "helpCount": 0, 
+            "id": 20648030, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 2, 
+            "rClass": "STAT510", 
+            "rComments": "It seems like every lecture is from a different chapter and that some lectures are from \"imaginary\" chapters because the material isn't found in the textbook we purchased for class. This would be somewhat manageable if you could follow what the guy was saying; I mean how many times can you ask \"what is is that or what is this professor?\"", 
+            "rDate": "09/17/2012", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 1, 
+            "rInterest": "It's my life", 
+            "rOverall": 1.5, 
+            "rOverallString": "1.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "poor", 
+            "easyColor": "good", 
+            "helpColor": "poor", 
+            "helpCount": 0, 
+            "id": 19421691, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 1, 
+            "rClass": "STAT510", 
+            "rComments": "Terrible professor!", 
+            "rDate": "12/08/2011", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 1, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 1, 
+            "rOverallString": "1.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "good", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 17983600, 
+            "notHelpCount": 1, 
+            "onlineClass": "", 
+            "quality": "average", 
+            "rClarity": 3, 
+            "rClass": "STAT429", 
+            "rComments": "Professor Shao knows what he's talking about and knows how to answer your questions. He structures the class so you learn a lot of it by yourself. The exams are T/F and usually one or two problems like the homework. He tests you on mostly everything during the final, but you're allowed three cheat sheets. I'd say most people get A's or B's though.", 
+            "rDate": "12/17/2010", 
+            "rEasy": 4, 
+            "rEasyString": "4.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 3, 
+            "rInterest": "Really into it", 
+            "rOverall": 3, 
+            "rOverallString": "3.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "person", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "good", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 16738317, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "average", 
+            "rClarity": 2, 
+            "rClass": "STAT429", 
+            "rComments": "Class is very confusing for much of it because there are no numbers and he wants you to figure it out on your own.  Homework is much harder than the exams.  Exams are mostly homework problems changed slightly and true/false questions.  Final is harder than the midterms, though.  No one got lower than a B though.", 
+            "rDate": "01/20/2010", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 3, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 2.5, 
+            "rOverallString": "2.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}

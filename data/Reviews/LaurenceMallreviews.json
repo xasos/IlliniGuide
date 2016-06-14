@@ -1,0 +1,347 @@
+{
+    "ratings": [
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "good", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 26002290, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "FR322", 
+            "rComments": "Professor Mall is an absolutely fantastic professor. She is clear, engaging, and incredibly helpful. Her feedback on papers is always detailed. I would take any class that she teaches.", 
+            "rDate": "01/27/2016", 
+            "rEasy": 4, 
+            "rEasyString": "4.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A", 
+            "teacherRatingTags": [
+                "Inspirational", 
+                "Gives good feedback", 
+                "Participation matters"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "average", 
+            "easyColor": "good", 
+            "helpColor": "average", 
+            "helpCount": 1, 
+            "id": 24240845, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "average", 
+            "rClarity": 3, 
+            "rClass": "FR414", 
+            "rComments": "Professor Mall is very engaging. However, the class was very difficult. However, she is always willing to help students and gives good feedback on papers and exams.", 
+            "rDate": "01/06/2015", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 3, 
+            "rInterest": "Really into it", 
+            "rOverall": 3, 
+            "rOverallString": "3.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [
+                "Gives good feedback", 
+                "Skip class? You won't pass.", 
+                "Tough Grader"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "person"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "average", 
+            "easyColor": "good", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 23245320, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "average", 
+            "rClarity": 3, 
+            "rClass": "FR414", 
+            "rComments": "I've heard many good things about her, but 414 turned out to be the worst class I've taken at UIUC and most of my classmates agreed.  If you can take a class other than 414 with her, do! If you have to take 414, take it with someone else.  I've never gotten below a B in college and received a D+ in this class. Nice lady, impossible class.", 
+            "rDate": "05/14/2014", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 3, 
+            "rInterest": "Really into it", 
+            "rOverall": 3, 
+            "rOverallString": "3.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "D+", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "good", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 14855259, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "FR322", 
+            "rComments": "I love this woman. She's an awesome literature professor, she's funny and VERY entertaining. I would even take a French poetry course with her!", 
+            "rDate": "10/07/2008", 
+            "rEasy": 4, 
+            "rEasyString": "4.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Meh", 
+            "rOverall": 4.5, 
+            "rOverallString": "4.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 13570011, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "FR210", 
+            "rComments": "I like this teacher a lot. She is actually from France, so she is very knowledgeable. She knows when she needs to switch into English for her students to understand.", 
+            "rDate": "10/29/2007", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "Really into it", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 12773525, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "FR209", 
+            "rComments": "Wonderful professor! She knew SO much about all literature works we had to read, and explained everything with a lot of clarity. : )", 
+            "rDate": "01/14/2007", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Really into it", 
+            "rOverall": 4.5, 
+            "rOverallString": "4.5", 
+            "rStatus": 3, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 23753513, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "FR414", 
+            "rComments": "She is a great and hilarious teacher. She keeps students interested in her course and is very willing to help whenever you're struggling. We don't go a day in class without the whole class laughing. Very enjoyable.", 
+            "rDate": "11/05/2014", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A", 
+            "teacherRatingTags": [
+                "Amazing lectures", 
+                "Gives good feedback", 
+                "Hilarious"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}

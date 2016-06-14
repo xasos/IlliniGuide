@@ -1,0 +1,216 @@
+{
+    "ratings": [
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "good", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 12051467, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 2, 
+            "rClass": "CHEM104", 
+            "rComments": "Was not very eloquent. He would use the word &quot;thingies&quot; a lot. There were always pauses, like he expected the class to answer one of his (what we considered) rhetorical questions. The first exam was nothing like the practice ones but the next few were more &quot;fair,&quot; but many questions still seemed ambiguous.  I can't recommend him as a professor.", 
+            "rDate": "07/11/2006", 
+            "rEasy": 4, 
+            "rEasyString": "4.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 2, 
+            "rInterest": "Really into it", 
+            "rOverall": 2, 
+            "rOverallString": "2.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "N/A", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "poor", 
+            "easyColor": "good", 
+            "helpColor": "poor", 
+            "helpCount": 0, 
+            "id": 11932228, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 1, 
+            "rClass": "CHEM104", 
+            "rComments": "This guy had no clue what he was doing w/ his demos. Also his tests were quite hard, and had subject matter that we didn't even learn. Find someone else", 
+            "rDate": "05/23/2006", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 1, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 1, 
+            "rOverallString": "1.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "N/A", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "good", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 11638377, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 2, 
+            "rClass": "CHEM104", 
+            "rComments": "dude does not know how to teach his demos dont work and his test are ridiculous", 
+            "rDate": "03/31/2006", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 2, 
+            "rInterest": "Meh", 
+            "rOverall": 2, 
+            "rOverallString": "2.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "N/A", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "good", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 11544713, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "average", 
+            "rClarity": 3, 
+            "rClass": "CHEM104D", 
+            "rComments": "do not take this class w/him.  He gives hard tests!", 
+            "rDate": "03/05/2006", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 2, 
+            "rInterest": "Meh", 
+            "rOverall": 2.5, 
+            "rOverallString": "2.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "N/A", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "average", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 11519840, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "average", 
+            "rClarity": 3, 
+            "rClass": "CHEM104", 
+            "rComments": "He seems a little nerdy and he's not that great of lecturer because he has odd pauses and sometimes his demos don't work, but he seems to be a genuinely nice guy, exams are on the tough side, but they are scaled so it's not too bad.", 
+            "rDate": "02/26/2006", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 3, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 3, 
+            "rOverallString": "3.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "N/A", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}

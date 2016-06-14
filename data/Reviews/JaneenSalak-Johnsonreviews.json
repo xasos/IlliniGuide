@@ -1,0 +1,234 @@
+{
+    "ratings": [
+        {
+            "attendance": "Not Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 26515275, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 4, 
+            "rClass": "ANSC101", 
+            "rComments": "She gets a bad rap but really is not that bad.  It helps if you talk to her a little bit and get to know her.  Her opinion does show through in her lectures, but she does not take away points if you disagree with her.", 
+            "rDate": "05/09/2016", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 3, 
+            "rInterest": "N/A", 
+            "rOverall": 3.5, 
+            "rOverallString": "3.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A", 
+            "teacherRatingTags": [
+                "LOTS OF HOMEWORK", 
+                "LECTURE HEAVY"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "poor", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 26291518, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "ANSC101", 
+            "rComments": "I personally think Dr. Johnson is a great lecturer and teacher. She looks at all sides of the spectrum when discussing contemporary issues. People don't see this probably because the truth isn't what they want to hear. She is clearly passionate about what she does in animal behavior. One of her cons is that her lectures are kind of lengthy.", 
+            "rDate": "04/13/2016", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 3, 
+            "rInterest": "N/A", 
+            "rOverall": 4, 
+            "rOverallString": "4.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A", 
+            "teacherRatingTags": [
+                "Participation matters", 
+                "LECTURE HEAVY", 
+                "EXPECT GROUP PROJECTS"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Not Mandatory", 
+            "clarityColor": "average", 
+            "easyColor": "good", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 26020220, 
+            "notHelpCount": 1, 
+            "onlineClass": "", 
+            "quality": "average", 
+            "rClarity": 3, 
+            "rClass": "ANSC101", 
+            "rComments": "Loud, rude, annoying, frustrating.  Doesn't care what you say your opinion is she's set in her ways.  Painful class to attend, but you'll get through it in time.", 
+            "rDate": "02/02/2016", 
+            "rEasy": 4, 
+            "rEasyString": "4.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 2, 
+            "rInterest": "Meh", 
+            "rOverall": 2.5, 
+            "rOverallString": "2.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [
+                "LOTS OF HOMEWORK", 
+                "LECTURE HEAVY"
+            ], 
+            "unUsefulGrouping": "person", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "good", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 24669979, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 4, 
+            "rClass": "ANSC101", 
+            "rComments": "If you do not agree with her opinions on some contemporary issues, you will absolutely be marked down for it.  She gives a lot of busy work, which can be hard to keep up with at times.  She also comes across as being rude sometimes, especially if you don't agree with her.  Definitely one of the worst ANSC professors on campus.", 
+            "rDate": "04/25/2015", 
+            "rEasy": 4, 
+            "rEasyString": "4.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 3, 
+            "rInterest": "Really into it", 
+            "rOverall": 3.5, 
+            "rOverallString": "3.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "Not sure yet", 
+            "teacherRatingTags": [
+                "Participation matters", 
+                "LOTS OF HOMEWORK", 
+                "Skip class? You won't pass."
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "average", 
+            "helpCount": 1, 
+            "id": 24561683, 
+            "notHelpCount": 1, 
+            "onlineClass": "", 
+            "quality": "average", 
+            "rClarity": 4, 
+            "rClass": "ANSC101", 
+            "rComments": "She assigns TONS of busy work.  She also does not bother to tell you about some of the assignments, so if you don't look at Compass online, you will not even know about them.  I would absolutely never take her again.", 
+            "rDate": "04/08/2015", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 1, 
+            "rInterest": "It's my life", 
+            "rOverall": 2.5, 
+            "rOverallString": "2.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A+", 
+            "teacherRatingTags": [
+                "Skip class? You won't pass.", 
+                "LOTS OF HOMEWORK", 
+                "Participation matters"
+            ], 
+            "unUsefulGrouping": "person", 
+            "usefulGrouping": "person"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}

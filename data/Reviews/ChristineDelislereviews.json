@@ -1,0 +1,216 @@
+{
+    "ratings": [
+        {
+            "attendance": "N/A", 
+            "clarityColor": "poor", 
+            "easyColor": "good", 
+            "helpColor": "poor", 
+            "helpCount": 2, 
+            "id": 23591292, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 1, 
+            "rClass": "AIS101", 
+            "rComments": "She is aweful. She assigns a ton of reading and then on tests she picks out a single sentence from a 30 page reading for a question. Her tests are also really hard, though they are curved. In the end she gives grades to who she likes. If you can avoid it do not take this class with her.", 
+            "rDate": "09/12/2014", 
+            "rEasy": 4, 
+            "rEasyString": "4.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 1, 
+            "rInterest": "Meh", 
+            "rOverall": 1, 
+            "rOverallString": "1.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "good", 
+            "helpColor": "poor", 
+            "helpCount": 1, 
+            "id": 23557991, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 2, 
+            "rClass": "AIS101", 
+            "rComments": "She is not a good teacher. Not only did she switch our class mid semester from Native American Studies to just Guam Islander because she's from Guam, but we only had one test and it was almost impossible. Everyone in my class got lower than a C. The readings are pretty interesting, but she seems unprepared most of the time.", 
+            "rDate": "08/26/2014", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 1, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 1.5, 
+            "rOverallString": "1.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "person"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "average", 
+            "easyColor": "average", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 22698178, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "average", 
+            "rClarity": 3, 
+            "rClass": "AIS", 
+            "rComments": "Very interesting lectures and videos in class are good. Exams could be somewhat tough if you don't read the articles. Attendance is very important and yes spelling does count on exams. Other than that she is pretty cool, loves football.", 
+            "rDate": "01/05/2014", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 3, 
+            "rInterest": "Really into it", 
+            "rOverall": 3, 
+            "rOverallString": "3.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "good", 
+            "helpColor": "poor", 
+            "helpCount": 0, 
+            "id": 22530499, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 2, 
+            "rClass": "AIS", 
+            "rComments": "Miss a class and it's a grade down. Be late and that's points off. No textbook but tons of reading. (Articles) Takes points off misspelled words on exams.", 
+            "rDate": "12/12/2013", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 1, 
+            "rInterest": "Really into it", 
+            "rOverall": 1.5, 
+            "rOverallString": "1.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "average", 
+            "easyColor": "good", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 22361727, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 3, 
+            "rClass": "AIS101", 
+            "rComments": "She is a great teacher, but if you even miss one class, you are not on her \"good list\". Also, you definitely have to do ALL the readings because she doesn't use powerpoints or a textbook in class. She is an interesting lecturer though which is great.", 
+            "rDate": "11/21/2013", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Really into it", 
+            "rOverall": 3.5, 
+            "rOverallString": "3.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "A-", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}

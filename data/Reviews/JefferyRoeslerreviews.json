@@ -1,0 +1,223 @@
+{
+    "ratings": [
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "good", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 25842846, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 3, 
+            "rClass": "CEE415", 
+            "rComments": "This class mostly revolves around the group project, which will consume your entire semester. Make sure your group members are good, or you will fail. The deliverables are graded very harshly. We finished with a 100-page comprehensive report and received an okay grade. Talk to the professors about anything unclear, or else you'll fall behind.", 
+            "rDate": "12/29/2015", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Really into it", 
+            "rOverall": 3.5, 
+            "rOverallString": "3.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "B+", 
+            "teacherRatingTags": [
+                "Skip class? You won't pass.", 
+                "EXPECT GROUP PROJECTS"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Not Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 24443470, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "CEE415", 
+            "rComments": "The classes can get boring sometimes. However, the materials covered in the class are very good. He is helpful even outside the class. ", 
+            "rDate": "03/09/2015", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A", 
+            "teacherRatingTags": [
+                "EXPECT GROUP PROJECTS", 
+                "BEWARE OF POP QUIZZES", 
+                "Tough Grader"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "good", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 20664903, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 4, 
+            "rClass": "CEE406", 
+            "rComments": "He is really good at teaching CEE406, very clear explanations, to the point, easily applicable concepts, you will learn a lot. It is true he is a harsh grader in the exams but he's willing to reconsider your grade if you don't agree with him and have a good argument.", 
+            "rDate": "09/27/2012", 
+            "rEasy": 4, 
+            "rEasyString": "4.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 3, 
+            "rInterest": "Really into it", 
+            "rOverall": 3.5, 
+            "rOverallString": "3.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "average", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 19506322, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 3, 
+            "rClass": "CEE406", 
+            "rComments": "He is not a great teacher but you will learn and he is willing to work with you if you take the time to go meet with him and he is understanding I missed a class because I was up late finishing a project and he allowed me to view the online lecture instead of just flat out missing it, I am taking another of his classes I would recommend him Genius", 
+            "rDate": "12/14/2011", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 3.5, 
+            "rOverallString": "3.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "good", 
+            "helpColor": "poor", 
+            "helpCount": 0, 
+            "id": 19364433, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 2, 
+            "rClass": "CE506", 
+            "rComments": "Teaching is not this man's priority. The reading material are journal articles (no book) which he emails minutes before the start of lecture (no chance to review). HW graded harshly (4 pg hand-written solution is docked all 10 pts when your final answer of 71 doesn't match the solution of 72, e.g.). Useful topics, but your grade won't reflect it.", 
+            "rDate": "12/02/2011", 
+            "rEasy": 4, 
+            "rEasyString": "4.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 1, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 1.5, 
+            "rOverallString": "1.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}

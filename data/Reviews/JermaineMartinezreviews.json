@@ -1,0 +1,216 @@
+{
+    "ratings": [
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 23048452, 
+            "notHelpCount": 2, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 4, 
+            "rClass": "CMN323", 
+            "rComments": "Jermaine is one of the nicest people you will meet. He is very energetic in his lectures and genuinely passionate about whatever he is teaching. Very approachable and willing to make exceptions if something comes up. Would take another class of his anytime!", 
+            "rDate": "04/16/2014", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 4.5, 
+            "rOverallString": "4.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "poor", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 20808078, 
+            "notHelpCount": 2, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "CMN102", 
+            "rComments": "This man is goregous to me lol . Anyway, he was one of the discussion teachers for Prof Quick earlier 2012. Really easy & fair grader, extremely helpful & sometimes corny. Study EXACTLY what he tells you to for the exam (he gives you 80% of the exam in review). Great teacher & I would DEFINITELY take another class with him =)", 
+            "rDate": "11/09/2012", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 20276571, 
+            "notHelpCount": 2, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "CMN102", 
+            "rComments": "Jermaine is probably the best TA I've ever had--fun, smart and cool. He's really laid-back. He knows the material and explains it in a way that makes it easy to understand. Plus he's willing to meet outside of class if you need additional help.", 
+            "rDate": "05/14/2012", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "Low", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "poor", 
+            "easyColor": "poor", 
+            "helpColor": "poor", 
+            "helpCount": 2, 
+            "id": 18857349, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 1, 
+            "rClass": "CMN102", 
+            "rComments": "He was clear on expectations but I expected him to be more knowledgeable about the material. Not the best TA, but not the worst either.", 
+            "rDate": "07/27/2011", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 2, 
+            "rInterest": "Really into it", 
+            "rOverall": 1.5, 
+            "rOverallString": "1.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "poor", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 18622230, 
+            "notHelpCount": 2, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "CMN102", 
+            "rComments": "Jermaine is one of the funniest instructors I have ever had!!! He makes class super fun and it goes by so quick, yet we learn so much. He told us exactly what to review for the exams/final. He genuinely cares for his students and tries his best to make sure they understand the material, no matter what. He's patient and grades easy!", 
+            "rDate": "05/17/2011", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}

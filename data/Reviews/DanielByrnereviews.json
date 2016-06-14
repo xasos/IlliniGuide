@@ -1,0 +1,231 @@
+{
+    "ratings": [
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "poor", 
+            "helpColor": "good", 
+            "helpCount": 2, 
+            "id": 25596358, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "LAS101", 
+            "rComments": "Funny and incredibly smart guy. Always looked forward to going to class because he created such a positive, fun environment. ", 
+            "rDate": "12/08/2015", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A+", 
+            "teacherRatingTags": [
+                "Amazing lectures", 
+                "Gives good feedback", 
+                "Hilarious"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "poor", 
+            "helpColor": "good", 
+            "helpCount": 2, 
+            "id": 25486797, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "LAS101", 
+            "rComments": "Super Cool. Super Hot. Super Smart. ", 
+            "rDate": "11/25/2015", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [
+                "Hilarious", 
+                "Inspirational", 
+                "Amazing lectures"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "poor", 
+            "helpColor": "good", 
+            "helpCount": 2, 
+            "id": 25345157, 
+            "notHelpCount": 1, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "LAS101", 
+            "rComments": "Dan is THE MAN. Seriously. Best Intern ever. I wish I could take another class with him!!!", 
+            "rDate": "11/04/2015", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A+", 
+            "teacherRatingTags": [
+                "Hilarious", 
+                "Amazing lectures", 
+                "Inspirational"
+            ], 
+            "unUsefulGrouping": "person", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "poor", 
+            "helpColor": "good", 
+            "helpCount": 2, 
+            "id": 25334153, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "LAS101", 
+            "rComments": "Awesome dude. Best Danosaur ever. ", 
+            "rDate": "11/03/2015", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "Yes", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [
+                "Inspirational", 
+                "CARES ABOUT STUDENTS"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "poor", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 25333587, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "LAS101", 
+            "rComments": "He is a nice guy. You can tell that he tries, like he REALLY tries. Talks fast when he gets excited and he gets excited a lot. All in all, a good guy ", 
+            "rDate": "11/03/2015", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "Meh", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}

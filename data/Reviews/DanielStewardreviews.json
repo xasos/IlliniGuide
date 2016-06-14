@@ -1,0 +1,287 @@
+{
+    "ratings": [
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 24359311, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 3, 
+            "rClass": "SOC350", 
+            "rComments": "Dan chose some great readingsvideos for our Technology and Society lecture.  Though his ability to engage the students was fair at best, but he's always tweaking his teaching style so I'm sure soon enough everything will click.    I also appreciated the fact all the readings were available via Moodle.   Hence no need for IUBTISAmazonetc.  :)", 
+            "rDate": "02/04/2015", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "Really into it", 
+            "rOverall": 4, 
+            "rOverallString": "4.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "Yes", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A", 
+            "teacherRatingTags": [
+                "CARES ABOUT STUDENTS", 
+                "Hilarious"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "average", 
+            "helpColor": "average", 
+            "helpCount": 1, 
+            "id": 23713611, 
+            "notHelpCount": 0, 
+            "onlineClass": "online", 
+            "quality": "average", 
+            "rClarity": 2, 
+            "rClass": "SOC100", 
+            "rComments": "Nearly every week: discussion (1 post, 3 replies, must keep up convos), 20 Q quiz, easy writing assignment. Sometimes also had regular writing assignments that are easy if you elaborate on personal experiences. You don't have to do readings to do the quizzes (GOOGLE), but need reading terms to do some papers. I just used the glossary & got an A.", 
+            "rDate": "10/29/2014", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 3, 
+            "rInterest": "It's my life", 
+            "rOverall": 2.5, 
+            "rOverallString": "2.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [
+                "EXTRA CREDIT OFFERED", 
+                "Participation matters", 
+                "LOTS OF HOMEWORK"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "person"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "poor", 
+            "easyColor": "average", 
+            "helpColor": "poor", 
+            "helpCount": 0, 
+            "id": 23569002, 
+            "notHelpCount": 1, 
+            "onlineClass": "online", 
+            "quality": "poor", 
+            "rClarity": 1, 
+            "rClass": "SOC100", 
+            "rComments": "When asked questions he gives cryptic answers, or blatantly says he isn't going to answer yet. Sent out an email saying he will ignore questions that can be answered somewhere on the website. Some questions were for clarification so he was just being rude. Didn't even post the syllabus until 4 days into the class. Not looking forward to this class.", 
+            "rDate": "08/31/2014", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 1, 
+            "rInterest": "It's my life", 
+            "rOverall": 1, 
+            "rOverallString": "1.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "person", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "poor", 
+            "helpColor": "poor", 
+            "helpCount": 0, 
+            "id": 21544472, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 2, 
+            "rClass": "SOC226", 
+            "rComments": "This is honestly one of the WORST classes I've ever taken in my four years at Illinois. The most frustrating thing about this class is that Dan actually assigns very interesting readings, but he does absolutely NOTHING interesting with them. His class has no structure at all. I've fallen asleep every class. Don't do it!", 
+            "rDate": "04/16/2013", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 1, 
+            "rInterest": "Really into it", 
+            "rOverall": 1.5, 
+            "rOverallString": "1.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 21254796, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 4, 
+            "rClass": "SOC226", 
+            "rComments": "There are about 3-5 iclicker questions based on assigned readings every lecture. readings can be boring but questions are easy. no midterm, only 10page final paper, and optional take-home final if you want to replace your iclicker score. grade is based on your daily i-clicker question score, final paper, and attendance. nice guy and easy grading", 
+            "rDate": "01/14/2013", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 4, 
+            "rOverallString": "4.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "poor", 
+            "easyColor": "average", 
+            "helpColor": "poor", 
+            "helpCount": 0, 
+            "id": 21177944, 
+            "notHelpCount": 1, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 1, 
+            "rClass": "SOC226", 
+            "rComments": "No structure to this class at all. Only time class was interesting was when the class went off on a tangent into controversial topics.", 
+            "rDate": "12/28/2012", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 2, 
+            "rInterest": "Meh", 
+            "rOverall": 1.5, 
+            "rOverallString": "1.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "person", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "poor", 
+            "helpColor": "good", 
+            "helpCount": 2, 
+            "id": 20758229, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 4, 
+            "rClass": "SOC100", 
+            "rComments": "I took SOC 100 online in the summer and it was very easy! We had a discussion post due on Monday and then another on Wednesday; we had to reply to other posts as well, but it was very easy and interesting. We had a weekly quiz..a writing assignment due on Sunday that varied on amount.. & one assignment which was a group wiki on a film from his list", 
+            "rDate": "10/31/2012", 
+            "rEasy": 1, 
+            "rEasyString": "1.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "Really into it", 
+            "rOverall": 4.5, 
+            "rOverallString": "4.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}

@@ -1,0 +1,229 @@
+{
+    "ratings": [
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 2, 
+            "id": 24223700, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "MATH2250", 
+            "rComments": "This course is good for you and I will take his 2200 this semester!", 
+            "rDate": "01/04/2015", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "Yes", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [
+                "Inspirational", 
+                "Amazing lectures"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 6, 
+            "id": 24173320, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "MATH2250", 
+            "rComments": "Yiannis is a good teacher. You could learn a lot of knowledge from him. At the end of the semester, he gave us a formula sheet and that sheet was extremely helpful. He also gave us many advises for our future math classes (such as PDE's). He made comments about my final exam with detailed analysis. How responsible he is!  Will take his class again!", 
+            "rDate": "12/23/2014", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "It's my life", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "Yes", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [
+                "CARES ABOUT STUDENTS", 
+                "Amazing lectures"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "good", 
+            "easyColor": "good", 
+            "helpColor": "good", 
+            "helpCount": 8, 
+            "id": 23990117, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 4, 
+            "rClass": "MATH2250", 
+            "rComments": "He is a nice man and does well as a instructor however, his assignment sets were too big and the labs he assigned to us were very tough to work out. His test was not easy, as well. We can learn much knowledge from him but we really need him to change the grade policy (he says 93-100 is an A and 90-92 is a A-, etc.). The 80+ is an A is just good.", 
+            "rDate": "12/08/2014", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 4, 
+            "rOverallString": "4.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [
+                "Amazing lectures", 
+                "Tough Grader"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Not Mandatory", 
+            "clarityColor": "poor", 
+            "easyColor": "good", 
+            "helpColor": "average", 
+            "helpCount": 1, 
+            "id": 23764267, 
+            "notHelpCount": 4, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 1, 
+            "rClass": "MATH2250", 
+            "rComments": "This guy gives out too much homework. A lot of professors dont understand that students have more than one class a semester and work. The homework is just very long and the labs were ridiculously hard. Gives you labs that you dont understand and you dont really learn much from them. He is nice and can help you if you go talk to him.........", 
+            "rDate": "11/07/2014", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 3, 
+            "rInterest": "Low", 
+            "rOverall": 2, 
+            "rOverallString": "2.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "Not sure yet", 
+            "teacherRatingTags": [
+                "SO MANY PAPERS", 
+                "Tough Grader", 
+                "LOTS OF HOMEWORK"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "person"
+        }, 
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "good", 
+            "helpColor": "poor", 
+            "helpCount": 0, 
+            "id": 20566795, 
+            "notHelpCount": 6, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 2, 
+            "rClass": "MATH241", 
+            "rComments": "Ioannis is very passionate! He explains clearly. On the down side, he gives out mock exams pretty late, one or two days before the exam. His exam is hard for a summer session. Not an easy A for a summer session.", 
+            "rDate": "08/11/2012", 
+            "rEasy": 4, 
+            "rEasyString": "4.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 1, 
+            "rInterest": "Meh", 
+            "rOverall": 1.5, 
+            "rOverallString": "1.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "N/A", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}

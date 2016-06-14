@@ -1,0 +1,188 @@
+{
+    "ratings": [
+        {
+            "attendance": "N/A", 
+            "clarityColor": "poor", 
+            "easyColor": "good", 
+            "helpColor": "poor", 
+            "helpCount": 0, 
+            "id": 26051451, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 1, 
+            "rClass": "ECE330", 
+            "rComments": "All he did was read out his notes that were posted online anyways. Absolutely no reason to go to lectures.", 
+            "rDate": "02/12/2016", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 1, 
+            "rInterest": "Meh", 
+            "rOverall": 1, 
+            "rOverallString": "1.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [
+                "Get ready to read"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }, 
+        {
+            "attendance": "Not Mandatory", 
+            "clarityColor": "poor", 
+            "easyColor": "good", 
+            "helpColor": "poor", 
+            "helpCount": 1, 
+            "id": 25973124, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 1, 
+            "rClass": "ECE210", 
+            "rComments": "Worst engineering professor I've encountered. Doesn't seem like he's confident enough about the material he's teaching. As an old professor he's nice enough when treating students; but in terms of teaching he lacks basic clarity and organization in his presentation. Be prepared to teach yourself if you have to take his section.", 
+            "rDate": "01/20/2016", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 1, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 1, 
+            "rOverallString": "1.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "person"
+        }, 
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "poor", 
+            "easyColor": "good", 
+            "helpColor": "poor", 
+            "helpCount": 1, 
+            "id": 25822199, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 1, 
+            "rClass": "ECE210", 
+            "rComments": "This guy is the worst instructor I've ever had. All he did was read his poorly written notes, in such a quiet volume that you have to sit in the first 2 rows to hear him.. Even after the class asked him to write on the board instead, he ignored our request. I honestly don't know how he got a job here and I hope he never teaches another class.", 
+            "rDate": "12/25/2015", 
+            "rEasy": 5, 
+            "rEasyString": "5.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 1, 
+            "rInterest": "Meh", 
+            "rOverall": 1, 
+            "rOverallString": "1.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "D-", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "person"
+        }, 
+        {
+            "attendance": "Not Mandatory", 
+            "clarityColor": "poor", 
+            "easyColor": "good", 
+            "helpColor": "poor", 
+            "helpCount": 1, 
+            "id": 25661845, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 1, 
+            "rClass": "ECE210", 
+            "rComments": "Professor Fliflet is a nice guy and he always tried his best to help when I would ask him questions or go to office hours, but if you want to succeed in ECE 210 I highly recommend taking another lecturer that has more experience teaching as I ended up having to teach myself the majority of the material after the first midterm.", 
+            "rDate": "12/12/2015", 
+            "rEasy": 4, 
+            "rEasyString": "4.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 2, 
+            "rInterest": "Low", 
+            "rOverall": 1.5, 
+            "rOverallString": "1.5", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "N/A", 
+            "teacherRatingTags": [
+                "LECTURE HEAVY"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "person"
+        }
+    ], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}{
+    "ratings": [], 
+    "remaining": 0
+}
