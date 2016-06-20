@@ -1,5 +1,6 @@
-from flask import Blueprint, render_template, jsonify
+from flask import Blueprint, render_template, jsonify, request
 from . import home
+from app import db, models
 
 @home.route('/')
 @home.route("/index")
@@ -22,6 +23,9 @@ def index():
 def about():
     pass
 
-@home.route("/autocomplete")
+@home.route("/autocomplete", methods=['GET'])
 def autocomplete():
-    pass
+    search = request.args.get('q')
+    query = db.session.query(models.searchtest.name).filter(models.searchtest.name.like('%' + str(search) + '%'))
+    results = [mv[0] for mv in query.all()]
+    return jsonify(matching_results=results)

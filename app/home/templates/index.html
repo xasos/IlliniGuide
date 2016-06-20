@@ -1,4 +1,4 @@
-<!doctype html>
+<!-- <!doctype html>
 <html lang="en">
   <head>
     <title>IlliniGuide - Search for professors and classes at UIUC!</title>
@@ -73,5 +73,37 @@
       </div>
 
   </body>
-<!-- <footer><p>About * Contact</p></footer> -->
-</html>
+<!-- <footer><p>About * Contact</p></footer>
+</html> -->
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <link href="//code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" rel="Stylesheet"></link>
+    <script src="//code.jquery.com/jquery-2.2.0.min.js"></script>
+    <script src="//code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            $("#autocomplete").autocomplete({
+                source: function(request, response) {
+                    $.getJSON("/autocomplete", {
+                        q: request.term, // in flask, "q" will be the argument to look for using request.args
+                    }, function(data) {
+                        response(data.matching_results); // matching_results from jsonify
+                    });
+                },
+                minLength: 2,
+                select: function(event, ui) {
+                    console.log(ui.item.value); // not in your question, but might help later
+                }
+            });
+        })
+    </script>
+    <title>Welcome to IlliniGuide</title>
+</head>
+<body>
+    <div>
+        <input name="autocomplete" type="text" id="autocomplete" class="form-control input-lg" />
+    </div>
+</body>
