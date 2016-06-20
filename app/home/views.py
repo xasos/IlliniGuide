@@ -1,31 +1,27 @@
 from flask import Blueprint, render_template, jsonify
+from . import home
 
-mod = Blueprint('home', __name__)
-
-@mod.route('/')
-@mod.route("/index")
+@home.route('/')
+@home.route("/index")
 def index():
     return render_template("index.html")
 
-#@mod.route('/login')
+#@home.route('/login')
 #def login():
 #    pass
 #
-#@mod.route("/logout")
+#@home.route("/logout")
 #def logout():
 #    pass
 #
-#@mod.route("/signup")
+#@home.route("/signup")
 #def signup():
 #    pass
 
-@mod.route("/about")
+@home.route("/about")
 def about():
     pass
 
-@mod.route("/autocomplete")
+@home.route("/autocomplete")
 def autocomplete():
-    search = request.args.get('q')
-    query = db_session.query(Movie.title).filter(Movie.title.like('%' + str(search) + '%'))
-    results = [mv[0] for mv in query.all()]
-    return jsonify(matching_results=results)
+    pass
