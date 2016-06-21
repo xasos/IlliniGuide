@@ -9,6 +9,9 @@ db = SQLAlchemy(app)
 
 from .home import home
 from .professor import prof
+#from .classes import classes
+from .dept import dept
 
 app.register_blueprint(home)
 app.register_blueprint(prof)
+app.register_blueprint(dept)
