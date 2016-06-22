@@ -22,7 +22,7 @@ def index():
 
 @home.route("/about")
 def about():
-    pass
+    return render_template("about.html")
 
 @home.route("/autocomplete", methods=['GET'])
 def autocomplete():
