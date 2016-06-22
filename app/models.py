@@ -1,20 +1,20 @@
 from app import db
 
-class searchtest(db.Model):
-    __table__ = db.Model.metadata.tables['searchtest']
-    #id = db.Column(db.Integer, primary_key=True)
-    #name = db.Column(db.String(80), unique=True)
-    #role = db.Column(db.String(80), unique=False)
-
-    def __init__(self, name, role):
-        self.name = name
-        self.role = role
-
-class tester(db.Model):
-    __table__ = db.Model.metadata.tables['tester']
-
-    def __repr__(self):
-        return self.DISTRICT
+#class searchtest(db.Model):
+#    __table__ = db.Model.metadata.tables['searchtest']
+#    #id = db.Column(db.Integer, primary_key=True)
+#    #name = db.Column(db.String(80), unique=True)
+#    #role = db.Column(db.String(80), unique=False)
+#
+#    def __init__(self, name, role):
+#        self.name = name
+#        self.role = role
+#
+#class tester(db.Model):
+#    __table__ = db.Model.metadata.tables['tester']
+#
+#    def __repr__(self):
+#        return self.DISTRICT
 
 
 #class User(db.Model):
