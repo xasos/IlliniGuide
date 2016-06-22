@@ -11,15 +11,26 @@
                       $.getJSON("{{ url_for('home.autocomplete') }}", {
                           q: request.term,
                       }, function(data) {
-                          response(data.matching_results);
+                          response(data.matching_results.slice(0, 10));
                       });
                   },
                   minLength: 2,
+                  autoFocus: true,
                   select: function(event, ui) {
                       window.location.href = "/search/"+ui.item.value;
                   }
               });
           })
+      </script>
+      <script>
+          $("#autocomplete").keydown(function(event){
+              if(event.keyCode == 13) {
+                  if($("#autocomplete").val().length==0) {
+                      event.preventDefault();
+                      return false;
+                  }
+              }
+          });
       </script>
       <title>Welcome to IlliniGuide</title>
   </head>

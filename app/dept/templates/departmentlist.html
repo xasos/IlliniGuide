@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h3> List of Offered Classes </h3>
+<ul>
+    {% for x in classes %}
+        <li> {{ x.name0 }} - {{ x.name1 }}</li>
+    {% endfor %}
+</ul>
+
+{% endblock %}
