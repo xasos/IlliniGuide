@@ -76,9 +76,8 @@
 <!-- <footer><p>About * Contact</p></footer>
 </html> -->
 
-<!doctype html>
+<!--<!doctype html>
 <html lang="en">
-
 <head>
     <link href="//code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" rel="Stylesheet"></link>
     <script src="//code.jquery.com/jquery-2.2.0.min.js"></script>
@@ -88,22 +87,25 @@
             $("#autocomplete").autocomplete({
                 source: function(request, response) {
                     $.getJSON("/autocomplete", {
-                        q: request.term, // in flask, "q" will be the argument to look for using request.args
+                        q: request.term,
                     }, function(data) {
-                        response(data.matching_results); // matching_results from jsonify
+                        response(data.matching_results);
                     });
                 },
                 minLength: 2,
                 select: function(event, ui) {
-                    window.location.href = "/search/"+ui.item.value; // not in your question, but might help later
+                    window.location.href = "/search/"+ui.item.value;
                 }
             });
         })
     </script>
     <title>Welcome to IlliniGuide</title>
-</head>
-<body>
+</head>-->
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Search Here!</h1>
     <div>
-        <input name="autocomplete" type="text" id="autocomplete" class="form-control input-lg" placeholder="Enter a class, department, or professor..."/>
+        <input style="width: 400px" name="autocomplete" type="text" id="autocomplete" class="form-control input-lg" placeholder="Enter a class, department, or professor..."/>
     </div>
-</body>
+{% endblock %}

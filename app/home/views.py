@@ -27,7 +27,7 @@ def about():
 @home.route("/autocomplete", methods=['GET'])
 def autocomplete():
     search = request.args.get('q')
-    query = db.session.query(models.searchtest.name).filter(models.searchtest.name.like('%' + str(search) + '%'))
+    query = db.session.query(models.searchtest.name).filter(models.searchtest.name.ilike('%' + str(search) + '%'))
     results = [mv[0] for mv in query.all()]
     return jsonify(matching_results=results)
 

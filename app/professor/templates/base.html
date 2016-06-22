@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+  <head>
+      <link href="//code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" rel="Stylesheet"></link>
+      <script src="//code.jquery.com/jquery-2.2.0.min.js"></script>
+      <script src="//code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+      <script type="text/javascript">
+          $(function() {
+              $("#autocomplete").autocomplete({
+                  source: function(request, response) {
+                      $.getJSON("{{ url_for('home.autocomplete') }}", {
+                          q: request.term,
+                      }, function(data) {
+                          response(data.matching_results);
+                      });
+                  },
+                  minLength: 2,
+                  select: function(event, ui) {
+                      window.location.href = "/search/"+ui.item.value;
+                  }
+              });
+          })
+      </script>
+      <title>Welcome to IlliniGuide</title>
+  </head>
+  </head>
+  <body>
+    <div>IlliniGuide:
+        <a href="{{ url_for('home.index') }}">Home</a>
+        | <a href="{{ url_for('home.about') }}">About</a>
+    </div>
+    {% block content %}{% endblock %}
+  </body>
+</html>
