@@ -1,0 +1,41 @@
+{
+    "ratings": [
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 25912480, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "good", 
+            "rClarity": 4, 
+            "rClass": "RHET105", 
+            "rComments": "Carl is a really cool guy. Maybe it's just me but it's the class that is boring, and not him. He tries to prolong the class by putting the students into the occasional debate and talking deeply about the hmwrk. The room is occupied by students reluctantly coming to class for 4 credits they have to get because they screwed the SATs up. Do HW early.", 
+            "rDate": "01/10/2016", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Low", 
+            "rOverall": 4, 
+            "rOverallString": "4.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "C", 
+            "teacherRatingTags": [
+                "Tough Grader", 
+                "LOTS OF HOMEWORK", 
+                "Gives good feedback"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}

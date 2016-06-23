@@ -3,8 +3,8 @@
 {% block content %}
 <h3> List of Offered Classes </h3>
 <ul>
-    {% for x in classes %}
-        <li> {{ x.name0 }} - {{ x.name1 }}</li>
+    {% for x in links_classes %}
+        <li><a href="{{ x[2] }}"> {{ x[0] }} - {{ x[1] }}</a></li>
     {% endfor %}
 </ul>
 

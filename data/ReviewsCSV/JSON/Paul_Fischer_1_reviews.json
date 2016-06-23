@@ -1,0 +1,39 @@
+{
+    "ratings": [
+        {
+            "attendance": "Not Mandatory", 
+            "clarityColor": "average", 
+            "easyColor": "average", 
+            "helpColor": "average", 
+            "helpCount": 1, 
+            "id": 25984507, 
+            "notHelpCount": 1, 
+            "onlineClass": "", 
+            "quality": "average", 
+            "rClarity": 2, 
+            "rClass": "CS450", 
+            "rComments": "He is a very smart and knowledgeable  professor. During the lecture, he often extends the material beyond the textbook. However, it seems that he is not very good at conveying. It's very likely to get confused during his lecture and you really need to spend time home to get understand.  But anyway, the exams are quite easy.", 
+            "rDate": "01/23/2016", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Sorta interested", 
+            "rOverall": 3, 
+            "rOverallString": "3.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A+", 
+            "teacherRatingTags": [
+                "LOTS OF HOMEWORK"
+            ], 
+            "unUsefulGrouping": "person", 
+            "usefulGrouping": "person"
+        }
+    ], 
+    "remaining": 0
+}

@@ -1,0 +1,41 @@
+{
+    "ratings": [
+        {
+            "attendance": "N/A", 
+            "clarityColor": "average", 
+            "easyColor": "average", 
+            "helpColor": "average", 
+            "helpCount": 0, 
+            "id": 26590617, 
+            "notHelpCount": 0, 
+            "onlineClass": "online", 
+            "quality": "average", 
+            "rClarity": 2, 
+            "rClass": "LER100", 
+            "rComments": "She has a passion for unions. She even wrote the book. Beware that having a pro-unionized labor point of view will grant you better grades. Many discussion board posts with necessary readings. I just read the lectures and hoped for the best. Class is boring but I learned a lot. You need to put in some effort but an A is possible. Take it online.", 
+            "rDate": "05/16/2016", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "N/A", 
+            "rOverall": 3, 
+            "rOverallString": "3.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A", 
+            "teacherRatingTags": [
+                "Gives good feedback", 
+                "Get ready to read", 
+                "Participation matters"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}

@@ -1,0 +1,37 @@
+{
+    "ratings": [
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 22619040, 
+            "notHelpCount": 0, 
+            "onlineClass": "online", 
+            "quality": "good", 
+            "rClarity": 5, 
+            "rClass": "CHLH243", 
+            "rComments": "You absolutely need the book for this online class.  Every question from quizzes and exams comes straight from the textbook.  Therefore, it is not really hard if you religiously use the textbook.", 
+            "rDate": "12/19/2013", 
+            "rEasy": 2, 
+            "rEasyString": "2.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 5, 
+            "rInterest": "Really into it", 
+            "rOverall": 5, 
+            "rOverallString": "5.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}

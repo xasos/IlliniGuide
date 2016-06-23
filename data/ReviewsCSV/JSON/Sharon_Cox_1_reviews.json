@@ -1,0 +1,41 @@
+{
+    "ratings": [
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "poor", 
+            "easyColor": "good", 
+            "helpColor": "poor", 
+            "helpCount": 0, 
+            "id": 26653966, 
+            "notHelpCount": 0, 
+            "onlineClass": "", 
+            "quality": "poor", 
+            "rClarity": 1, 
+            "rClass": "ACCY451", 
+            "rComments": "Awful teacher. Disorganized, clueless, lazy, rude, a liar, oblivious, and harsh all rolled into one professor. The worst teacher I have had by far at the U of I. Didn't follow syllabus at all. Didn't answer emails then made up fake excuses.  Assigned a huge project the week before finals. Barely knew the material herself. Graded ridiculously harsh.", 
+            "rDate": "05/26/2016", 
+            "rEasy": 4, 
+            "rEasyString": "4.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 1, 
+            "rInterest": "N/A", 
+            "rOverall": 1, 
+            "rOverallString": "1.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "Yes", 
+            "rWouldTakeAgain": "No", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A-", 
+            "teacherRatingTags": [
+                "TEST HEAVY", 
+                "GRADED BY FEW THINGS", 
+                "Tough Grader"
+            ], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}

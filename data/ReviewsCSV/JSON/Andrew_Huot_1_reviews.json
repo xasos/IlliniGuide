@@ -1,0 +1,37 @@
+{
+    "ratings": [
+        {
+            "attendance": "Mandatory", 
+            "clarityColor": "good", 
+            "easyColor": "average", 
+            "helpColor": "good", 
+            "helpCount": 0, 
+            "id": 23556983, 
+            "notHelpCount": 0, 
+            "onlineClass": "online", 
+            "quality": "good", 
+            "rClarity": 4, 
+            "rClass": "LIS590BBL", 
+            "rComments": "I really enjoyed this class. The instructor had very good demos and was really clear about what he wanted. A fair grader. He wasn't a ball of fire and had a bit of a monotone voice, so the class wasn't as engaged as it could have been. Also, it would have been better if it was offered on-campus due to the hands-on subject matter.", 
+            "rDate": "08/25/2014", 
+            "rEasy": 3, 
+            "rEasyString": "3.0", 
+            "rErrorMsg": null, 
+            "rHelpful": 4, 
+            "rInterest": "Really into it", 
+            "rOverall": 4, 
+            "rOverallString": "4.0", 
+            "rStatus": 1, 
+            "rTextBookUse": "No", 
+            "rWouldTakeAgain": "N/A", 
+            "sId": 1112, 
+            "takenForCredit": "Yes", 
+            "teacher": null, 
+            "teacherGrade": "A", 
+            "teacherRatingTags": [], 
+            "unUsefulGrouping": "people", 
+            "usefulGrouping": "people"
+        }
+    ], 
+    "remaining": 0
+}

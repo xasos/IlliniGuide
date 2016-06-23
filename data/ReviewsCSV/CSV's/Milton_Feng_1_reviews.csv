@@ -1,0 +1,4 @@
+attendance,clarityColor,easyColor,helpColor,helpCount,id,notHelpCount,onlineClass,quality,rClarity,rClass,rComments,rDate,rEasy,rEasyString,rErrorMsg,rHelpful,rInterest,rOverall,rOverallString,rStatus,rTextBookUse,rWouldTakeAgain,sId,takenForCredit,teacher,teacherGrade,teacherRatingTags,unUsefulGrouping,usefulGrouping
+Not Mandatory,average,average,poor,1,23322909,0,,poor,2,ECE447,Full of jokes,05/28/2014,3,3.0,,1,It's my life,1.5,1.5,1,Yes,N/A,1112,N/A,,N/A,,people,person
+Mandatory,average,poor,average,3,22159693,0,,poor,2,ECE340,read the book 4 times,10/06/2013,1,1.0,,2,Low,2,2.0,1,Yes,N/A,1112,N/A,,A+,,people,people
+N/A,poor,poor,poor,0,21342609,1,,poor,1,340D,"The course is useless, the lecturer spoke too many irrelevant materials to distract the learning direction",02/14/2013,1,1.0,,1,Meh,1,1.0,1,Yes,N/A,1112,N/A,,N/A,,person,people
