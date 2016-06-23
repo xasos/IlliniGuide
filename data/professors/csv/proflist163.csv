@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Communication,Samuel,Wilson,R,1,1112,2103533
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Mathematics,Partha,Dey,Sarathi,1,1112,2111247
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Political Science,Matthew,Cawvey,,1,1112,2111579
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Physics,Thomas,Faulkner,,1,1112,2113235
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Civil Engineering,Cassandra,Rutherford,,1,1112,2140712
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Communication,Mary,McGrath,,1,1112,2142865
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Bob,Steltman,,1,1112,147967
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,German,Marianne,Kalinke,,1,1112,484400
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Physics,Matt,Pasienski,,1,1112,627574
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Languages,Mary,Deguire,,1,1112,644892
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Agriculture,David,Seigler,,1,1112,685500
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Accounting,Jack,Krogstad,,1,1112,688900
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Biology,Carl,Woese,,1,1112,709057
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Political Science,Jim,Nowlan,,1,1112,744222
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Biology,David,Ruta,,1,1112,745040
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Paul,Davidson,,1,1112,749702
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Languages,Katya,Dunatov,,1,1112,753944
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Journalism,Melissa,Mares,,1,1112,760543
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Communication,Andy,Swarbrick,,1,1112,769736
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Communication,Ian,Hill,,1,1112,770285

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Computer Science,Elsa,Gunter,,14,1112,986195
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Mathematics,Maria,Sabitova,,14,1112,1055319
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Speech & Hearing Sciences,Jennifer,Cravens,,14,1112,1182687
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Political Science,Brian,Gaines,,14,1112,90909
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Mathematics,Timur,Oikhberg,,14,1112,1383643
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Earth Science,Jonathan,Tomkin,,14,1112,1445309
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,History,Poshek,Fu,,14,1112,263113
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Journalism,Eric,Meyer,,14,1112,208639
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Chemistry,Scott,Silverman,,14,1112,125761
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Engineering,Sanjay,Patel,,14,1112,182105
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Anthropology,Paul,Garber,,14,1112,476574
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Religion,Nathan,Raybeck,,14,1112,1469072
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Economics,Rui,Zhao,,14,1112,484301
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Anthropology,John,Polk,,14,1112,323568
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Mathematics,Scott,Tichenor,,14,1112,949164
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Ethnic Studies,Junaid,Rana,,14,1112,624675
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Computer Science,Sarita,Adve,,14,1112,119673
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Engineering,Michael,Loui,,14,1112,832793
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Mathematics,Bruce,Berndt,,14,1112,443582
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Computer Science,Anna,Yershova,,14,1112,1668514

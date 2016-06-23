@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Education,Rochelle,Gutierrez,,2,1112,1211409
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Music,Glenn,Wilson,,2,1112,1231609
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Spanish,Beth,Chasco,,2,1112,1234900
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Accounting,Eugene,Imhoff,,2,1112,1261521
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Music,Chen,Yao,,2,1112,1380764
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Chemistry,Andrzej,Wieckowski,,2,1112,1550669
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Kinesiology,Dorine,Brand,,2,1112,1628266
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Chemistry,John,Shapley,,2,1112,1633568
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Electrical  Comp. Engineering,Yuliy,Barishnikov,,2,1112,1923073
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Anthropology,Korinta,Maldonado,,2,1112,2097471
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.3,poor,Computer Science,Martin,Hellwig,,2,1112,2134505
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Engineering,Scott,White,,2,1112,134078
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Political Science,Scott,Wallace,,2,1112,444037
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Biology,H,Gaskins,,2,1112,709054
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,English,Benjamin,Cheng,,2,1112,818034
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Chemistry,Zaida,Luthey Schulten,,2,1112,873060
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Chemistry,Ralph,Nuzzo,,2,1112,1028362
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Agriculture,Dean,Riechers,,2,1112,1098297
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,English,Dan,Tracy,,2,1112,1226503
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Linguistics,David,Schueler,,2,1112,1236453

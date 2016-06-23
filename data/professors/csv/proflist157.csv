@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Business,Erin,HA,Younhee,1,1112,1755495
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Linda,Larsen,,1,1112,1787021
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Earth Science,Michael,Dietze,,1,1112,1799884
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Linguistics,Peter,Lasersohn,N,1,1112,1808061
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Biology,John,Crawford,W,1,1112,1812285
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Chemistry,Edmund,Seebauer,G,1,1112,1828475
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Art & Design,Katie,Meaney,,1,1112,1846361
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Information Science,Andrew,Huot,,1,1112,1861131
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Information Science,David,Mussulman,,1,1112,1861150
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Information Science,John,Weible,,1,1112,1861164
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Social Work,Kate,Wegmann,,1,1112,1951008
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Bioengineering,Gregory,Underhill,,1,1112,1969629
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Biology,Raymond,Zielinski,,1,1112,1977955
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Psychology,Michael,Kruepke,,1,1112,1978918
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Urban  Regional Planning,Dustin,Allred,,1,1112,1980818
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Carl,Thompson,,1,1112,2069453
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Political Science,Paul,Testa,,1,1112,2070038
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Civil Engineering,Somashekar,Viswanath,,1,1112,2087780
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Psychology,Shereen,Beilstein,,1,1112,2092657
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Psychology,Maria,Robinson,,1,1112,2102954

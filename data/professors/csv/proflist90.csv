@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Computer Science,Ranjitha,Kumar,,4,1112,2013577
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Chemistry,Tom,Trumpinski,,4,1112,377404
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,Michael,Rothberg,,4,1112,602382
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Mathematics,Iana,Anguelova,,4,1112,659811
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Biology,Kevin,Dixon,,4,1112,832836
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,Bethany,Cooper,,4,1112,876577
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Materials Engineering,Jian-Ku,Shang,,4,1112,949788
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,African-American Studies,Rory,James,,4,1112,1591273
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Biochem. & Molecular Biology,David,Sherwood,,4,1112,1639112
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Architecture,Michael,Andrejasich,,4,1112,777306
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Liberal Arts & Sciences,Christine,Jenkins,,4,1112,846602
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Engineering,Dilip,Sarwate,,4,1112,1109126
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Psychology,Jason,McCarley,,4,1112,1184458
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,English,Stephanie,Brabant,,4,1112,1283106
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Engineering,Brian,Woodard,,4,1112,1341265
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Philosophy,Tyler,Fagan,,4,1112,1371206
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Sociology,Margaret. S,Kelley,,4,1112,1408741
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Mathematics,Derek,Robinson,,4,1112,1536314
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Communication,Sylvia,Ogilvie,,4,1112,1575927
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Civil Engineering,Imad,Al-Qadi,,4,1112,1750155

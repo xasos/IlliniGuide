@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Chemistry,Laura,Palmiero,,7,1112,714163
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,English,Gwen,Rudy,,7,1112,801860
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Community Health Sciences,Lejla,Delic,,7,1112,940885
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Mathematics,John,MacKay,,7,1112,1169745
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Agriculture,Patricia,Stoller,,7,1112,1398600
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Agriculture,Martin,Bohn,,7,1112,747722
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,English,U. Milo,Kaufmann,,7,1112,1081254
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Women's Studies,Sarah,Projansky,,7,1112,1373561
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Communication,Amelia,Delaney,,7,1112,1627295
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,David,Anderson,,7,1112,158028
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Architecture,Robert,Ousterhout,,7,1112,530383
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Engineering,Naresh,Shanbhag,,7,1112,567269
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,History,Augusto,Espiritu,,7,1112,1509883
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Music,William,Heiles,,7,1112,395707
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Science,Susan,Root,,7,1112,538281
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Accounting,Hong,Xie,,7,1112,796985
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Animal Science,Brian,Diers,,7,1112,857049
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Animal Biology,Rebecca,Fuller,,7,1112,994477
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Spanish,Silvana,Montrul,,7,1112,1277271
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Languages,Cori,Crane,,7,1112,425249

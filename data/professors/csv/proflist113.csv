@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Languages,Makoto,Hayashi,,3,1112,325448
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Political Science,Dina,Zinnes,,3,1112,395107
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Film,Frances,Gateward,,3,1112,423140
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Engineering,Weng Cho,Chew,,3,1112,587188
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Agriculture,Matthew,Hudson,,3,1112,774000
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Political Science,Kasey,Umland,,3,1112,788591
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Foreign Languages,Lilya,Kaganovsky,,3,1112,851108
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Mathematics,Noah,Prince,,3,1112,852345
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Economics,Adam,Stevenson,,3,1112,879235
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Chemistry,Seth,Marquard,,3,1112,885278
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Chemistry,Sergio,Sanchez,,3,1112,896329
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Social Work,Tonya,Manselle,,3,1112,1029705
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Accounting,Rachel,Schwartz,,3,1112,1088539
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,History,Emily,Skidmore,,3,1112,1138629
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,German,Anna,Stenport,,3,1112,1235002
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Katie,Walkiewicz,,3,1112,1280087
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Cinema,Billy,Vermillion,,3,1112,1288931
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Journalism,John,Paul,,3,1112,1292282
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,History,Sandra,Henderson,,3,1112,1394427
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Anthropology,Kari,Zobler,,3,1112,1538319

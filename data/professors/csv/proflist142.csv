@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Mathematics,Konstantinos,Schoretsanitis,,1,1112,448553
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Health Science,Linda,Bauer,,1,1112,641967
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Chemistry,Stanley,Smith,,1,1112,685502
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Philosophy,Michael T.,Roth,,1,1112,688084
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Architecture,Pani,Pyla,,1,1112,707720
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Women's Studies,Yohan,Park,,1,1112,756437
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,History,Jason,Tebbe,,1,1112,788761
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Environmental Studies,Robert,Hudson,,1,1112,807616
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Kinesiology,Gerald,Bell,,1,1112,842159
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Community Health Sciences,Paul,Lucas,,1,1112,879305
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,English,Nicole,Martinez,,1,1112,881319
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Mathematics,Sonja,Stimac,,1,1112,907395
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Psychology,Wendy,Heller,,1,1112,908673
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Business,Susan I.,Cohen,,1,1112,937830
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Marketing,Avijit,Ghosh,,1,1112,955751
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Chemistry,Davis,Oldham,,1,1112,962461
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Kinesiology,Les,Carlton,,1,1112,1031925
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Community Health Sciences,Caitlain,Sionean,,1,1112,1064423
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Engineering,Jiming,Peng,,1,1112,1066362
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Engineering,C,Zhou,,1,1112,1091477

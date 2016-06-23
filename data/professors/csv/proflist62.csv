@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Accounting,Asante Appiah,Bright,,6,1112,1783196
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Classics,William,Calder,,6,1112,401675
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Political Science,Nathaniel,Swigger,,6,1112,589762
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Speech & Hearing Sciences,Artice,Weston,,6,1112,1519005
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Engineering,Feniosky,Pena,,6,1112,491530
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Engineering,Rizwan,Uddin,,6,1112,1149037
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Kinesiology,Robert,Motl,,6,1112,1706846
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Animal Science,Megan,Dailey,,6,1112,1968059
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Graphic Arts,Jimmy,Luu,,6,1112,1121584
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Environmental Studies,Michael,Ward,,6,1112,1476318
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Biochem. & Molecular Biology,David,Rivier,,6,1112,1717696
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Media  Cinema Studies,Diana,Jaher,,6,1112,1960639
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,English,John,Labella,,6,1112,1765906
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Kinesiology,Ken,Wilund,,6,1112,945840
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Agriculture,John,Braden,,6,1112,1053695
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Geography,Kristina,Medina,,6,1112,1186532
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Asian Studies,Jessica,Birkenholtz,V,6,1112,1892260
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Chemistry,Chad,Rienstra,,6,1112,572831
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Physics,Jen-Chieh,Peng,,6,1112,759630
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Fine Arts,Melissa,Pokorny,,6,1112,848402

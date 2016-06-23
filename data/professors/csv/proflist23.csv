@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Philosophy,Jonathan,Waskan,,15,1112,926382
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Accounting,Xiaoling,Chen,,15,1112,881168
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,History,Rayvon,Fouche,,15,1112,985551
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Political Science,Jonathon,Allen,,15,1112,124046
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Leisure Studies,Cynthia,Wachter,,15,1112,933911
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Political Science,Scott,Althaus,,15,1112,91161
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Sociology,Francisco,Vivoni,,15,1112,1565708
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,English,Dennis,Dullea,,15,1112,274393
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Political Science,Zachary,Elkins,,15,1112,93643
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Economics,Kathy,Baylis,,15,1112,244813
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Psychology,Justin,Rhodes,,15,1112,829930
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Civil Engineering,John,Popovics,,15,1112,1055695
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Spanish,Melissa,Bowles,,15,1112,1181092
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Biology,Darin,Eastburn,,15,1112,577854
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Accounting,Mike,Sandretto,,15,1112,438488
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Education,Erin,Castro,,15,1112,1433787
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,English,Thierry,Ramais,,15,1112,1209102
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Business,Anupam,Agrawal,,15,1112,1287970
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Political Science,Matthew,Winters,,15,1112,1538003
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Mary Rose,Cottingham,,15,1112,1506646

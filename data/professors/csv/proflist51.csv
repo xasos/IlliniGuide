@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Mathematics,Philipp,Hieronymi,,8,1112,1708382
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Animal Science,Sarah,Albert,,8,1112,1826356
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Speech & Hearing Sciences,David,Quinto-Pozos,,8,1112,836198
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Ethnic Studies,Julie,Dowling,,8,1112,892361
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Astronomy,Brian,Wilhite,,8,1112,904294
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Communication,Natalie,White,,8,1112,1539212
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Information Science,Jeanne,Puacz,,8,1112,1576048
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Chemistry,Michael,Evans,,8,1112,1617201
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Education,Linda,Herrera,,8,1112,1658950
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Physics,Richard,Weaver,,8,1112,1709396
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Social Work,Sandy,Kopels,,8,1112,608477
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Education,Bonnie,Armbruster,,8,1112,845281
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Italian,Laura,Hill,,8,1112,1371891
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Mathematics,Martin,Frankland,,8,1112,1598047
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Sociology,Monica,McDermott,,8,1112,1807596
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Languages,Ann,Abbott,,8,1112,396520
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Elizabeth,Zeman,,8,1112,707727
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Art History,David,Hays,,8,1112,786822
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.1,poor,English,Rebecca,McCloud,,7,1112,1873253
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.1,poor,Computer Science,José,Meseguer,,7,1112,1880712

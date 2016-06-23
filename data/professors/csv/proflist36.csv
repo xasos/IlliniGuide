@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.1,poor,Engineering,Tom,Conry,,10,1112,163882
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.1,poor,Engineering,Glaucio,Paulino,,10,1112,594002
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,English,Ashley,Emmert,,10,1112,1809570
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Mathematics,Mohammad,Zaki,,10,1112,449317
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Biochem. & Molecular Biology,Mary,Schuler,,10,1112,971209
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Computer Science,Maria,Garzaran,,10,1112,1349302
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Ethnic Studies,Isabel,Molina,,10,1112,1140530
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Music,Elliot,Chasanov,,10,1112,123055
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Psychology,Ida,Salusky,,10,1112,1424805
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Mechanical Engineering,John,Georgiadis,,10,1112,1653067
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Mathematics,Jang-Mei,WU,,10,1112,1316497
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Agriculture,Donald,Bullock,,10,1112,1657559
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Political Science,Joseph,Miller,,10,1112,304974
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Business,Sonali,Shah,,10,1112,640042
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Chemistry,Phil,Janowicz,,10,1112,1261183
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Animal Science,Amy,Fischer,,10,1112,1263334
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Astronomy,Edward,Sutton,,10,1112,1172273
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Mechanical Engineering,Tonghun,Lee,,10,1112,1901574
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Philosophy,Helga,Varden,,10,1112,1054530
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Psychology,Lisa,Travis,,10,1112,819303

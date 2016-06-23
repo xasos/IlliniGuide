@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Economics,Makoto,Nakajima,,5,1112,916634
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Speech Communication,Michael,Parris,,5,1112,937623
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Agriculture,Bryan,Endres,,5,1112,975986
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Computer Science,Luke,Olson,,5,1112,1185349
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Physics,Jim,Wiss,,5,1112,1525694
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Materials Engineering,Kristopher,Kilian,,5,1112,1708393
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Communication,Andrew,Weaver,,5,1112,503036
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,John,Frayne,,5,1112,551112
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Languages,Dara,Goldman,,5,1112,602372
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Philosophy,Aaron,Harper,,5,1112,791611
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Geography,Erinn P.,Nicley,,5,1112,1167878
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Writing,Alexandra,Cavallaro,,5,1112,1209913
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Chemistry,Lindsay,Sperling,,5,1112,1317396
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Mathematics,Kay,Kirkpatrick,,5,1112,1665899
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Psychology,Lilyana,Ortega,,5,1112,1665914
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Philosophy,Jonathan,Livengood,,5,1112,1787156
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Physics,Thomas,Kuhlman,E,5,1112,1850158
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Languages,Anna,Chiarenza,,5,1112,308540
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Communication,John,Nerone,,5,1112,749260
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Languages,Kanako,Ide,,5,1112,753403

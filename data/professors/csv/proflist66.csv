@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Languages,Yore,Kedem,,6,1112,1044949
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,Ryan,Sheets,,6,1112,1363951
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Mechanical Engineering,Harley,Johnson,,6,1112,1425998
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Communication,John,Lammers,,6,1112,1721066
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Liberal Arts & Sciences,Theo,Malekin,,6,1112,1899416
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Engineering,Harry,Wildblood,S,6,1112,1435952
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Social Work,Linda ,Kingery ,,6,1112,1941277
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Mathematics,Graham,Evans,,6,1112,147788
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Architecture,James,Warfield,,6,1112,671883
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Aviation,Don,Talleur,,6,1112,808016
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Accounting,Thomas,Sternburg,,6,1112,927772
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Speech & Hearing Sciences,Laura,Dethorne,,6,1112,964532
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,English,Spencer,Snow,,6,1112,1209194
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Architecture,Alice,Novak,,6,1112,134105
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Accounting,David,Piercey,,6,1112,306507
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Siobhan,Somerville,,6,1112,602374
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Philosophy,Ingrid,Albrecht,,6,1112,1140624
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Biology,Karen,Sears,,6,1112,1619471
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Not Specified,Miranda,Terry,,6,1112,1635249
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Accounting,Justin,Leiby,,6,1112,1660315

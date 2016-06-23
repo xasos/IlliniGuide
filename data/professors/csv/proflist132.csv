@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Fine Arts,Nathan,Keay,,2,1112,735003
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Finance,Ani,Mitra,,2,1112,772898
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Accounting,Nancy,Desmond,,2,1112,784731
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Design,Mark,Arends,,2,1112,784741
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Jenica,Roberts,,2,1112,820967
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Johnathan,Vincent,,2,1112,865328
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Chemistry,Richard,Mulvaney,,2,1112,949478
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Architecture,Charles,Reifsteck,,2,1112,1042455
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Physics,Gordon,Baym,,2,1112,1073971
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Writing,Brian,Keyes,,2,1112,1080092
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Music,Kari,Besharse,,2,1112,1169543
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Philosophy,Daniel,Estrada,,2,1112,1213274
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,German,Sarah,Hennebohl,,2,1112,1220558
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,"Recreation, Parks, & Tourism",Jackie,McDowell,,2,1112,1225057
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Foreign Languages,Janire,Cascajar,,2,1112,1233661
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,French,Anna,Philipponneau,,2,1112,1245620
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Communication,Jennifer,Romine,,2,1112,1270716
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Chemistry,Paul,Hergenrother,,2,1112,1273472
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Human & Community Development,Patrick,Sullivan,,2,1112,1405001
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Brian,Wilkie,,2,1112,1469019

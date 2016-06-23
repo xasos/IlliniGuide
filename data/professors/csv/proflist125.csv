@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Computer Science,Michael,Heath,,2,1112,1248031
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Urban & Regional Planning,Sang,Lee,,2,1112,1249084
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Classics,Amy,Norgard,,2,1112,1331682
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Physics,Bill,Evans,,2,1112,1540407
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Economics,Nicholas,Yannelis,,2,1112,1624866
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,German,Norma,Suvak,,2,1112,1846914
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Anthropology,Kristin,De Lucia,,2,1112,1866129
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Speech & Hearing Sciences,Edwin,Carrington,,2,1112,1876355
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Psychology,Sanda,Dolcos,,2,1112,2114570
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,English,Gale,Walden,,2,1112,203316
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Languages,Steven,Hill,,2,1112,477764
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Biology,Dominic,Philpott,,2,1112,729844
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Communication,Kristen,Harrison,,2,1112,773880
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Psychology,Laurie,Kramer,,2,1112,812632
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,English,Gary,Adelman,,2,1112,838011
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Engineering,Martin,Wong,,2,1112,872925
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,English,Quentin,Obis,,2,1112,930905
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Engineering,Andreas,Polycarpou,,2,1112,934052
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Biochemistry,Maria,Spies,,2,1112,1207237
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Foreign Languages,Annie,Tremblay,,2,1112,1273421

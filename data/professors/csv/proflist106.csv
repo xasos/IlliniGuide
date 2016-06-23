@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,English,Benjamin,O'Dell,,3,1112,1897680
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Engineering,Jean Paul,Allain,,3,1112,1904102
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Earth Science,Todd,Cole,,3,1112,1908002
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Mathematics,Sun ,Kim ,,3,1112,1972544
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Political Science,Avital,Livny,,3,1112,2057953
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Not Specified,Ward,McDonald,,3,1112,209513
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Chemistry,Neil,Kelleher,,3,1112,492563
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Mathematics,Valerie,Peterson,,3,1112,644889
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Geography,Brian,Fouke,,3,1112,720529
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Languages,..,Murdoch,,3,1112,749264
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Music,Timothy,Johnson,,3,1112,759237
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Meteorology,Steve,Jackman,,3,1112,785204
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Psychology,R.C.,Fraley,,3,1112,849543
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Speech Communication,Greg,Goodale,,3,1112,865939
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Finance,Victor,Nyekel,,3,1112,951791
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Linguistics,Frederick,Schwink,,3,1112,957594
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Rebecca,Eggenschwiler,,3,1112,1060441
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Education,David,Huang,,3,1112,1120383
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Materials Engineering,Angus,Rockett,,3,1112,1236315
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Engineering,Ray,Price,,3,1112,1286004

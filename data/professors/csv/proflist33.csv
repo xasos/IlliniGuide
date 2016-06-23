@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Economics,Colleen,Houlihan,,11,1112,122805
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Engineering,Tami,Bond,,11,1112,1174489
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,History,John,Buckler,,11,1112,158033
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Psychology,Ed,Diener,,11,1112,200289
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Communication,Ann,Reisner,,11,1112,1275278
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Mathematics,Sergiy,Merenkov,,11,1112,524609
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,English,Lindsey,Drager,,11,1112,1223065
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Health Science,Nikki,Hillier,,11,1112,134045
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Civil Engineering,Youssef,Hashash,,11,1112,1269556
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Psychology,Jesse,Preston,,11,1112,1249437
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Communication,Laura,Gallant,E,11,1112,1811247
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Mathematics,Jason,Sneed,,11,1112,447932
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Philosophy,Hugh,Chandler,,11,1112,160852
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Biology,C,Miller,,11,1112,1178389
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Mathematics,Emre,Alkan,,11,1112,339880
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,English,Dennis,Baron,,11,1112,362406
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Journalism,John W.,Fountain,,11,1112,617901
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Computer Science,Eric,Shaffer,,11,1112,1193582
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Languages,Ariana,Traill,,11,1112,289974
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Mathematics,Ilya,Kapovich,,11,1112,407394

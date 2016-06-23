@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Economics,Claudio,Paiva,A,0,1112,2049159
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Mathematics,Ilia Kapovitch ,Kapovitch ,,0,1112,2049371
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Economics,Henrique Veras,Aiva Fonseca,De,0,1112,2049387
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Economics,Guillermo,Marshal,,0,1112,2049388
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Mathematics,Argen,West,,0,1112,2051785
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Astronomy,ryan,foley,JOSEPH,0,1112,2052917
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Psychology,Ranxiao,Wang,Frances,0,1112,2056461
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Biology,Will,Wadlington,,0,1112,2058535
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Music,Beth,Peterson,,0,1112,2061555
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Bioengineering,John,Vozenilek,,0,1112,2061558
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Agricultural Economics,Valerie,Rogalla,,0,1112,2067137
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Agricultural Economics,Alexander,Lo,C,0,1112,2067139
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Comparative Literature,Tanya,Efremova,,0,1112,2067528
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Mathematics,Laura,Escobar,,0,1112,2067708
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Special Education,Meghan,Burke,,0,1112,2068607
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Computer Science,Alexandra,Kolla,,0,1112,2069865
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Business,Raveh,Harush,,0,1112,2072806
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Chemistry,Donald,Decoste ,,0,1112,2074742
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Liberal Arts  Sciences,David,Glisch-Sanchez,,0,1112,2076624
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Information Science,Alec,Verone,,0,1112,2077800

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Computer Science,Margaret,Fleck,,33,1112,1169737
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Health Science,Stephen,Notaro,,33,1112,498684
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Comparative Literature,Anya,Hamrick,,33,1112,1577973
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Statistics,Karle,Laska,A,33,1112,1876600
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Chemistry,Paul,Kelter,,32,1112,324527
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Economics,Ali,Toossi,,32,1112,388591
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Engineering,Yih-Chun,Hu,,32,1112,1037028
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Biology,Stephen,Farrand,,32,1112,787007
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Speech & Hearing Sciences,David,Gooler,,32,1112,790291
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Astronomy,Laird,Thompson,,32,1112,130054
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Mathematics,Jennifer,McNeilly,,32,1112,547814
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Engineering,Mike,Philpott,,32,1112,132992
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Computer Science,Viraj,Kumar,,32,1112,893854
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Biology,Jack,Ikeda,,31,1112,847973
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Economics,Zaruhi,Sahakyan,,31,1112,908173
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Biology,Jim,Slauch,,31,1112,94794
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Biology,Michel,Bellini,,31,1112,240250
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Biology,Carol,Augspurger,,31,1112,530870
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,English,Patricia,Loughran,,31,1112,772038
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Political Science,Todd,Allee,,31,1112,404623

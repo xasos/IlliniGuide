@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Economics,Daniel,McMillen,,4,1112,1383394
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Sociology,Grant,Shoffstall,,4,1112,1502671
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Accounting,Romana L,Autrey,,4,1112,1507914
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Education,Chamara,Kwakye,,4,1112,1518298
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Philosophy,Iker,Garcia,,4,1112,1557004
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Sociology,Rebecca,Gresh,,4,1112,1836500
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Mathematics,Ikemefuna,Agbanusi,,4,1112,1906570
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Education,Brad,Thompson,,4,1112,284342
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Languages,Awa,Sarr,,4,1112,398642
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Psychology,Amy,Summerville,,4,1112,449729
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Languages,Jose,Lemus,,4,1112,513723
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Languages,Misumi,Sadler,,4,1112,562551
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Speech Communication,Ryan,Blum,,4,1112,856888
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Chemistry,Andrew,Campbell,,4,1112,866164
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Education,Chan,Sommers,,4,1112,927091
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Biology,Tom,Frazzetta,,4,1112,1072089
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Music,Mei-Fang,Lin,,4,1112,1158009
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Psychology,Jennifer,Klafehn,,4,1112,1237392
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Mechanical Engineering,Pratap,Vanka,,4,1112,1244849
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Psychology,Scott,Fraundorf,,4,1112,1267242

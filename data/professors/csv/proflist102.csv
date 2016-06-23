@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Finance,Joshua,Pollet,,3,1112,1074566
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Psychology,Duane,Watson,,3,1112,1078832
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Psychology,Carla,Hunter,,3,1112,1152781
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,American Studies,Leanee,Howe,,3,1112,1220550
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Education,Jennifer,Greene,,3,1112,1367382
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Economics,Mattias,Polborn,,3,1112,1563531
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Chemistry,Mary,Kraft,,3,1112,1705963
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Electrical & Comp. Engineering,Zhipei,Liang,,3,1112,1781885
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Communication,Ned,O'Gorman,,3,1112,1830409
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Information Science,Susan,Davis,G,3,1112,1861210
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Accounting,Thomas,Vance,,3,1112,1904244
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Communication,Linda,Scott,,3,1112,396573
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Psychology,Christopher,Moyer,,3,1112,433340
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Philosophy,Eric,Dickson,,3,1112,534286
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,English,Melissa,Free,,3,1112,860361
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,English,Dennis,Van Renen,,3,1112,868216
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Medicine,M,Bagchi,,3,1112,915830
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Education,Brenda,Trofanenko,,3,1112,959249
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Mathematics,Marc,Harper,,3,1112,1063376
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Biology,Cassandra,Allsup,,3,1112,1100572

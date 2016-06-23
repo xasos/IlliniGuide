@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Music,Tom,Turino,,5,1112,744490
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,French,E-Jung,Choi,,5,1112,931529
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,English,John,O'Neil,,5,1112,1445424
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Business,Dharma,Kwon,,5,1112,1549756
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Astronomy,Neal,Dalal,K,5,1112,1786308
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Engineering,Duane,Johnson,,5,1112,395287
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Accounting,Paul,Beck,,5,1112,1044213
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,African-American Studies,Perzavia,Praylow,,5,1112,1205519
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Statistics,Elizabeth,Riley,,5,1112,1786667
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Physics,Robert,Clegg,,5,1112,209737
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,English,Gregory,Wilson,,5,1112,1134022
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Communication,Maria,Mastronardi,,5,1112,790149
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,African-American Studies,Malaika,McKee,,5,1112,1875992
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Mathematics,Stefan,Mueller,,5,1112,1879954
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Music,Ronald,Romm,,5,1112,430114
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Psychology,Stephanie,Seiler,,5,1112,707737
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Chemistry,John,Katzenellenbogen,,5,1112,888576
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Business,Sharon,Shavitt,,5,1112,1061267
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Speech & Hearing Sciences,Nicoline,Ambrose,,5,1112,1105271
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,French,Jennifer,Griffin,,5,1112,1363984

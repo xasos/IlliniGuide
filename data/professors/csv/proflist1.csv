@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Economics,Fred,Gottheil,,359,1112,114009
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Accounting,Susan,Curtis,,206,1112,24428
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Biology,Bradley,Mehrtens,,203,1112,381154
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Chemistry,Tom,Hummel,,197,1112,157386
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Mathematics,Javid,Validashti,,185,1112,1633738
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Economics,Jose,Vazquez,,154,1112,492019
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Economics,Werner,Baer,,148,1112,176914
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Mathematics,Ellen,Fireman,,146,1112,94792
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Science,Eric,Snodgrass,,141,1112,992806
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Economics,Joseph,Petry,,138,1112,215723
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Mathematics,Bob,Murphy,,131,1112,1369371
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Computer Science,Thomas,Gambill,,129,1112,122806
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Geology,Stephen,Altaner,,128,1112,133576
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Economics,Colleen,Schultz,,120,1112,391978
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Mathematics,Thomas,Carty,,116,1112,703564
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Chemistry,Christian,Ray,,116,1112,896427
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Science,Christine,Yerkes,,106,1112,94797
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Political Science,Joseph,Hinchliffe,,104,1112,295309
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Business,Michael,Dyer,,104,1112,24429
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Chemistry,Kelly,Marville,,95,1112,1569137

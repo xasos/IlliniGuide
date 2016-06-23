@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Mathematics,Sankar,Dutta,,17,1112,391984
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Computer Science,Laxmikant,Kale,,17,1112,412124
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Psychology,Michel,Regenwetter,,17,1112,154744
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,English,Ramona,Curry,,17,1112,843056
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Religion,Alexander,Mayer,,17,1112,1208811
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Mathematics,Vadim,Zharnitsky,,17,1112,1140498
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Agriculture,Linda,Garrow,,17,1112,185328
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Anthropology,Lisa,Lucero,,17,1112,1092778
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,History,Antoinette,Burton,,17,1112,379366
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Biology,Bettina,Francis,,17,1112,377410
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Biology,John,Hough,,17,1112,471038
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Speech & Hearing Sciences,Matthew,Dye,,17,1112,1438309
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Mathematics,Kevin,Ford,,17,1112,616744
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Engineering,Nick,Glumac,,17,1112,616721
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Physics,Brian,Demarco,,17,1112,601803
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Anthropology,Rebecca,Stumpf,,17,1112,416457
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,History,Ken,Cuno,,17,1112,791360
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Mark,Dahlquist,,17,1112,504170
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Eleanor,Courtemanche,,17,1112,608542
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Chemistry,Steve,Zimmerman,,17,1112,888584

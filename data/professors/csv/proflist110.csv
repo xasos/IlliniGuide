@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Geography,Bruce,Rhoads,,3,1112,937443
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Education,Daniel,Walsh,,3,1112,944138
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Economics,Monalisa,DE,,3,1112,964531
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Business,Michael,Weisbach,,3,1112,994473
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Psychology,Rachel,Smallman,,3,1112,1016867
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Psychology,Derek,Devnich,,3,1112,1035021
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Aviation,Stan,Unander,,3,1112,1078841
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Finance,Geoffrey,Smith,,3,1112,1134647
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Italian,Eleanora,Stoppino,,3,1112,1146200
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Aaron,Madrigal,,3,1112,1147119
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Political Science,Bryce,Reeder,,3,1112,1670377
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Accounting,Kristina,Rennekamp,,3,1112,1672567
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Agricultural Economics,Mindy,Mallory,,3,1112,1678293
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Communication,James,Salvo,,3,1112,1792890
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Linguistics,Darren,Tanner,,3,1112,1838062
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,East Asian Studies,Jerome,Packard,,3,1112,1892205
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Communication,Kimberly ,Pusateri,,3,1112,1979690
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Philosophy,Colleen,Murphy,,3,1112,2023016
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Mathematics,Stephanie,Alexander,,3,1112,30073
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Music,Dana,Robinson,,3,1112,135369

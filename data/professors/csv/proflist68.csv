@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Mathematics,Burak,Stodolsky,,6,1112,533558
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Human Development,David,Hansen,,6,1112,764734
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Psychology,Andrei,Cimpian,,6,1112,1563975
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Psychology,Jaime,Derringer,,6,1112,1840959
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Communication,Erin,Basinger,,6,1112,1764357
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Spanish,Aaron,Feder,,6,1112,548572
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Jennifer,Lieberman,,6,1112,786366
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Chinese,Yiju,Huang,,6,1112,865575
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Psychology,Jennifer,Rosner,,6,1112,1046456
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Mary,Unger,,6,1112,1286082
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Elaine,Wood,,6,1112,1497777
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Mathematics,Pierre,Albin,,6,1112,2105027
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Engineering,Wen-Mei,Hwu,,6,1112,249015
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Agriculture,Cleora,D'Arcy,,6,1112,379129
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,English,Terra,Walston,,6,1112,603696
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Communication,Travis,Dixon,,6,1112,773876
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Anthropology,Thomas,Gillespie,,6,1112,977064
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Geology,Ann,Long,,6,1112,1328939
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Classics,Stephen,Froedge,,6,1112,1921433
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Ty,Newell,,6,1112,402250

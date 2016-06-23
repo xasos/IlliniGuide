@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Computer Science,Derek,Hoiem,,9,1112,1579439
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Business,Jeffrey,Loewenstein,,9,1112,1607276
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Philosophy,Noel,Saenz,Blas,9,1112,1935998
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Science,Mark,Nelson,,9,1112,652400
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Communication,Clifford,Christians,,9,1112,749256
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Materials Engineering,Leslie,Allen,,9,1112,1073995
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Engineering,Rohit,Bhargava,,9,1112,842056
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Ted,Sanders,,9,1112,879238
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Engineering,Anthony,Jacobi,,9,1112,616627
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Psychology,Steve,Higgins,,9,1112,1159642
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,English,Melissa,Larabee,,9,1112,1520455
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Not Specified,Ross,Wantland,,9,1112,598233
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,History,Adrian,Burgos,,9,1112,1390769
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Agriculture,Nicholas,Paulson,,9,1112,1198840
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Communication,Heather,Zupancic,,9,1112,1623899
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Dale,Bauer,,9,1112,503601
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Communication,Stacy,Kim,,9,1112,1667288
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Diana,Ristoff,,9,1112,154720
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Jonathan,Keeble,,9,1112,679455
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Education,Joe,Feria-Galicia,,9,1112,1441395

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Architecture,Dianne,Harris,,4,1112,814883
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Speech Communication,Jackie,Roe,,4,1112,857053
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Spanish,Anna Maria,Escobar,,4,1112,977770
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Speech Communication,Jenny,Saperstone,,4,1112,1097182
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Computer Science,William,Gropp,,4,1112,1297594
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Engineering,Kent,Choquette,,4,1112,1477321
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Mathematics,Laura,Schaposnik,M,4,1112,1889288
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Mathematics,Prabhu,Janakiraman,,4,1112,537436
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Architecture,Lynne,Dearborn,,4,1112,564816
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Animal Science,John,Beever,,4,1112,1005047
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,"Recreation, Parks, & Tourism",Daniel,Gibble,,4,1112,1122997
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Education,William,Trent,,4,1112,1681270
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,English,Jessica,Mercado,,4,1112,1720788
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Business,Denise,Lewin-Loyd,,4,1112,1904261
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Journalism,Brian,Johnson,,4,1112,454598
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Engineering,Michael,Strano,,4,1112,596649
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Marketing,Tiffany,White,,4,1112,628898
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Political Science,Hodson,Piper,,4,1112,784874
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,English,Irene,Koshik,,4,1112,859194
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Social Work,Jane,Marshall,,4,1112,1155424

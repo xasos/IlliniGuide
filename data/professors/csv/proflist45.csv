@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Biochem. & Molecular Biology,Alan,Jarman,,9,1112,1745744
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Melanie,Tannenbaum,,9,1112,1781084
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Music,Lillie,Gordon,,8,1112,1841282
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.1,poor,Economics,Jie,Yang,,8,1112,1213404
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Asian Studies,Hyun Hee,Kim,,8,1112,884015
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,East Asian Studies,I In,Chiang,,8,1112,1930913
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.4,poor,Finance,Malay,Dey,K,8,1112,1835157
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,History,Jennifer,Hamer,,8,1112,781556
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.6,poor,Mathematics,Clifton,Ealy,,8,1112,852677
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Engineering,Henrique,Reis,,8,1112,520640
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Engineering,Jim,Leake,,8,1112,734032
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Philosophy,Patrick,Maher,,8,1112,373872
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Deaf Studies,Adele,Proctor,,8,1112,430474
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Communication,Anita,Chan,,8,1112,1364832
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Chemistry,Virginia,Lehmann,,8,1112,786216
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Physics,Karin,Dahmen,,8,1112,529511
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Engineering,Nick,Fang,,8,1112,599657
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Engineering,Tony &quot;the Tiger&quot;,Grift,,8,1112,749695
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Philosophy,Nathalie,Morasch,,8,1112,875517
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Mathematics,Dirk,Hundertmark,,8,1112,1036077

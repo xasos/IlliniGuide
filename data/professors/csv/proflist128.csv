@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,African-American Studies,Millicent,Davis,G,2,1112,1804946
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Information Science,Michael,Twidale,,2,1112,1808942
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Information Science,Melissa,Wong,,2,1112,1861169
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Computer Science,Chandra,Chekuri,,2,1112,1901793
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Mechanical Engineering,M Quinn,Brewster,,2,1112,1998695
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,English,Elizabeth,Tavares,,2,1112,2007686
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Economics,Ziyi,Qiu,,2,1112,2049389
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Electrical  Comp. Engineering,Romit,Choudhury,Roy,2,1112,2061603
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,English,Naomi,Taub,,2,1112,2087967
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Education,Mike,Woods,,2,1112,379361
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Geography,Bruce,Hannon,,2,1112,395139
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Chemistry,John,Haan,,2,1112,734755
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Fine Arts,Patricia,Knowles,,2,1112,765932
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Education,Klaus,Witz,,2,1112,859196
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Chemistry,Cass,Richers,,2,1112,896328
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Engineering,Jonathan,Higdon,,2,1112,916320
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Speech Communication,Brian,Dodds,,2,1112,1054024
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Foreign Languages,Audrey,Evrard,,2,1112,1057056
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Writing,Samantha,Looker,,2,1112,1092760
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Engineering,Tolga,Tezcan,,2,1112,1093200

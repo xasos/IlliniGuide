@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Electrical & Comp. Engineering,Mohamed,Mohamed,,3,1112,1788438
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Art & Design,Prita,Meier,,3,1112,1796800
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Human & Community Development,Brian,Ogolsky,G,3,1112,1884556
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Fredrick,Lawrence,,3,1112,134343
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Geology,Tom,Johnson,,3,1112,456820
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Writing,Kevin,Matz,,3,1112,544295
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Sarah,MacDonald,,3,1112,558153
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Social Science,Jasna,Jovanovic,,3,1112,562342
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Chemistry,Charlie,D'Souza,,3,1112,592320
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Joseph,Ledoux,,3,1112,618454
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Sharmin,Spencer,,3,1112,619476
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Education,Sarah,Kiefer,,3,1112,644486
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Languages,Jon,Sherman,,3,1112,644895
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Business,Enno,Siemsen,,3,1112,784747
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Astronomy,Jonathan,Seale,,3,1112,789307
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Studio Art,Laurie,Hogin,,3,1112,826175
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Classics,Matt,Brown,,3,1112,847967
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,John,Holm,,3,1112,872923
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Marketing,Lan,Nguyen Chaplin,,3,1112,961737
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,History,Thomas,MacKaman,,3,1112,971116

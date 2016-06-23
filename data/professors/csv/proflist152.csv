@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Engineering,Chang,Liu,,1,1112,800353
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Philosophy,Blair,Goodlin,,1,1112,830075
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Engineering,Patrick,Chapman,,1,1112,850997
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Education,Rashid,Robinson,,1,1112,897240
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Community Health Sciences,Chinwe,Ntamere,,1,1112,903124
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Statistics,Claudia,Tomassia,,1,1112,945734
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Business,Matthew,McCarter,,1,1112,1016335
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Biology,Gregory,Whitt,,1,1112,1020644
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Psychology,Joseph,Malpeli,,1,1112,1043810
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,English,Paul,Hackman,,1,1112,1072444
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Psychology,Paul,Gold,,1,1112,1082326
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Biology,Peter,Jones,,1,1112,1106158
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Cinema,Anne,Brubaker,,1,1112,1131942
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Communication,Kevin,Quinn,,1,1112,1146203
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,English,Arthur,Barker,,1,1112,1160509
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Food Science,Bradley,Beam,,1,1112,1218304
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Mathematics,Sarah,Son,,1,1112,1245622
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Urban & Regional Planning,Robert,Olshansky,,1,1112,1250009
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,English,Leslie,Crowell,,1,1112,1296189
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Bioengineering,Jenny,Amos,,1,1112,1490652

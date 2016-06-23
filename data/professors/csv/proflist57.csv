@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,English,Lauren,Goodlad,,7,1112,558739
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Sociology,Gray,Swicegood,,7,1112,633861
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Literature,Reshmi,Mukherjee,,7,1112,776074
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,English,Ezra,Claverie,,7,1112,1074085
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,English,Natalie,Mesnard,,7,1112,1645673
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Music,Heinrich,Taube,,7,1112,123005
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Communication,Jeremy,Engels,,7,1112,336270
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,Stephanie,Clark,,7,1112,657277
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Mathematics,Slawomir,Solecki,,7,1112,835442
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,Kyle,Williams,,7,1112,1120351
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Agriculture,Samuel,Wortman,,7,1112,1921311
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,English,David,Wright,,7,1112,1277032
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Computer Science,Steve,Lavalle,,7,1112,1396457
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,English,Melissa,Girard,,7,1112,502216
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Languages,Mithilesh,Mishra,,7,1112,976628
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Speech & Hearing Sciences,Pamela,Hadley,,7,1112,1244082
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Mathematics,M. Burak,Erdogan,,7,1112,577899
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Communication,Molly,Niesen,,7,1112,898265
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Music,Joseph,Jones,,7,1112,1077316
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Engineering,Eric,Pop,,7,1112,1127760

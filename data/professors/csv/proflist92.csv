@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Journalism,Stephanie,Craft,,4,1112,1974496
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Philosophy,Justin,Clark ,,4,1112,2020660
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Art History,Jordana,Mendelson,,4,1112,561291
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Engineering,R.S.,Sreenivas,,4,1112,778643
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Biology,Ken,Paige,,4,1112,997207
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Japanese,Maki,Tokeshi,,4,1112,1093429
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Spanish,Christina,Deangelo,,4,1112,1343409
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Accounting,Bradley,Pomeroy,,4,1112,1377377
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Accounting,Michael,Donohoe,,4,1112,1624688
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Writing,Andrea,Olinger,,4,1112,1647003
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Community Health Sciences,Ashleigh,Jones,,4,1112,1722907
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,History,John,Pruett,,4,1112,124020
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Fine Arts,Gerry,Guthrie,,4,1112,206853
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Music,Min-Jung,Son,,4,1112,555300
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Nancy,Castro,,4,1112,639032
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Communication,Claudio,Moreira,,4,1112,830388
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Philosophy,Richard,Mohr,,4,1112,851125
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Agriculture,Fabio,Mattos,,4,1112,1178568
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Kinesiology,Mary,Carlton,,4,1112,1366935
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Catharine,Gray,,4,1112,1379117

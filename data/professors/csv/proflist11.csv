@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,Phillip,Ernstmeyer,,25,1112,1208437
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Political Science,Ira,Carmen,,25,1112,124007
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,"Recreation, Parks, & Tourism",Ryan,Gower,,25,1112,456518
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Engineering,Ali,Abbas,,25,1112,781808
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Mathematics,Robert Lee,Deville,,25,1112,1087979
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Science,Robert,Haber,,24,1112,263443
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,History,Megan,McLaughlin,,24,1112,155022
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Mathematics,John,D'Angelo,,24,1112,128248
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Engineering,Steve,Lumetta,,24,1112,563531
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,History,Fred,Hoxie,,24,1112,487595
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Computer Science,Kevin,Chang,,24,1112,1867625
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Ethnic Studies,David G.,Goodman,,24,1112,1212781
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Mathematics,Chris,Leininger,,24,1112,788901
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Political Science,Robert,Pahre,,24,1112,124048
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Business,David,Sinow,,24,1112,125967
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,History,Ralph,Mathisen,,24,1112,1064864
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Engineering,David,Ruzic,,24,1112,198914
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Mathematics,Francesco,Cellarosi,,24,1112,1782801
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,English,Anthony,Pollock,,24,1112,963976
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Economics,Martin,Perry,,23,1112,1710593

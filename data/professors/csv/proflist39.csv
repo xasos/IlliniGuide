@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Science,Bruce,Fouke,,10,1112,93642
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Literature,Robert,Rushing,,10,1112,843532
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Speech Communication,Laura,Stengrim,,10,1112,931839
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Engineering,Brian,Lilly,,10,1112,600932
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Electrical Engineering,Andreas,Cangellaris,,10,1112,479692
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Agriculture,Alex,Winter-Nelson,,10,1112,712339
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Astronomy,Adam,Myers,,10,1112,1184295
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Psychology,Neal,Cohen,,10,1112,262686
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Mathematics,Alan,Huebner,,10,1112,718943
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Journalism,Jeff,Unger,,10,1112,977163
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Dave,Morris,,10,1112,603699
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Statistics,Julie,Patterson,,10,1112,1196597
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,English,Andrea,Stevens,,10,1112,1197849
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Communication,Nathan,McCullough,,10,1112,1677165
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,French,Daniel,Maroun,,10,1112,1483180
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Psychology,Jorge,Hernandez,,10,1112,1643650
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,History,Mark,Steinberg,,10,1112,210194
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Communication,Summer,Carnett,,10,1112,924648
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Mathematics,Julian,Palmore,,9,1112,1348104
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Biochem. & Molecular Biology,Satish,Nair,K,9,1112,1841728

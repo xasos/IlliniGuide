@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Political Science,Justin,Blount,,1,1112,1704002
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Michael,Kral,,1,1112,1707243
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,French,Meryl,Garrison,,1,1112,1708282
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Business,Joe,Bradley,,1,1112,1708311
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Vera,Hur,,1,1112,1716482
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Melissa,Littlefield,,1,1112,1718364
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Communication,Rohini,Singh,,1,1112,1721051
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,"Recreation, Parks, & Tourism",Jeremy,Robinett,,1,1112,1722258
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Political Science,Ashlea,Rundlett,,1,1112,1722900
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Vyron,Vellis,,1,1112,1729782
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Biology,Kevin,Freeney,,1,1112,1756510
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Sharon,Yao,,1,1112,1757359
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Michael,Kraus,,1,1112,1780396
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Chinese,Yu Hui,Ho,,1,1112,1787994
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,German,Juliane,Szlosze,,1,1112,1790736
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Not Specified,Marilyn,Adibu,,1,1112,1793019
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Not Specified,Dominic,Combs,,1,1112,1793022
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Geography,Michael,Minn,,1,1112,1793474
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,TA,Vishal,Mehta,,1,1112,1795505
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Agriculture,Emily,Warren,A,1,1112,1795641

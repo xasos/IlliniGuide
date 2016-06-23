@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,English,Shannon,Godlove,,6,1112,860372
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Psychology,Michael,Bilton,,6,1112,904082
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Agriculture,Dick,Brazee,,6,1112,1091481
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Psychology,Christopher,Grindrod,,6,1112,1292833
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Mathematics,Aimo,Hinkkanen,,6,1112,265283
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Engineering,Marina,Miletic,,6,1112,1185900
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Mathematics,Ping,MA,,6,1112,1398937
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Languages,Irune,Del-Rio,,6,1112,348054
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Engineering,Pramod,Viswanath,,6,1112,572116
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Psychology,Carol,Diener,,6,1112,598680
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Agriculture,Luis,Rodriguez,,6,1112,1114193
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,English,Michael,Verderame,,6,1112,1182365
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Biochem. & Molecular Biology,Jarrod,Henderson,,6,1112,1495996
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Chemistry,Shawn,Miller,,6,1112,1948613
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Electrical  Computer Engineering,Zuofu,Cheng,,6,1112,1968260
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Mathematics,Caleb,Eckhardt,,6,1112,734687
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Agriculture,Robert,Darmody,,6,1112,800927
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Kinesiology,Charles,Hillman,,6,1112,834004
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Materials Engineering,Dallas,Trinkle,,6,1112,949791
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Philosophy,Matthew,Rukgaber,,6,1112,1454959

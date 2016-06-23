@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Anna,Rivera,,2,1112,1926588
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Alison,Reddy,,2,1112,1940779
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,German,Nadezda,Berkovich,,2,1112,1960331
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Yuta,Katsumi,,2,1112,1964935
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Finance,Heitor,Almedia,,2,1112,1991814
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Esteban,Gast,,2,1112,2003828
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Anthropology,John,Lindo,,2,1112,2013639
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Agricultural Economics,Cecilia,Suarez,,2,1112,2015935
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Media  Cinema Studies,Andrea,Ruehlicke,,2,1112,2016891
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Social Work,Trent,Shumway,,2,1112,2022333
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Political Science,Jessie,Rumsey,,2,1112,2032122
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Biology,William,Metcalf ,,2,1112,2046315
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Valerie,O'Brien,,2,1112,2050783
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Accounting,Brent,Garza,,2,1112,2065387
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Accounting,Michael,Williamson,,2,1112,2127488
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Crop Studies,Margaret,Norton,,2,1112,2133071
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Linguistics,Rakesh,Bhat,,1,1112,1304779
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Linguistics,Karen,Lichtman,,1,1112,1589787
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Chemistry,YI,LU,,1,1112,1556848
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Languages,Karl,Strosche,,1,1112,189660

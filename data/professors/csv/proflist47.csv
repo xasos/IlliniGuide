@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Asian Studies,Soo Ah,Kwon,,8,1112,1255647
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Asian Studies,Caroline,Yang,,8,1112,1395156
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Linguistics,Ryan,Shosted,,8,1112,1287632
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,English,Jean,Lee,,8,1112,1365219
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,English,Peter K,Garrett,,8,1112,701945
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Political Science,Phil,Habel,,8,1112,716938
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Art History,Lisa,Rosenthal,,8,1112,722084
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Education,Violet,Harris,,8,1112,737973
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Chemistry,Brian,Bellott,,8,1112,538041
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Engineering,H.J.,Kong,,8,1112,1064713
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Music,Julia,Byl,,8,1112,1210915
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Physics,Peter,Adshead,J,8,1112,1951602
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Sociology,Keera,Allendorf,,8,1112,1574986
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Geography,Jose,Deleon,,8,1112,1130741
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Economics,Xiaochen,Fan,,8,1112,1640367
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Communication,Paul,McKean,,8,1112,1663739
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Mathematics,Bogdan,Udrea,T,8,1112,1781746
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Mathematics,Zhong-Jin,Ruan,,8,1112,182124
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Graphic Arts,John,Jennings,,8,1112,800853
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Music,Joseph,Manfredo,,8,1112,894642

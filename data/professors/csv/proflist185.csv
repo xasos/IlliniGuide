@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Physics,Mark,Neubauer,,0,1112,1983061
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Speech  Hearing Sciences,Ron,Chambers,,0,1112,1983829
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,English,Kyle,Johnston,R,0,1112,1984866
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,History,Elizabeth,Quick,P,0,1112,1991285
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Speech  Hearing Sciences,Martine,Fenstermacher,,0,1112,1991440
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Anthropology,Radhika,Govindrajan,,0,1112,1992322
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Biology,Wendy,Yang,H.,0,1112,2000177
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Religion,Charles,Huff,,0,1112,2000288
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Information Science,Keller,Roberto,Rafaele,0,1112,2002302
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Communication,Esteban,Gaste,,0,1112,2003477
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Mathematics,Jennifer,Wise,,0,1112,2004360
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Kinesiology,Cherita ,Ousley,,0,1112,2005397
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Atmospheric Sciences,Kevin ,Zang,,0,1112,2006725
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Psychology,Carolyn,Anderson,,0,1112,2008042
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,History,Cary ,McDonald,,0,1112,2011273
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Agriculture,Amy,Ando,,0,1112,2016027
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Architecture,Sumi,Han,,0,1112,2017153
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Mathematics,Daniel,Hockensmith,,0,1112,2017238
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Bioengineering,Dipanjan,Pan,,0,1112,2017242
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Bioengineering,Jian,Ma,,0,1112,2017243

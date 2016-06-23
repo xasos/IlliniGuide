@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Women's Studies,Ellen,McWhorter,,7,1112,538296
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,John,Marsh,,7,1112,827673
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Communication,Michael,Giardina,,7,1112,1004826
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Engineering,Pete,Sauer,,7,1112,557580
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Political Science,Adam,Irish,,7,1112,1164288
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Anthropology,Sarah,Rowe,,7,1112,1617222
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Engineering,Jianming,Jin,,7,1112,391763
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Aviation,Bill,Jones,,7,1112,688575
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Fine Arts,Ron,Kovatch,,7,1112,848397
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Engineering,Nitin,Vaidya,,7,1112,1613091
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Engineering,Blake,Johnson,,7,1112,1901496
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Communication,Brad,Bond,,7,1112,545994
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Psychology,Matthew,Shake,,7,1112,725759
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Languages,Chie,Furukawa,,7,1112,749074
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Atmospheric Sciences,John,Walsh,,7,1112,790147
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,English,Jensen,Beach,,7,1112,1645667
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Michael,Simeone,,7,1112,897439
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Sara,Gelston,,7,1112,1381497
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,French,Azeb,Haileselassie,,7,1112,1437621
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Atmospheric Sciences,Robert,Rauber,,7,1112,355377

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Information Science,David,Dublin,,0,1112,1861214
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Information Science,Miles,Efron,,0,1112,1861215
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Information Science,Lori,Kendall,,0,1112,1861219
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Information Science,Jerome,McDonough,,0,1112,1861222
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Information Science,Kate,McDowell,,0,1112,1861223
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Information Science,Allen,Renear,,0,1112,1861225
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Information Science,Carol,Tilley,,0,1112,1861229
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Information Science,Terry,Weech,L,0,1112,1861233
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Information Science,Kevin,McClure,,0,1112,1861239
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Information Science,Paul,Healey,,0,1112,1861240
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Speech & Hearing Sciences,Julie,Hengst,,0,1112,1864543
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Mathematics,Maxim,Arnold,,0,1112,1875760
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Art & Design,Brian,Wiley,,0,1112,1879836
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,English,Carol,Spindel,,0,1112,1889277
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Engineering,Brent,Heuser,,0,1112,1891114
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Anthropology,Paul Michael,Atienza,,0,1112,1903025
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Crop Studies,Yoshie,Hanzawa,,0,1112,1913573
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Natural Resources,Joanne,Vining,,0,1112,1918903
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Kinesiology,Chuck,Hillman,,0,1112,1924701
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Materials Engineering,John,Rogers,A,0,1112,1925227

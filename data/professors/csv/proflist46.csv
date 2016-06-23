@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Statistics,Nathan,Hirtz,,8,1112,989057
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Physics,James,Wolfe,,8,1112,182121
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Sociology,Cynthia,Buckley,J,8,1112,1863188
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Computer Science,Chad,Peiper,,8,1112,601804
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Education,Jeanne,Connel,,8,1112,934234
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,History,Elizabeth,Pleck,,8,1112,944877
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Communication,Marshall,Poole,,8,1112,1350128
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Accounting,Paul,Polinski,,8,1112,1467728
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Ethnic Studies,Sundiata,Cha-Jua,,8,1112,319478
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Statistics,Feng,Liang,,8,1112,1579078
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Mechanical Engineering,Lance,Hibbeler,,8,1112,1619743
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Architecture,Kevin,Hinders,,8,1112,432887
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Speech & Hearing Sciences,David,Kuehn,,8,1112,799775
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Finance,Stephen,Peters,,8,1112,1010093
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Mathematics,Runhuan,Feng,,8,1112,1817245
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Anthropology,Jennifer,Shoaff,,8,1112,1347798
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Health Science,Karin,Rosenblatt,,8,1112,641968
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Engineering,Jonathan,Freund,,8,1112,990682
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Agriculture,Craig,Gundersen,,8,1112,1283954
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Literature,Michael,Finke,,8,1112,963324

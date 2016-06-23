@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.4,poor,History,Dan,Shao,,18,1112,1630292
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Engineering,Joseph,Bentsman,,18,1112,216300
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,History,Nils,Jacobsen,,18,1112,736657
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Mathematics,Heinrich,Lotz,,18,1112,157383
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Psychology,John,Trach,,18,1112,324325
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Mathematics,George,Francis,,18,1112,137091
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,History,Peter,Fritzsche,,18,1112,1357501
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Women's Studies,Mimi,Nguyen,,18,1112,972627
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Communication,Sarah,Rasmusson,,18,1112,898266
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,History,Dorothee,Schneider,,18,1112,1444611
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Economics,George,Deltas,,18,1112,153556
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Religion,Valerie,Hoffman,,18,1112,754026
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Finance,Joseph,Finnerty,,18,1112,780905
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Engineering,Geir,Dullerud,,18,1112,136400
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Chemistry,Kristy,Jurchen,,18,1112,291117
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Biology,Chester,Brown,,18,1112,1071835
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Mechanical Engineering,Min-Feng,Yu,,18,1112,908852
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Engineering,Seth,Hutchinson,,18,1112,7743
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Biology,Gail,Grabner,,18,1112,600466
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Education,Sharon,Tettegah,,18,1112,284339

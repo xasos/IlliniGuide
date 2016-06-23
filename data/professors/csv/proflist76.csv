@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Education,Shameem,Rakha,,5,1112,1862794
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Mathematics,Doug,Noe,,5,1112,513375
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Economics,Darren,Lubotsky,,5,1112,536847
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Physics,Alfred,Hubler,,5,1112,726630
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Speech Communication,Johanna,Osterhout,,5,1112,785287
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Business,Marcelo,Bucheli,,5,1112,989493
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Computer Science,David,Forsyth,,5,1112,1178741
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Music,Fernando,Rios,,5,1112,1383256
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,English,Julie,McCormick,,5,1112,1490994
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Psychology,Florin,Dolcos,,5,1112,1595555
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Psychology,Sara,Swenson,,5,1112,1683624
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Civil Engineering,Paolo,Gardoni,,5,1112,1781132
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Environmental Studies,Anna,Nesbitt,,5,1112,1900446
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Education,Howard,Schein,,5,1112,339283
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Agriculture,Bruce,Sherrick,,5,1112,416062
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Fine Arts,Kimiko,Gunji,,5,1112,557619
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Languages,Karl,Goetze,,5,1112,652440
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,English,Sarah,Dennis,,5,1112,776670
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Human Development,Ramona,Oswald,,5,1112,786052
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Astronomy,Thomasanna,Hail,,5,1112,853931

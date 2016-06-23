@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Psychology,Denise,Park,,3,1112,806076
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Mathematics,Yongmei-Michelle,Wang,,3,1112,808383
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Mechanical Engineering,Spyros,Tseregounis,,3,1112,1090661
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Music,Sever,Tipei,,3,1112,1191597
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Law,Christopher,Buccafusco,,3,1112,1232685
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Music,Phillip,Blume,,3,1112,1492320
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Political Science,Tiberiu,Dragu,,3,1112,1516853
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Psychology,Hans-Friedrich,Kohn,,3,1112,1812760
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Electrical & Comp. Engineering,Gabriel,Popescu,,3,1112,1827110
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Civil Engineering,Rahim,Benekohal,,3,1112,1931748
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Agriculture,Malia,Appleford,,3,1112,483669
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Environmental Studies,David,Kovacic,,3,1112,769745
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Psychology,Karl,Dach-Gruschow,,3,1112,845510
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Design,Deana,McDonagh,,3,1112,902716
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Psychology,Robert,Fraley,,3,1112,1068685
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Science,Steve,Nesbitt,,3,1112,1138574
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Mathematics,Jiri,Lebl,,3,1112,1366448
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Engineering,Wen-Tso,Liu,,3,1112,1623219
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Dance,Renee,Archibald,,3,1112,1635491
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Political Science,Gennady,Rudkevich,,3,1112,1877031

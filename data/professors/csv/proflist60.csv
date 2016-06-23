@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,English,Gordon,Hutner,,6,1112,611294
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,History,Leslie,Reagan,,6,1112,1692352
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Education,David,Brown,,6,1112,21062
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Architecture,Bob,Mooney,,6,1112,810672
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Community Health Sciences,Regine,Rucker,,6,1112,1087558
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Agricultural Economics,Angela,Lyons,,6,1112,1890614
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Urban Design & Development,Tschangho John,Kim,,6,1112,395027
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Political Science,Donald,Greco,,6,1112,473152
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Languages,Rolando,Romero,,6,1112,713224
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Languages,Jean-Philippe,Mathy,,6,1112,1280678
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Mathematics,Jinjia,Li,,6,1112,679192
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Computer Science,Svetlana,Lazebnik,,6,1112,1832200
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Chemistry,M. Christina,White,,6,1112,1845255
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Music,Stephen,Zank,,6,1112,588084
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Computer Science,Alex,Kirlik,,6,1112,1862513
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Writing,Samantha,Plasencia,,6,1112,1880411
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Psychology,Philip,Rodkin,C,6,1112,1575929
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,English,Will,Baker,,6,1112,606455
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Chemistry,Alexander,Scheeline,,6,1112,932341
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Architecture,Fang,Xu,,6,1112,1820511

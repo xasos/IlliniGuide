@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Languages,Ola,Moshref,,7,1112,1207042
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Accounting,Wei,LI,,7,1112,1448884
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Humanities,Kent,Ono,,7,1112,274847
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Engineering,N. Sri,Namachchivaya,,7,1112,724733
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Law,C.K.,Gunsalus,,7,1112,1144756
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Latin American Studies,Carolina,Rocha,,7,1112,609037
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Journalism,William,Berry,,7,1112,623920
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Biology,John,Gerlt,,7,1112,937772
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Engineering,Kyekyoon,Kim,,7,1112,1450616
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Crop Studies,Lane,Rayburn,,7,1112,1695189
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Business,Shinjinee,Chattopadhyay,,7,1112,1806652
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,English,Ceridwen,Hall,L,7,1112,1882911
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Communication,Inger,Stole,,7,1112,883770
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Classics,Stephan,Heilen,,7,1112,1121360
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Communication,Beth,Popp,,7,1112,1700959
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,History,Gregory,Koslofsky,,7,1112,889779
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Physics,Matthias,Perdekamp,,7,1112,1128722
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Civil Engineering,Billie,Spencer,F,7,1112,1882991
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Art History,David,O'Brien,,7,1112,242514
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Economics,Silve,Parviainen,,7,1112,617678

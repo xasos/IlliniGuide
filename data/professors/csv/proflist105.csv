@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Psychology,Chris,Wickens,,3,1112,131289
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Mathematics,Robert,Smith,,3,1112,527331
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Accounting,Cynthia,Williams Turner,,3,1112,534211
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Music,Joe,grant,,3,1112,574989
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Psychology,Randy,Bird,,3,1112,830991
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Psychology,Chi-Yue,Chiu,,3,1112,949340
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Community Health Sciences,Carol,Firkins,,3,1112,989523
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,English,Jamie,Brunton,,3,1112,1085980
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Languages,Randall,Sadler,,3,1112,1092868
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Agriculture,Scott,Irwin,,3,1112,1110573
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Engineering,Yun,Chiu,,3,1112,1262775
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Philosophy,Lucas,Anderson,,3,1112,1363013
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Statistics,Jeffrey,Liu,,3,1112,1509254
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Psychology,Daniel,Newman,,3,1112,1575932
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Business,Jovan,Grahovac,,3,1112,1619804
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Computer Science,Jiawei,Han,,3,1112,1696653
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Statistics,Darren,Glosemeyer,,3,1112,1774674
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Engineering,Troy,Vogel,,3,1112,1825615
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Languages,Jeeyoung,HA,Ahn,3,1112,1845561
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Engineering,Harrison,Kim,,3,1112,1887905

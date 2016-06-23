@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,German,Laurie,Johnson,,12,1112,897593
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Architecture,Abbas,Aminmansour,,12,1112,671943
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Mathematics,Jason,Anema,,12,1112,2068782
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Literature,Michael,Palencia-Roth,,12,1112,127184
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Accounting,Anne,Farrell,,12,1112,487362
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Anthropology,Matti,Bunzl,,12,1112,275446
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,English,Justine,Murison,,12,1112,1085982
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Engineering,Gary,Eden,,12,1112,600215
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Kimberly,Koch,,12,1112,828938
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Spencer,Dowdall,,12,1112,1756255
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Architecture,Areli,Marina,,11,1112,962172
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Astronomy,Stephen,Clouse,,11,1112,1862706
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Political Science,Marie,Henehan,,11,1112,1237386
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Anthropology,Jessica,Greenberg,,11,1112,1839801
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Design,Judy,Ross,,11,1112,684833
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Computer Science,Sheldon,Jacobson,,11,1112,1636624
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Computer Science,Manoj,Prabhakaran,,11,1112,1783330
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Psychology,Masooda,Bashir,,11,1112,1647240
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Mathematics,Alaxander,Tumanov,,11,1112,987920
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Mathematics,Paul,Schupp,,11,1112,577901

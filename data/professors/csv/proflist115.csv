@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Song Hong,Cho,,3,1112,988469
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Finance,Mark,Vonnahme,,3,1112,1008516
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,James,Pugh,,3,1112,1031110
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Speech Communication,Laura,Miller,,3,1112,1048274
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Not Specified,Larry,Di Girolamo,,3,1112,1103688
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Journalism,Jean,McDonald,,3,1112,1130881
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Jung-Jin,Lee,,3,1112,1234387
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Education,Vicki,Ansermet,,3,1112,1243701
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Architecture,Dede,Ruggles,,3,1112,1246165
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Languages,Alison,Lanski,,3,1112,1247492
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,French,Jessica,Jacobson,,3,1112,1267919
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Education,Adam,Poetzel,,3,1112,1290867
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,History,Janine,Giordano,,3,1112,1450629
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Art & Design,Kimber,Andrews,,3,1112,1531166
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,East Asian Studies,Elizabeth,Oyler,,3,1112,1544512
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Biology,Lori,Raetzman,,3,1112,1595289
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Community Health Sciences,Tim,Lee,,3,1112,1615850
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Marie,Heffernan,,3,1112,1616343
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Anthropology,Tomi,Tusia,,3,1112,1657357
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Architecture,Marci,Uihlein,,3,1112,1662648

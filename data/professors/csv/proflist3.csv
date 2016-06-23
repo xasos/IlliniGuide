@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Chemistry,John,Overcash,,58,1112,1232422
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Computer Science,Marsha,Woodbury,,57,1112,153949
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Physics,Mats,Selen,,57,1112,157210
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,poor,Political Science,Steven,Seitz,,56,1112,90858
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Food Science,Becky,Roach,,56,1112,549839
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Accounting,Julia,Shapland,,56,1112,1251256
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Engineering,James,Leake,,55,1112,149869
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Business,Geoffery,Love,,55,1112,209542
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Mathematics,Florin,Boca,,54,1112,950035
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Political Science,Michael,Krassa,,54,1112,205551
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Mathematics,Kim,Whittlesey,,54,1112,209729
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Economics,Hassan,Arvin-Rad,,52,1112,898556
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Astronomy,Bryan,Dunne,,52,1112,934237
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Mathematics,Ditlev,Monrad,,51,1112,490838
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Business,Peter,Silhan,,50,1112,68582
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Chemistry,Lynne,Miller,,50,1112,776707
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Anthropology,Kathryn,Clancy,,49,1112,1144959
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Mathematics,Randy,McCarthy,,48,1112,537576
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Agriculture,Alex,Lo,,48,1112,745176
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Biology,Ken,Chapman,,47,1112,183048

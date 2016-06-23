@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Classics,Clara,Bosak-Schroeder,,1,1112,2087935
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Agricultural Economics,Peter,Christensen,,1,1112,2094247
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Sociology,Gehui,Zhang,,1,1112,2097411
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Civil Engineering,Oscar,Lopez-Pamies,,1,1112,2100408
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Crop Studies,Nathan,Schroeder,,1,1112,2142861
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Accounting,Heather,Pesch,,1,1112,2147343
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Architecture,Kevin,Rotheroe,,1,1112,26672
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Education,Colleen,Vojak,,1,1112,644904
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Physics,Chris,Sedleck,,1,1112,654534
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Agriculture,Wayne,Banwart,,1,1112,656432
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Fine Arts,Tirzah,Rose,,1,1112,690516
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Education,Norma,Barajas,,1,1112,694620
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Economics,Cameron,Speir,,1,1112,772107
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Physics,Dominique,Toublan,,1,1112,786735
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Sociology,David,Hopping,,1,1112,799768
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Speech & Hearing Sciences,Monique,Mills,,1,1112,803301
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,History,Amelia,Lyons,,1,1112,827579
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Finance,BO,Becker,,1,1112,853494
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Chinese,Chia-Rong,Wu,,1,1112,862197
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Design,Yoon-Jin,Ma,,1,1112,896431

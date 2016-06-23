@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Speech  Hearing Sciences,Aron,Barbey,,8,1112,1997907
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Philosophy,Todd,Kukla,,8,1112,327064
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Classics,Miriam,Pittenger,,8,1112,401071
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,English,Michael,Wayne,,8,1112,653592
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Computer Science,Darko,Marinov,,8,1112,984270
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Religion,Dov,Weiss,,8,1112,1725335
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Accounting,Ken,Koga,,8,1112,438485
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Psychology,Glenn,Roisman,,8,1112,798993
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Comparative Literature,Wail,Hassan,,8,1112,1136366
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,English,Alaina,Pincus,,8,1112,603697
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,History,Matthew,Gilbert,,8,1112,1165094
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Accounting,Anupama,Varadharajan,,8,1112,1384803
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Chemistry,Wilfred,Van Der Donk,,8,1112,449713
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Finance,Steve,D'Arcy,,8,1112,935362
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Engineering,James Michael,Lafave,,8,1112,199771
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Writing,Philip,Graham,,8,1112,209107
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Political Science,Scott,Edwards,,8,1112,532826
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,"Recreation, Parks, & Tourism",Donald,Hardin,,8,1112,1651917
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,Amelia,Herb,,8,1112,580625
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Finance,Mark,Smith,K,8,1112,1867278

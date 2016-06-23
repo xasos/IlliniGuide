@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Engineering,Gert,Ehrlich,,1,1112,726678
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Human Development,Joseph,Pleck,,1,1112,799493
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Sociology,Andrew,Pickering,,1,1112,845719
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Environmental Studies,Suzanne,Beyeler,,1,1112,929313
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Education,Linda,Vigdor,,1,1112,988851
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,English,Keguro,MacHaria,,1,1112,989808
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Mathematics,Ilgiz,Kayumov,,1,1112,991849
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Education,Cheryl,Shriner,,1,1112,1064471
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Mathematics,Lale,Ozkahya,,1,1112,1073974
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Mathematics,Patrick,Reynolds,,1,1112,1108927
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Physics,Ido,Golding,,1,1112,1378595
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Philosophy,Ben,Goodney,,1,1112,1435447
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,French,Patrick,Bray,,1,1112,1541491
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Accounting,Keith,Czerney,,1,1112,1575129
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Mathematics,Joseph,Rotman,,1,1112,1604499
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Political Science,Jason,Coronel,,1,1112,1607963
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Music,Reynold,Tharp,,1,1112,1626597
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Education,Michael,Eiland,,1,1112,1658233
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,English,Bruce,Erickson,,1,1112,1713020
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,English,Jennifer,Lozano,,1,1112,1763648

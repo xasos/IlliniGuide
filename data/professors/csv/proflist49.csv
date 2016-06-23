@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,East Asian Studies,Jungwon,Kim,,8,1112,1210840
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Architecture,Jeff,Kansler,,8,1112,1277510
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Electrical & Comp. Engineering,Geoffrey,Herman,,8,1112,1799030
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Engineering,Prasanta,Kalita,,8,1112,749685
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Science,Amanda,Dooley,,8,1112,1258858
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Mechanical Engineering,Matthew,West,,8,1112,1685685
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Languages,Heidi,Lorimor,,8,1112,392789
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Fine Arts,Catherine,Wiesener,,8,1112,558381
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Spanish,Ericka,Beckman,,8,1112,1053198
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Psychology,Patrick,Watson,,8,1112,1249082
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Athletics,Kimberly,Shinew,,8,1112,1599038
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Music,Stephen,Taylor,,8,1112,127115
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Science,John,Edgington,,8,1112,385138
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Engineering,Joanne,Manaster,,8,1112,842060
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Economics,Taimur,Adil,,8,1112,897257
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Susan,Stewart,,8,1112,165010
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Italian,Daryl,Rogers,,8,1112,339517
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Amity,Reading,,8,1112,394505
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Theater,James,Zager,,8,1112,539253
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Natalie,Havlin,,8,1112,603694

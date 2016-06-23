@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,English,Yu-Kyung,Kang,,4,1112,1247840
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Community Health Sciences,Mudita,Dave,,4,1112,1253885
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Communication,Kala,Finley,,4,1112,1664316
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Communication,Mardia,Bishop,,4,1112,1787600
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Astronomy,Joaquin,Vieira,,4,1112,1903861
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Geology,Lijun,Liu,,4,1112,1945872
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Women's Studies,Shannon,Cate,,4,1112,1958992
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Engineering,Mark,Hasegawa-Johnson,,4,1112,567278
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Fine Arts,Elizabeth,Delacruz,,4,1112,724410
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Communication,Catherine,Coleman,,4,1112,1051508
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Computer Science,Sam,King,,4,1112,1109659
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Linguistics,Antje,Muntendam,,4,1112,1129253
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Speech & Hearing Sciences,Lisa,Crane,,4,1112,1549339
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Electrical  Computer Engineering,Dimitrios,Katselis,,4,1112,2092005
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Chemistry,Christopher,Bardeen,,4,1112,182682
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Computer Science,Ralph,Johnson,,4,1112,188414
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Architecture,Kung Sung,Moon,,4,1112,707740
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Biology,Scott,Siechen,,4,1112,949152
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Foods & Nutrition,Jill,North,,4,1112,979612
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Linguistics,Tania,Ionin,,4,1112,1035483

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Finance,Bruno,Laranjeira,,1,1112,1169569
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Daniel,Quek,,1,1112,1171148
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Computer Science,Yizhou,YU,,1,1112,1200456
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,German,Adam,Chambers,,1,1112,1229170
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Paul,Pollack,,1,1112,1231940
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Journalism,Ryan,Davis,,1,1112,1233740
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Jarice,Rodriguez,,1,1112,1258765
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Women's Studies,Kirstie,Dorr,,1,1112,1272780
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Lisa,Dunick,,1,1112,1280082
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Communication,Katherine,Becker,,1,1112,1281717
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Communication,Emily,Shaw,,1,1112,1285644
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Ibrahim,Senay,,1,1112,1291416
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Agriculture,Claire,Brady,,1,1112,1301158
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Business,Andrea,Martens,,1,1112,1317193
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Communication,Jesus,Ballivian,,1,1112,1332295
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Social Work,Pallassana,Balgopal,,1,1112,1340559
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Community Health Sciences,Reginald,Alston,,1,1112,1357909
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Dance,Kate,Kuper,,1,1112,1359950
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Social Work,Mary,Eamon,,1,1112,1367384
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Anne,Owens,,1,1112,1370327

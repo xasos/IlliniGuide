@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Mathematics,Justin,Burner,,1,1112,1908467
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Mathematics,Michael,Brannan,,1,1112,1948287
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Spanish,Sara,Mason,,1,1112,1960282
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Community Health Sciences,Ucheoma,Nwaozuru,,1,1112,1961688
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Art  Design,Rachele,Riley,,1,1112,1996743
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Engineering,Qiong,Wang,,1,1112,2012969
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Civil Engineering,Arthur,Schmidt,,1,1112,2020351
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Mathematics,Martin,Luu,,1,1112,2023339
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Food Science,Jessica,Madson,,1,1112,2050148
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Crop Studies,Kris,Lambert,N,1,1112,2068844
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Music,Dmitry,Kouzov,,1,1112,2094053
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Computer Engineering,Paul,Fischer,,1,1112,2101226
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Environmental Studies,Chance,Riggins,,1,1112,2122773
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Civil Engineering,Scott,Olson,Michael,1,1112,2127838
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Political Science,Jennifer,Selin,,1,1112,2141703
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Crop Studies,Stephen,Moose,,1,1112,2142858
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Labor  Employment Relations,C.J.,Hawking,,1,1112,2145393
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,English,Rebecca,Brackmann,,1,1112,707731
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Agriculture,Marvin,Paulsen,,1,1112,786363
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Geography,Lan,Mu,,1,1112,786368

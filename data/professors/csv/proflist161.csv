@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Mathematics,Derrick,Stolee,,1,1112,1780506
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Speech & Hearing Sciences,Charissa,Lansing,,1,1112,1784289
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Theater,Thomas,Miller,,1,1112,1784928
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Derrick,Spires,,1,1112,1791900
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Gregory,Webb,M,1,1112,1792423
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Engineering,Michael,McFarland,,1,1112,1798736
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Political Science,Kaye,Usry,,1,1112,1813977
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Scott,Wetter,,1,1112,1827814
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Engineering,Carolyn,Beck,L.,1,1112,1836374
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Languages,Yun,Shin,Sun,1,1112,1845567
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Information Science,Bobby,Bothmann,,1,1112,1861116
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Astronomy,Mallory,Conlon,,1,1112,1864449
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,French,Jennifer,Grant,L,1,1112,1900444
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,German,Dustin,Smith,L,1,1112,1902229
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Statistics,Robert,Eisinger,D,1,1112,1907647
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Religion,John,Plaiss,,1,1112,1943671
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Animal Science,Filipe,Cardoso,,1,1112,1966418
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Animal Science,Anna,Dilger,,1,1112,1966421
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Theater,Valleri,Robinson,,1,1112,1979327
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Electrical  Computer Engineering,Ankit,Jain,,1,1112,1985605

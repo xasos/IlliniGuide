@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Accounting,Joel,Pike,,7,1112,810167
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Computer Science,David,Padua,,7,1112,1473011
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,English,Howard,Cole,,7,1112,974239
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Mathematics,Nicolas,Guay,,7,1112,515992
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Accounting,Jon,Perkins,,7,1112,1033558
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Sociology,Nicole,Holtzclaw-Stone,,7,1112,1417600
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Art & Design,Courtnay,Micots,,7,1112,1478875
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Philosophy,Christopher,Hendricksen,,7,1112,1088345
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,African-American Studies,Ruby,Mendenhall,,7,1112,1285089
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Sociology,Shin Kap,Han,,7,1112,358509
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,English,Mary,Hays,,7,1112,456021
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Chemistry,Jesse,Miller,,7,1112,626272
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Anthropology,Frederic,Lehman,,7,1112,852159
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Chemistry,Mirth,Hoyt,,7,1112,1485682
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Business,Vishal,Sachdev,,7,1112,1278286
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Liberal Arts & Sciences,Catherine,Blake,,7,1112,1542107
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,English,In Hye,HA,,7,1112,1542915
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Philosophy,Richard,Schacht,,7,1112,329473
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Business,Richard,Engelbrecht-Wiggans,,7,1112,1203501
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Education,Steven,Aragon,,7,1112,71374

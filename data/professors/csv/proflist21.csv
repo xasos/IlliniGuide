@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Science,Steven,Zumdahl,,16,1112,93140
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Mathematics,William,Hart,,16,1112,762855
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Political Science,Maurice,Meilleur,,16,1112,580599
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Accounting,Clifton,Brown,,16,1112,796987
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Architecture,John,Senseney,,16,1112,1006562
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,English,Vicki,Mahaffey,,16,1112,1455606
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Political Science,Paul,Diehl,,16,1112,472221
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Political Science,Andrea,Campbell,,16,1112,21922
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Spanish,Florencia,Henshaw,,16,1112,1084005
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Anthropology,Brenda,Farnell,,16,1112,554972
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Advertising,Katrina,Olson,,16,1112,1274378
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,Austin,Riede,,16,1112,879919
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Economics,Bryan,Buckley,,16,1112,1926164
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Fine Arts,Alan,Mette,,16,1112,680181
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,English,Franklin,Ridgway,,16,1112,654541
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Political Science,Ryan,Hendrickson,,16,1112,1077029
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Sociology,Brian,Dill,,16,1112,1075048
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Mathematics,Robert,Ghrist,,16,1112,725562
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Linguistics,Abdulkafi,Albirini,,16,1112,904235
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,English,Daniel,Wong,,16,1112,672914

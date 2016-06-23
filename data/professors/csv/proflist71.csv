@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Bioengineering,Sua,Myong,,5,1112,1782373
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,English,Andrew,Merrill,,5,1112,2040118
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Languages,Polyxeni,Strolonga,,5,1112,786611
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Not Specified,Emma,Rueter,,5,1112,882679
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Speech Communication,Sylvia,Mikucki,,5,1112,1039485
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Spanish,Jonathan,MacDonald,,5,1112,1560555
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Engineering,Seyed,Yousefian,F,5,1112,1853797
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Geography,Murugesu,Sivapalan,,5,1112,845285
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Music,Tom,Faux,,5,1112,952162
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,English,Kelly,Innes,,5,1112,1221712
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Civil Engineering,Amr,Elnashai,,5,1112,1270529
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Communication,Christina,Ceisel,,5,1112,1539538
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Engineering,Ryan,Franks,,5,1112,483646
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Chemistry,Nertila,Siuti,,5,1112,801767
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Political Science,Jude,Hays,,5,1112,969235
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Chemistry,Jim,Lisy,,5,1112,1133356
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Mechanical Engineering,Sascha,Hilgenfeldt,,5,1112,1236656
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Education,Mark,Dressman,,5,1112,1533519
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Geology,Alison,Anders,M,5,1112,1759342
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Physics,Aida,El-Khadra,,5,1112,529513

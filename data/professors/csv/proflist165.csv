@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Chemistry,Evan,Erickson,,1,1112,896327
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Kinesiology,Darin,Trulock,,1,1112,900745
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Economics,Jimmy,Veneruso,,1,1112,907942
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Rudolf,Haken,,1,1112,918135
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Materials Engineering,John,Abelson,,1,1112,929184
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Agriculture,Randy,Fonner,,1,1112,932966
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Nagraj,Shankar,,1,1112,934024
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Mia,Millan,,1,1112,934040
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Barry,Walker,,1,1112,934073
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Astronomy,Josh,Dolence,,1,1112,934952
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Literature,Marilyn,Booth,,1,1112,935228
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Aviation,Zach,Drew,,1,1112,942409
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Computer Science,Tracy,Grauman,,1,1112,948077
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Anthropology,Janet,Keller,,1,1112,949338
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Chemistry,Greg,Scott,,1,1112,949863
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Speech Communication,Debra,Hawhee,,1,1112,952851
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Chemistry,Adam,Kiefer,,1,1112,974361
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Laura,Kimmel,,1,1112,976812
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Bojo,Jones,,1,1112,983670
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,History,Jason,Hansen,,1,1112,988111

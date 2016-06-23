@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Economics,Bob,Naimann,,1,1112,772901
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Communication,Dmitri,Williams,,1,1112,778599
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,French,Michelle,Bishop,,1,1112,780376
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Sky,Andrecheck,,1,1112,780866
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,John,Powell,,1,1112,784531
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Adam,Bennett,,1,1112,799426
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Biology,Reynolds,Rose,,1,1112,800013
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,German,James,Marchand,,1,1112,809209
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Arthur,Kramer,,1,1112,812630
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Biology,Gene,Robinson,,1,1112,819742
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Computer Science,Matthew,Belcher,,1,1112,827215
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Biology,Arthur,Devries,,1,1112,829405
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Computer Science,Michael,Garland,,1,1112,831733
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Law,Dean,Rhoads,,1,1112,831972
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Philosophy,Loren,Zech,,1,1112,843435
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Physics,Matt,Kunz,,1,1112,845500
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Christine,Bryant,,1,1112,851729
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Marketing,Tianjiao,Qiu,,1,1112,858543
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Bethany,Green,,1,1112,880137
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Alicia,Cerezo,,1,1112,882358

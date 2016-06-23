@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Ian,Hobson,,2,1112,909044
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Jane,Butterfield,,2,1112,924252
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Edward,Martin,,2,1112,927505
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Douglas,Bristow,,2,1112,934058
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Naiara,Centeno,,2,1112,935576
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Ning,Yang,,2,1112,978013
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Social Work,Sharen,Pierre,,2,1112,984062
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Finance,Murillo,Campello,,2,1112,987395
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Food Science,Terry,Cummings,,2,1112,1018007
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Charles,Chaffin,,2,1112,1030368
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,French,Emilie,Tarraf,,2,1112,1044435
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Chemistry,David,Shellhamer,,2,1112,1054822
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Agriculture,Abram,Bicksler,,2,1112,1055137
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Speech Communication,Daniel,Larson,,2,1112,1086481
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Speech Communication,Paul,Richardson,,2,1112,1090915
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Writing,Janice,Harrington,,2,1112,1091102
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Speech Communication,Karen,Shafer,,2,1112,1092352
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Not Specified,Shanna,Casey,,2,1112,1097167
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Sociology,Norman,Denzin,,2,1112,1106109
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mechanical Engineering,Herman,Krier,,2,1112,1109303

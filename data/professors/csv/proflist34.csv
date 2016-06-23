@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Computer Science,Indranil,Gupta,,11,1112,831224
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Physics,Douglas,Beck,,11,1112,1548196
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,English,Jed,Esty,,11,1112,354686
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Accounting,Steven,Smith,,11,1112,631405
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Mathematics,Andrew,Parrish,,11,1112,1518313
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Mathematics,Stephen,Ullom,,11,1112,440899
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Education,James,Anderson,,11,1112,475290
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Art History,Jennifer,Greenhill,,11,1112,1090467
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Political Science,Cara,Wong,,11,1112,1075307
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Political Science,Jeff,Mondak,,11,1112,832417
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Chemistry,Erin,Elliott,,11,1112,1163344
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Statistics,Jeffrey,Douglas,,11,1112,1609736
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Luke,Owens,,11,1112,131311
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Philosophy,Erica,Neely,,11,1112,525719
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Philosophy,Brian,Rabern,,11,1112,1747713
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Psychology,David,Irwin,,11,1112,465291
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Economics,Richard,Akresh,,11,1112,537570
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Psychology,Brent W,Roberts,,11,1112,1353263
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Music,Andrea,Solya,,11,1112,1492317
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Business,Kevin,Fertig,,11,1112,941649

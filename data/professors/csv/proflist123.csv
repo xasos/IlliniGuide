@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,History,Elizabeth,Esch,,2,1112,898869
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,"Recreation, Parks, & Tourism",Marc,Katz,,2,1112,1093819
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Social Work,Ga- Young,Choi,,2,1112,1124239
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Writing,Cecily,Gaber,,2,1112,1210142
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Languages,Narlan,Teixeira,,2,1112,1230699
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,History,Cary,Cordova,,2,1112,1233421
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Health Science,Lydia,Buki,,2,1112,1241565
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Women's Studies,Ruth,Brown,,2,1112,1277527
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Engineering,Negar,Kiyavash,,2,1112,1290417
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Biology,Art,Zangerl,,2,1112,1337126
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Communication,Elizabeth,Karras,,2,1112,1499246
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Communication,Elizabeth,Carlson,,2,1112,1513608
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Biology,Stefan,Johnsrud,,2,1112,1518312
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Finance,Morgan,Lynge,,2,1112,1528650
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Engineering,Scott,Carney,,2,1112,1580669
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Music,Mark,Moore,,2,1112,1599395
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Biology,Charlie,Whitfield,,2,1112,1654714
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Engineering,Roy,Axford,A,2,1112,1754051
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Accounting,Bill,Black,,2,1112,1816929
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Business,Kathryn,Rybka,M,2,1112,1841475

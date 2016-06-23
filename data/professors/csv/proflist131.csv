@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Media Arts,Matthew,Crain,,2,1112,1579424
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Biology,Nick,Morphew,,2,1112,1624599
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Physics,Zhuo,Wang,,2,1112,1720833
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Human & Community Development,Aaron,Ebata,,2,1112,1765932
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Geography,Lucho,Escobedo,,2,1112,1817922
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Information Science,Emily,Knox,J M,2,1112,1824457
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Engineering,Grace,Gao,Xingxin,2,1112,1868253
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Architecture,Brian,Vesely,,2,1112,1868509
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Agriculture,David,Rosch,,2,1112,1874859
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Accounting,Tracie,Majors,,2,1112,1898735
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Business,Tony,TU,,2,1112,1905979
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Biochem.  Molecular Biology,Marty,Shankland,,2,1112,1946390
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Religion,Eiyad,Al-Kutubi,,2,1112,2002749
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Computer Science,Aditya,Parameswaran,G,2,1112,2017215
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Materials Engineering,Robert,Maass,,2,1112,2101259
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Chuck,McCaffrey,,2,1112,136260
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Accounting,Keejae,Hong,,2,1112,528456
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Music,David,McDonald,,2,1112,559449
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Philosophy,David,Bell,,2,1112,617910
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Biology,Devi,Annamalai,,2,1112,689913

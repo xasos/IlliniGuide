@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Law,Margaret,Grossman,,2,1112,1250389
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,African-American Studies,Lou,Turner,,2,1112,1433517
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Community Health Sciences,Juhee,Kim,,2,1112,1643939
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Physics,Brad,Halfpap,,2,1112,1810530
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Engineering,Lavanya,Marla,,2,1112,1836373
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Accounting,Abdel-Khalik,Rashad ,,2,1112,1959682
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Labor  Employment Relations,Clare,Fauke,,2,1112,2012485
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Economics,Powers,Nick,,2,1112,124051
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Engineering,Ki,Lee,,2,1112,134133
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Languages,Miquel,Simonet,,2,1112,611997
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Economics,Luiz,Oliveira-Lima,,2,1112,1138324
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Geography,Shaowen,Wang,,2,1112,1253012
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Physics,Jonathan,Thaler,,2,1112,1351100
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Music,Margarethe,Adams,,2,1112,1595808
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,English,Jessica,Wong,,2,1112,1647025
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Linguistics,Elias,Shakkour,,2,1112,1727325
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Communication,Grace,Hebert,,2,1112,1792149
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Communication,Cabral,Bigman-Galimore,,2,1112,1879011
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Civil Engineering,Rosa,Espinosa-Marzal,,2,1112,1922531
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Bioengineering,Karin,Jensen,,2,1112,2094250

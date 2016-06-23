@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Religion,Jeff,Thibert,,5,1112,1001945
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Biology,Vitaly,Stepensky,,5,1112,1038750
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,African-American Studies,Maimouna,Barro,,5,1112,1201845
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Communication,Elizabeth,Chupp,,5,1112,1398627
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Communication,Tim,Tjeerdsma,,5,1112,1449733
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Communication,Liesel,Sharabi,,5,1112,1522552
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Biology,Thomas,Anastasio,,5,1112,1681100
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Not Specified,Antonios,Augoustakis,,5,1112,1793015
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Community Health Sciences,Ellen,Ritter,,5,1112,1809042
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Education,Sandy,Eichhorst,,5,1112,522721
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Psychology,Sylvia,Puente,,5,1112,542767
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Languages,Lizzie,Black,,5,1112,620095
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Physics,Matthew,Brinkley,,5,1112,807950
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Spanish,Rebecca,Foote,,5,1112,827943
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Asian Studies,Daniel,Kim,,5,1112,874189
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Engineering,Abhishek,Jalan,,5,1112,894758
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Engineering,Kimani,Toussaint,,5,1112,1103858
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Computer Science,Matthew,Caesar,,5,1112,1233560
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Journalism,Fernando,Elichirigoity,,5,1112,1574890
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Biology,Donald,Briskin,,5,1112,1618965

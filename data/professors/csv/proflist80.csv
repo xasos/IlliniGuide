@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Engineering,Brendan,Harley,,5,1112,1679337
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Spanish,Pilar,Martinez-Quiroga,,5,1112,1826503
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Communication,Jeffrey,Proulx,,5,1112,1836060
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Chemistry,Michael ,Koerner,,5,1112,2055763
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Marilyn,Sahiba,,5,1112,318500
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Economics,Goran,Skosples,,5,1112,399940
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Science,Amy,Lopez,,5,1112,612000
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Literature,Gautam,Basu Thakur,,5,1112,935231
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Speech Communication,Kristin,Drogos,,5,1112,949615
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Lisa,Spanierman,,5,1112,1145191
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,"Recreation, Parks, & Tourism",Carla,Santos,,5,1112,1282904
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Biology,Brian,Allan,,5,1112,1557913
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Asian Studies,Erica,Vogel,,5,1112,1783494
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,TA,Daniel,Byrne,,5,1112,2055227
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Ivan,Contreras,,5,1112,2125964
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.4,poor,Computer Science,Kevin,Milans,,4,1112,1131947
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Political Science,Wendy,Tam,,4,1112,244605
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Mathematics,Lynn,McLinden,,4,1112,359886
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Cinema,David,Desser,,4,1112,929133
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.1,poor,Psychology,William,Brewer,,4,1112,869472

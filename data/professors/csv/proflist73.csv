@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Communication,Lisa,Nakamura,,5,1112,1230487
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Languages,Faith,Stein,,5,1112,1256336
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Civil Engineering,Jeffery,Roesler,,5,1112,1587933
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Geology,Jessica,Conroy,,5,1112,1943165
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Music,James,Keene,,5,1112,235217
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Anthropology,Barry,Lewis,,5,1112,574585
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Mathematics,Alexandr,Kostochka,,5,1112,1004113
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Mathematics,Ioannis,Konstantoulas,,5,1112,1740496
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Anthropology,Marc,Perry,,5,1112,842783
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Aviation,Larry,West,,5,1112,893238
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Materials Engineering,Trudy,Kriven,,5,1112,974348
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Agricultural Economics,Robert,Hornbaker,,5,1112,1613122
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Anthropology,Ripan,Malhi,,5,1112,1930999
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Science,Scott,Denmark,,5,1112,118300
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Economics,Odilon,Camara,,5,1112,795088
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Speech Communication,Vince,Pham,,5,1112,951382
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Agriculture,Nicholas,Brozovic,,5,1112,1098796
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Architecture,Mark,Taylor,,5,1112,1314139
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Psychology,Eva,Telzer,H,5,1112,1797111
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Biology,Zachary,Cheviron,,5,1112,1800329

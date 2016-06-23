@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Biology,John,Cronan,,13,1112,652964
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Finance,James,Jackson,,13,1112,1050368
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Economics,David,Bullock,,13,1112,21921
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Anthropology,Olga,Soffer,,13,1112,124010
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,poor,Engineering,Leon,Frizzell,,13,1112,853493
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Sociology,Ray,Muhammad,,13,1112,935114
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Economics,Bart,Taub,,13,1112,124035
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Accounting,Flora,Zhou,,13,1112,1104039
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Mathematics,Richard,Sowers,,13,1112,257568
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Art History,Oscar,Vázquez,,13,1112,198297
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Biology,Tom,Jacobs,,13,1112,845284
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Speech & Hearing Sciences,Pritesh,Pandya,,13,1112,731788
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,English,Daniel,Kelly,,13,1112,319475
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,English,Tim,Newcomb,,13,1112,124011
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Political Science,Tom,Hoffman,,13,1112,534796
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Mathematics,Ali,Kavruk,S,13,1112,1798965
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Design,Lawrence,Hamlin,,13,1112,786824
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Physics,Gary,Gladding,,13,1112,910648
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Religion,Bruce,Rosenstock,,13,1112,1149256
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Physics,Raffi,Budakian,,13,1112,1636271

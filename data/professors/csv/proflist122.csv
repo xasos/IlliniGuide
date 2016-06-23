@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Chinese,Yujie,Yang,,2,1112,1195886
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Mathematics,Mohit,Kumbhat,,2,1112,1426693
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Engineering,Alejandro,Domínguez-García,,2,1112,1493506
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,International Studies,Russ,Laura,,2,1112,1528452
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,English,Laura,Adamczyk,,2,1112,1547687
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Mathematics,Benno,Rumpf,,2,1112,1578659
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Sociology,Markus,Schulz,,2,1112,1603511
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Economics,Vidisha,Vachharajani,,2,1112,1662265
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Anthropology,Laura,Davis,,2,1112,1709613
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Mathematics,Yifeng Kevin,HE,,2,1112,1750085
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Communication,Elizabeth,Bigsby,,2,1112,2018601
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Psychology,John,Westbrook ,,2,1112,2041028
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Accounting,Erin,Fann,,2,1112,198554
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Accounting,Thomas,Omer,,2,1112,388597
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Engineering,Daniel Alexander,Kuchma,,2,1112,400211
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Political Science,Lewkowicz,Michael,,2,1112,500185
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Education,Lucia,Flevares,,2,1112,607900
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Fine Arts,Kariann,Fuqua,,2,1112,680183
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Engineering,Jim,Zuo,,2,1112,719199
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Languages,Andrea,Goulet,,2,1112,778396

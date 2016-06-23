@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Electrical & Comp. Engineering,John,Dallesasse,,2,1112,1883940
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Finance,Martin,Widdicks,,2,1112,1926135
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Statistics,Dana,Willner,,2,1112,1935122
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Biology,Eric,Bolton,,2,1112,1941565
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Biochem.  Molecular Biology,William,Brieher,,2,1112,1987021
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Finance,Neil,Pearson,,2,1112,1991815
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Engineering,Alexandra,Chronopoulou,,2,1112,2012953
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Statistics,Douglas,Simpson,G,2,1112,2049160
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Electrical  Computer Engineering,Peter,Kairouz,,2,1112,2094065
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Michael,Shetina,,2,1112,2134800
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Physics,Russell,Giannetta,W,2,1112,2147307
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Education,Cheryl,Bullock,,2,1112,171230
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Catherine,Prendergast,,2,1112,361125
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Guy,Garnett,,2,1112,434939
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Languages,Renaud,Verdier,,2,1112,542512
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Agriculture,Michael,Hirschi,,2,1112,598660
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Not Specified,Megan,Radek,,2,1112,602048
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Finance,Martin,Maurer,,2,1112,632653
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Chris,Maier,,2,1112,650647
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Scott,Kelly,,2,1112,652924

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,English,Gillen,Wood,,31,1112,364257
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Mathematics,Alexandru,Zaharescu,,31,1112,1055254
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Foreign Languages,Mark,Safstrom,,31,1112,1600014
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Engineering,Dimitrios,Kyritsis,,31,1112,433081
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.1,poor,Engineering,Sahraoui,Chaieb,,30,1112,516812
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Mathematics,Eduard,Kirr,,30,1112,833492
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Chemistry,Andino,Martinez,,30,1112,1926592
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Mathematics,Susan,Tolman,,30,1112,577900
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Engineering,Dan,Tortorelli,,30,1112,188249
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Mathematics,Robert,Muncaster,,30,1112,979716
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Psychology,Mikhail,Lyubansky,,30,1112,869327
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Communication,Patrick,Vargas,,30,1112,155216
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Political Science,William,Bernhard,,30,1112,124012
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Philosophy,Arthur,Melnick,,30,1112,498473
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Iryce,Baron,,30,1112,366538
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Chemistry,Martin,Gruebele,,30,1112,209733
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Engineering,Arne,Pearlstein,,29,1112,137117
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Mathematics,Kathleen,Smith,,29,1112,835020
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Philosophy,David,Sussman,,29,1112,562648
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Engineering,James,Philips,,29,1112,899935

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Mathematics,Jing,Wang,,2,1112,2110969
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Philosophy,David,Gilbert,,2,1112,2141698
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Religion,Wayne,Pitard,,2,1112,625610
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,International Studies,Lynda,Park,,2,1112,765929
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Urban Design & Development,Bruce,Knight,,2,1112,767605
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Astronomy,Rosa,Williams,,2,1112,861123
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Philosophy,Molly,Wilson,,2,1112,893770
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Marketing,Hong,Yuan,,2,1112,964925
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,English,Bart,Brinkman,,2,1112,988105
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Psychology,Brian,Gordon,,2,1112,1033647
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Physics,Steven,Errede,,2,1112,1043825
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Accounting,Po Chang,Chen,,2,1112,1109332
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Agriculture,Mike,Mazzocco,,2,1112,1134475
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,English,Anne,Shea,,2,1112,1283491
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Chemistry,Darrell,Kuykendall,,2,1112,1378596
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Engineering,Shreyas,Narsipur,,2,1112,1501708
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,East Asian Studies,Robert,Tierney,,2,1112,1601403
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Architecture,Rick,Strand,,2,1112,1662708
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,English,Katherine,Flowers,,2,1112,1726025
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Biology,James,Walsh,,2,1112,1752740

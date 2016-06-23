@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Anthropology,Martin,Manalansan,,47,1112,119530
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Engineering,Marie-Christine,Brunet,,46,1112,7739
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Mathematics,Aldo,Manfroi,,46,1112,529888
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Education,Jeanne,Connell,,45,1112,195820
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,English,Sid,Slobodnik,,45,1112,2369
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Stephen,Runkle,,45,1112,1182061
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Political Science,Melissa,Orlie,,44,1112,91027
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Science,Donna,Charlevoix,,44,1112,122990
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,History,John,Lynn,,44,1112,122995
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Agriculture,Val,Rogalla,,43,1112,483667
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Mathematics,Michelle,Thoele,,43,1112,176533
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Business,Mark,Roszkowski,,43,1112,124031
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,History,Carol,Symes,,43,1112,232757
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Chemistry,Jeff,Moore,,43,1112,358298
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Classics,Scott,Garner,,43,1112,142283
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Mathematics,Scott,Ahlgren,,43,1112,410118
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Agriculture,Robert,Skirvin,,43,1112,236751
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.3,poor,Mathematics,William,Haboush,,42,1112,274854
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,poor,Chemistry,Pat,Shapley,,42,1112,572371
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Physics,Paul,Kwiat,,42,1112,64895

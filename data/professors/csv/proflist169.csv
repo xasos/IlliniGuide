@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Geology,Craig,Lundstrom,,1,1112,1548553
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Aaron,Burch,,1,1112,1549176
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Political Science,Danail,Koev,,1,1112,1568680
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Information Science,John,MacMullen,,1,1112,1576050
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Law,George,Bell,,1,1112,1591267
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Education,Joseph,Cross,,1,1112,1611215
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Anthropology,Jonathan,Inda,,1,1112,1625972
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Bill,Kinnersley,,1,1112,1646770
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,French,Cristina Toharia,Zapata,,1,1112,1650226
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Timothy,Peck,,1,1112,1655688
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Communication,Jessica,Harvey,,1,1112,1658787
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Agricultural Economics,Paul,McNamara,,1,1112,1660400
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Lucilena,Williams,,1,1112,1663502
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Physics,Somnath,Baidya Roy,,1,1112,1664081
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,History,Ryan,Jones,,1,1112,1667274
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,French,Jui,Namjoshi,,1,1112,1680350
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,French,Alisson,Clifton,,1,1112,1685571
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Education,Sarah,Lubienski,,1,1112,1689584
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Accounting,Charles,Martin Jr.,,1,1112,1698097
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Media & Performing Arts,Heather,Zike,,1,1112,1700231

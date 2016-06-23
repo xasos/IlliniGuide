@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Joyce,Tolliver,,2,1112,1116438
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Asian Studies,Stan,Thangaraj,,2,1112,1129772
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Arley,McNeney,,2,1112,1163816
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Economics,Walter,Sosa-Escudero,,2,1112,1208295
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Marianna,Nadeu,,2,1112,1228796
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Lily,Martinez,,2,1112,1230690
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Architecture,Dede,Fairchild-Ruggles,,2,1112,1246164
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,German,Corina,Lacatus,,2,1112,1273248
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Sally,Perret,,2,1112,1308534
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Alok,Tiwari,,2,1112,1323431
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,History,Jason,Kozlowski,,2,1112,1428447
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Asian Studies,Constancio,Arnaldo,,2,1112,1518567
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Dance,Nicholas,Duran,,2,1112,1520179
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Education,Anthony,Hursh,,2,1112,1556429
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Computer Science,Arjun,Rao,,2,1112,1583655
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Sociology,Edna,Viruell-Fuentes,,2,1112,1640667
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Caitlin,Phalon,,2,1112,1661132
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Antonio,Perez-Núñez,,2,1112,1661512
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Education,Youn Seon,Lim,,2,1112,1673955
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mechanical Engineering,Gustavo,Pottker,,2,1112,1685692

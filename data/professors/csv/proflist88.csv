@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Statistics,Kiryung ,Lee ,,4,1112,1972541
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Biochemistry,Erik,Procko,,4,1112,2045607
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,English,Chris,Nelson,,4,1112,124013
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Mathematics,Christian,Haesemeyer,,4,1112,314178
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Biology,Julia,George,,4,1112,461278
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Economics,Larry,Neal,,4,1112,536450
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Social Science,Matthew,Kraatz,,4,1112,596835
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Engineering,James,Coleman,,4,1112,924540
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Journalism,Jay,Rosenstein,,4,1112,928180
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Biology,Jeffrey,Brawn,,4,1112,982015
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Materials Engineering,Pascal,Bellon,,4,1112,1035226
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,History,Michelle,Kleehammer,,4,1112,1394428
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Physics,Jose,Mestre,,4,1112,1430085
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Information Science,Jana,Diesner,,4,1112,1861211
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Brian,Walsh,,4,1112,487883
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Chemistry,Richard,Jew,,4,1112,504180
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,History,Kevin,Hales,,4,1112,748605
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Finance,Philip,Rushing,,4,1112,866493
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Computer Science,Stephen,Bond,,4,1112,962805
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,History,Rajmohan,Gandhi,,4,1112,1647650

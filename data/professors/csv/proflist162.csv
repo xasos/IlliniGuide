@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Mechanical Engineering,Kyle,Smith,,1,1112,1985974
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Art  Design,Paul,Duncum,Angus,1,1112,1993319
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Electrical  Computer Engineering,James,Kok,,1,1112,1999041
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Women's Studies,Angela,Paik,Naomi,1,1112,2002245
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Political Science,Alexander,Schulman,,1,1112,2011680
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Social Work,Carrie,Bosch,,1,1112,2011909
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Psychology,Cybelle,Smith,,1,1112,2014018
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Atmospheric Sciences,Daniel,Stechman,,1,1112,2015940
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Electrical  Computer Engineering,Siming,Guo,,1,1112,2016902
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Psychology,Daniel,Berry,,1,1112,2021060
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Statistics,Doug,Simpson,,1,1112,2021819
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Music,William,Moersch,,1,1112,2031175
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Mathematics,Philippe,Francesco,Di,1,1112,2049373
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Asian Studies,Anita,Balgopal,,1,1112,2055765
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Coral,Lumbley,,1,1112,2069682
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Communication,Lisa,Guntzviller,,1,1112,2083362
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Biology,James,O'Dwyer,,1,1112,2087762
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Astronomy,Emily,Hardegree-Ullman,,1,1112,2090508
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Electrical  Computer Engineering,Mika,Latimer,,1,1112,2094636
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Mathematics,Jeremiah,Heller,,1,1112,2097330

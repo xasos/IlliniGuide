@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,English,Allan,Borst,,17,1112,632657
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Political Science,John,Vasquez,,17,1112,1214621
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Fine Arts,Thomas,Albrecht,,17,1112,855314
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Animal Science,Douglas,Parrett,F,17,1112,1006275
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,"Recreation, Parks, & Tourism",Michael,Raycraft,,17,1112,1230498
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Social Work,Noah,Isserman,J,17,1112,1879915
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Psychology,Joshua,Gulley,,17,1112,1043811
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Sociology,Heather,Downes,,17,1112,734930
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Human & Community Development,Kelly,Bost,,17,1112,499733
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Mathematics,Michael,Roitman,,16,1112,479624
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Architecture,Paul,Armstrong,,16,1112,497188
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Community Health Sciences,Diana,Grigsby-Toussaint,,16,1112,1555547
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Physics,Gregory,MacDougall,,16,1112,2012469
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Mechanical Engineering,Harry,Dankowicz,,16,1112,1090848
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Political Science,Alan,Arwine,,16,1112,25936
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Computer Science,Lenny,Pitt,,16,1112,215034
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Music,Charles,Capwell,,16,1112,123001
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Engineering,Umit,Tursun,D.,16,1112,1917169
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Business,Carol,Packard,,16,1112,1661352
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Engineering,John,Weaver,,16,1112,196580

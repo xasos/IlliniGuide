@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Special Education,Amy,Santos,,3,1112,1913817
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Not Specified,Cheryl,Tarsala,,3,1112,759061
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Community Health Sciences,Jane,Ruseski,,3,1112,830105
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Geology,Stephen,Hurst,,3,1112,981944
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Linguistics,James,Yoon,,3,1112,1538539
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.3,poor,Astronomy,Abhijit,Chakraborty,,3,1112,786063
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.3,poor,Mathematics,Zoltan,Furedi,,3,1112,1218105
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.3,poor,English,Brian,Kornell,,3,1112,1274381
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.3,poor,Speech & Hearing Sciences,Lauren,Long,,3,1112,1851318
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Business,Bob,Halperin,,3,1112,647979
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Education,Ishwanzya,Rivers,,3,1112,1280095
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Engineering,Milton,Feng,,3,1112,1477320
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Not Specified,Jaya,Sarkar,,3,1112,1604653
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,"Recreation, Parks, & Tourism",Yelyzaveta,Berdychevsky-Kustanovich,,3,1112,1840012
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Electrical & Comp. Engineering,Matthew,Gilbert,,3,1112,1884232
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Civil Engineering,Eun Jeong,Cha,,3,1112,1958838
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Engineering,John,Tucker,,3,1112,567266
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Architecture,Nancye,Wertz,,3,1112,765194
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Information Science,Bryan,Heidorn,,3,1112,1157103
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Sociology,Erin,Murphy,,3,1112,1169563

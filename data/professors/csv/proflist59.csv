@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Business,Steve,Michael,,7,1112,452023
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,English,John,Claborn,,7,1112,799264
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Music,Ollie,Watts-Davis,,7,1112,820624
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Community Health Sciences,Christine,Kinscherff,,7,1112,835752
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,English,Mandy,Wescott,,7,1112,932290
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Mathematics,Jeremy,Rouse,,7,1112,1091922
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Marketing,Eric,Neuman,,7,1112,1443595
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,English,Debbie,Reese,,7,1112,788594
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Economics,Lon,Carlson,,7,1112,1450687
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Japanese,Rika,Kinoshita,,7,1112,1841783
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Joseph,Vandehey,,7,1112,1198814
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Andrew,Schultz,,7,1112,1257540
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Paul,Johnson,,7,1112,1720025
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Electrical & Computer Engineering,David,Varodayan,,6,1112,1773828
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Computer Science,Gul,Agha,,6,1112,1987889
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.4,poor,Business,Dilip,Chhajed,,6,1112,1091380
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.6,poor,Architecture,Julie,Larsen,,6,1112,1384788
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Political Science,Konstantinos,Travlos,,6,1112,1815685
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Music,Adriana,Helbig,,6,1112,1083660
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Economics,Seung-Hyun,Hong,,6,1112,1205714

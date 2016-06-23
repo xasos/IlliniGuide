@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Mathematics,Alexander,Tumanov,,23,1112,982118
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Biology,Stewart,Berlocher,,23,1112,361100
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,English,Christopher,Freeburg,,23,1112,983361
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Finance,Kevin,Waspi,,23,1112,872905
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Accounting,Jianxin,Gong,,23,1112,767303
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Physics,Laura,Greene,,23,1112,292360
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Music,Gabriel,Solis,,23,1112,122808
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Economics,Ralph,Husby,,23,1112,7740
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,English,Zohreh,Sullivan,,23,1112,436839
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Mathematics,Thomas,Nevins,,23,1112,845280
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Engineering,Gustavo,Gioia,,23,1112,395646
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Julia,Saville,,23,1112,367685
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Mathematics,Christopher,Cunningham,,23,1112,1633191
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Psychology,Robert,Wickesberg,,23,1112,512821
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Mathematics,Nathan,Dunfield,,23,1112,1247875
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Writing,John,Rubins,,23,1112,1004016
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Astronomy,Leslie,Looney,,23,1112,250005
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Communication,Angharad,Valdivia,,22,1112,990531
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Statistics,Steven,Culpepper,,22,1112,1725341
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Mathematics,Allison,Reddy,,22,1112,802749

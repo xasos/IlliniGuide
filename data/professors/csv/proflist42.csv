@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Communication,Christian,Sandvig,,9,1112,776128
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Music,Louis,Bergonzi,,9,1112,779497
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Spanish,Melanie,Waters,,9,1112,1399048
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Philosophy,Steven,Wagner,,9,1112,189658
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Psychology,Joycelyn,Landrum-Brown,,9,1112,478881
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Languages,Nancy,Blake,,9,1112,609104
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Not Specified,Tara Earls,Larrison,,9,1112,749005
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Physics,Nadya,Mason,,9,1112,991624
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Psychology,Brian,Gonsalves,,9,1112,1124643
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Economics,Subir,Bose,,9,1112,951387
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Architecture,Rebecca,Ginsburg,,9,1112,1034486
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Communication,Courtney,Caudle,,9,1112,1518636
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Political Science,Jake,Bowers,,9,1112,1187123
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Engineering,Scott,Burns,,9,1112,185641
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Health Science,Guy,Snyder,,9,1112,504165
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Mathematics,Carol,Ash,,9,1112,615225
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Business,Paul,Lansing,,9,1112,600560
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Fine Arts,Victor,Martinez,,9,1112,680176
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Anthropology,Laura,Shackelford,,9,1112,887690
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Mathematics,Cory,Palmer,,9,1112,1687183

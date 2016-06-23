@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Michael,Madonick,,15,1112,521199
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Biology,May,Berenbaum,,15,1112,396566
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Speech Communication,Chris,Josey,,15,1112,1155914
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Communication,James,Hay,,14,1112,581998
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Mathematics,Elizabeth,Csima,,14,1112,1268222
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Accounting,Martin G. H.,Wu,,14,1112,798124
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Philosophy,Robert,Cummins,,14,1112,983006
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Chemistry,Eric,Oldfield,,14,1112,377399
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Anthropology,Virginia,Dominguez,,14,1112,1106110
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Statistics,Yinxiao,Huang,,14,1112,1747059
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Theology,Gary,Porton,,14,1112,198296
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Speech Communication,Jillian,Zwilling,,14,1112,1092915
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Computer Science,Robin,Kravets,,14,1112,188401
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Agriculture,Lisa,Gunderson,,14,1112,1329191
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Economics,Stephan,Krasa,,14,1112,784005
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Mathematics,Marius,Junge,,14,1112,908365
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,English,Joseph,Valente,,14,1112,398646
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Physics,Frederick,Lamb,,14,1112,416240
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Chemistry,Amy,Nicely,,14,1112,1480662
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Music,Donna,Buchanan,,14,1112,396558

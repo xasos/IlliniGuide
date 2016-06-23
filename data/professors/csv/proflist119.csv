@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Psychology,Rosa,Rosas,,2,1112,1429580
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Civil Engineering,Daniel,Abrams,,2,1112,1592032
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Communication,Ian,Davis,,2,1112,1621311
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Mathematics,Jiashun,Shen,,2,1112,1646998
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,English,Robert,Warrior,,2,1112,1699812
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Music,Steven,Wilson,,2,1112,1889258
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Psychology,Sarah,Stanley,,2,1112,1963847
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Speech Communication,Sarah,Gleisner,,2,1112,571680
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Engineering,Richard,Masel,,2,1112,593146
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Fine Arts,Barbara,Kendrick,,2,1112,731407
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Sociology,Guenther,Lueschen,,2,1112,757757
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Psychology,Howard,Berenbaum,,2,1112,1286373
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Community Health Sciences,David,Daum,,2,1112,1375879
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Community Health Sciences,Markisha,Foster,,2,1112,1409049
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Engineering,Zbigniew,Kalbarczyk,,2,1112,1450614
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Computer Science,Eyal,Amir,,2,1112,1736770
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Information Science,Sidney,Berger,,2,1112,1861114
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Mathematics,Paul,Weichsel,,2,1112,1902326
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Engineering,Constantine,Polychronopoulous,,2,1112,831793
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,English,Steven,Fraiberg,,2,1112,894530

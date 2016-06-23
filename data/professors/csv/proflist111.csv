@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Languages,Christopher,Stewart,,3,1112,339882
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Communication,Marino,Parissi,,3,1112,475327
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Mathematics,Ana-Maria,Popa,,3,1112,537615
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,English,Naomi,Reed,,3,1112,598231
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Mathematics,Eric,Owiesny,,3,1112,655777
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Psychology,Sarah,Sass,,3,1112,683260
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Community Health Sciences,Lisabeth,Searing,,3,1112,795365
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Literature,Harmony,Neal,,3,1112,861125
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Psychology,Sandy,Gloss-Lucas,,3,1112,892993
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Mathematics,Melissa,Simmons,,3,1112,929102
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Speech Communication,John,Coughlin,,3,1112,933475
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Italian,Emanuele,Battisti,,3,1112,1032770
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Studio Art,Luke,Batten,,3,1112,1048932
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Foreign Languages,Oleksandra,Shchur,,3,1112,1204052
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Psychology,Allison,Earl,,3,1112,1210649
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Leisure Studies,Marizel,Davila,,3,1112,1221034
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Italian,Silivia,Kunitz,,3,1112,1283490
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Spanish,Maria,Stasevicius,,3,1112,1288192
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Social Work,Jun Sung,Hong,,3,1112,1324766
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,German,Sören,Priebe,,3,1112,1401586

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,History,Mireya,Loza,,3,1112,1787379
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Religion,Jacqueline,Vayntrub,,3,1112,1836933
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Biochem. & Molecular Biology,James,Morrissey,,3,1112,1869899
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Statistics,David,Unger,,3,1112,1901692
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,Gail,Hapke,,3,1112,1921444
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Geology,Jackie,Malinowski,Wittmer,3,1112,1943158
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Earth Science,Robert,Kanter,,3,1112,1967130
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Political Science,Daniel,Nagashima,,3,1112,2018598
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Communication,Marian,Huhman,,3,1112,2056464
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,English,Sarah,Alexander,,3,1112,361655
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Languages,Susana,Vidal,,3,1112,513722
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Mathematics,Ward,Henson,,3,1112,542643
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Biology,Richard,Kollmar,,3,1112,729842
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,French,Marcus,Keller,,3,1112,843543
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Accounting,Janet,Mosebach,,3,1112,941854
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Speech Communication,Elizabeth,Johnston,,3,1112,948474
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Theater,Corey,Allen,,3,1112,978071
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,History,Alan,Durston,,3,1112,1010872
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Psychology,Amanda,Vicary,,3,1112,1072461
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Engineering,Taher,Saif,,3,1112,1077449

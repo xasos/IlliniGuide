@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Fine Arts,Jennifer,Gunji,,13,1112,302658
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Philosophy,T.,McCarthy,,13,1112,146997
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Sociology,Bernice,Barnett,,13,1112,998049
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Accounting,Jae Yong,Shin,,13,1112,992135
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Science,Brenda,Wilson,,13,1112,124029
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,English,Christopher,Simeone,,13,1112,526441
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Chemistry,Lauren,Denofrio,,13,1112,798609
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Biology,Evan,Delucia,,13,1112,641713
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Kelsey,Keyes,,13,1112,757427
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Philosophy,Shelley,Weinberg,,13,1112,1140258
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Engineering,Douglas,King,M,13,1112,1782407
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Physics,Kevin,Pitts,,13,1112,529468
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Economics,Cagdas,Agirdas,,13,1112,801417
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,History,Maria,Todarova,,13,1112,141676
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Engineering,Volodymyr,Kindratenko,,13,1112,1550607
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Fine Arts,Steven,Kostell,,13,1112,855315
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Accounting,Kevin,Jackson,,13,1112,928533
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Communication,Grace,Giorgio,,13,1112,371885
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,English,Anna,Ivy,,13,1112,827845
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Lee,McGuire,,13,1112,1274383

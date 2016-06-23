@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Finance,David,Molitor,,0,1112,2017807
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Statistics,William,Biscarri,,0,1112,2018094
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Finance,George,Pennacchi,,0,1112,2018867
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Statistics,Michelle,Wang,,0,1112,2019778
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Mechanical Engineering,Sameh,Tawfick,,0,1112,2022209
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Sociology,Feyza,Safoglu,Nur,0,1112,2022550
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Sociology,George,Krueger,,0,1112,2022551
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Biology,Natasha,Capell,,0,1112,2023656
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,English,Patricia,Sunia,,0,1112,2025467
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Business,Ryan ,Singh,,0,1112,2029308
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Spanish,Laura,Cummings,,0,1112,2035904
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Special Education,Mary Alayne,Hughes,,0,1112,2036312
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Athletics,david,koo,,0,1112,2039985
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Comparative Literature,Hapsa,Wane,,0,1112,2040840
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Advertising,Jan,Slater,,0,1112,2041903
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Economics,Steven,Williams,,0,1112,2044732
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Engineering,Mariana,Kersh,,0,1112,2046352
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Economics,Xin,Wang,,0,1112,2049155
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Economics,Woong Yong,Park,,0,1112,2049156
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Economics,Rodrigo,Schneider,A,0,1112,2049157

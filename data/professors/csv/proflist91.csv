@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Architecture,Lee,Waldrep,,4,1112,1764925
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Urban & Regional Planning,Daniel,Schneider,W.,4,1112,1822350
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Biology,Katy,Heath,,4,1112,1927982
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Mathematics,Cary,Malkiewich,,4,1112,1950801
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Julia,Walker,,4,1112,155037
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Aviation,William,Jones,,4,1112,328714
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Computer Science,Dan,Roth,,4,1112,339883
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Languages,Ana,Williams,,4,1112,463921
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Agriculture,Phillip,Buriak,,4,1112,483660
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Languages,Stephanie,Hilger,,4,1112,593985
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Bill,Maxwell,,4,1112,603704
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Architecture,Paul,Kruty,,4,1112,671954
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Mathematics,Patrick,Szuta,,4,1112,782346
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,History,Shefali,Chandra,,4,1112,917449
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Kinesiology,Andrew,Meyer,,4,1112,975013
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Animal Science,Kevin,Kline,,4,1112,1120290
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Accounting,Siyi,Li,,4,1112,1138897
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Accounting,Petro,Lisowsky,,4,1112,1596547
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,French,Sean,Curtin,,4,1112,1692202
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Electrical  Computer Engineering,Christopher,Schmitz,,4,1112,1940421

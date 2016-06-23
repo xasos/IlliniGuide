@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Clair,Sullivan,J,1,1112,1904103
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Religion,Shankar,Nair,A,1,1112,1905721
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Computer Science,Carl,Gunter,,1,1112,1915798
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Accounting,Paul,Demere,M,1,1112,1916422
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Jeffrey,Arrigo,,1,1112,1917564
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Civil Engineering,Hadi,Meidani,,1,1112,1926018
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,French,Laurence,Mall,,1,1112,1936646
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Finance,Rustom,Irani,M,1,1112,1940269
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Kinesiology,Kim,Graber,C.,1,1112,1950927
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Social Work,Rosalba,Hernandez,,1,1112,1951006
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Malik,Obeidin,,1,1112,1965215
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Kinesiology,Michael,De Lisio,,1,1112,1966993
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Communication,Jeremy,Bohonos,,1,1112,1967121
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Kerrith,Livengood,,1,1112,1968177
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Andrew,Megill,,1,1112,1968183
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Elena,Fuchs,,1,1112,1969572
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Statistics,Adam,Martinsek,T.,1,1112,1970309
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Physics,Brian,Enders,,1,1112,1980332
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,James,Pascaleff,,1,1112,1982066
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Matt,Borek,,1,1112,1985027

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Chemistry,Daniel,Jamieson,,37,1112,1758513
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Mathematics,Maarten,Bergvelt,,37,1112,263447
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Physics,George,Gollin,,37,1112,203028
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Communication,Brian,Quick,,37,1112,1415492
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Speech & Hearing Sciences,Matthew,Rispoli,,36,1112,1118597
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Biology,Stephen R.,Downie,,36,1112,459555
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.4,poor,Mathematics,Igor,Mineyev,,35,1112,658829
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,History,Ronald,Toby,,35,1112,1364948
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,English,Robert,Barrett,,35,1112,581853
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Geography,Colin,Thorn,,35,1112,125755
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Biology,Ben,Clegg,,35,1112,774129
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Economics,Salim,Rashid,,34,1112,259929
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,History,Dave,Roediger,,34,1112,94611
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Psychology,Kara,Federmeier,,34,1112,636861
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Mathematics,Jared,Bronski,,34,1112,936282
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Journalism,Jennifer,Follis,,34,1112,1006217
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Computer Science,Craig,Zilles,,34,1112,877830
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Jordan,Sellers,,34,1112,1052112
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,History,Wing,Chow,,33,1112,441551
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Mathematics,Guemlan,Choi,,33,1112,123560

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Kinesiology,Jeff,Woods,,1,1112,1843274
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Physics,Paul,Selvin,R,1,1112,1857092
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Information Science,Barnhart,Anne,,1,1112,1861110
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Labor  Employment Relations,Donna,Sitler,,1,1112,1966816
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Agricultural Economics,Gary,Schnitkey,Donald,1,1112,1984385
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Astronomy,Yuk Tung,Liu,,1,1112,2015302
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Writing,Andrew,Kaplan,,1,1112,2067048
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Engineering,Yuhang,Hu,,1,1112,2146809
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Design,Charlie,Roderick,,1,1112,641754
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Agriculture,Patricia,Burton,,1,1112,804191
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Deaf Studies,Jason,Mad,,1,1112,894254
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Economics,Jose,Val,,1,1112,900695
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Engineering,William,Tucker,,1,1112,1000517
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Music,Catherine,Blom,,1,1112,1055032
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Asian Studies,Akira,Shimizu,,1,1112,1093307
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Kinesiology,Phillip,O'Connor,,1,1112,1109771
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Biochemistry,Kathryn,Palacio,,1,1112,1188181
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Philosophy,Chris,White,,1,1112,1261417
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Humanities,Tracie,Wilson,,1,1112,1286543
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Business,Jon,Bowermaster,,1,1112,1317192

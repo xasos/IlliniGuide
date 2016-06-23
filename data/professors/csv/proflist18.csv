@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,English,Kirstin,Wilcox,,18,1112,724059
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Mathematics,Naeem,Sheikh,,18,1112,557441
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Finance,Elisabeth,Oltheten,,18,1112,615126
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Political Science,Derrick,Frazier,,18,1112,472216
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Mathematics,Rebekah,Arana,,18,1112,1784667
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,History,James,Barrett,,18,1112,323783
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Mechanical Engineering,Randy,Ewoldt,,18,1112,1706041
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,English,Marilyn,Holguin,,18,1112,1070394
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Computer Science,Mahesh,Viswanathan,,18,1112,832792
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Architecture,Heather,Minor,,18,1112,1122190
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Physics,Scott,Willenbrock,,18,1112,601783
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Natural Resources,Tim,Ellsworth,,18,1112,949477
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Political Science,Konstantinos,Kourtikakis,,18,1112,1530312
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Engineering,Paul,Braun,,18,1112,500022
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Religion,Mohammad,Khalil,,18,1112,1049965
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Journalism,Chris,Benson,,18,1112,1169668
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.6,poor,Mathematics,Jayadev,Athreya,,17,1112,1879942
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Physics,Charles,Gammie,,17,1112,1207489
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,History,David,Prochaska,,17,1112,475134
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Art History,Anne,Burkus-Chasson,,17,1112,714570

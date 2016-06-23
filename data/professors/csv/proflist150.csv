@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Electrical  Computer Engineering,Wei,He,,1,1112,2147222
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Physical Ed,Ann,Pollok,,1,1112,683001
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Engineering,Placid,Ferreira,,1,1112,850929
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Communication,Donald,Mullally,,1,1112,868149
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Kinesiology,Kristi,Bolton,,1,1112,897242
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Human Development,Jenell,Kelly,,1,1112,927875
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Urban Design & Development,Jason,Brody,,1,1112,947005
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Law,Cynthia,Williams,,1,1112,958047
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Environmental Studies,Marshall,McDaniel,,1,1112,979055
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Asian Studies,Jacques,Fuqua,,1,1112,993836
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Political Science,Jurgen,Scheffran,,1,1112,1000392
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Japanese,Mineo,Takamura,,1,1112,1050451
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Political Science,Jeremy,Duff,,1,1112,1057454
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Physics,Eduardo,Fradkin,,1,1112,1213348
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,German,Tim,Gruenewald,,1,1112,1286580
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Engineering,John,Leap,,1,1112,1466252
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Engineering,Petros,Voulgaris,,1,1112,1586435
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Spanish,Jill,Jegerski,,1,1112,1749451
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,English,Michelle,Martinez,M,1,1112,1817099
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Communication,Jennifer,Kam,,1,1112,1832572

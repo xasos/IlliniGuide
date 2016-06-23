@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Education,Elaina,Osterbur,,4,1112,1159617
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Anthropology,Christopher,Fennell,,4,1112,1276849
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,German,Richard,Jenkins,,4,1112,1280673
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Mathematics,Geremias,Polanco,,4,1112,1579446
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Natural Resources,Courtney,Flint,,4,1112,1682676
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Mechanical Engineering,Sanjiv,Sinha,,4,1112,1765630
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Information Science,Leigh,Estabrook,,4,1112,1808898
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Electrical & Comp. Engineering,Peter,Dragic,,4,1112,1842639
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Anthropology,Paul,McKenzie-Jones,,4,1112,1844289
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,English,Matthew,O'Brien,,4,1112,1897684
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Engineering,Robert,Dodds,,4,1112,134327
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Engineering,Shiv,Kapoor,,4,1112,485086
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,History,Steven,Jug,,4,1112,999344
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Psychology,Chris,Nye,,4,1112,1220028
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Biology,Patrick,Weatherhead,,4,1112,1415417
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Finance,Mao,YE,,4,1112,1568691
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Engineering,John,Lambros,,4,1112,1586432
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Psychology,John,Hummel,E,4,1112,1805753
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Information Science,Valerie,Hotchkiss,,4,1112,1808943
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Advertising,Tale,Mitchell,,4,1112,1844332

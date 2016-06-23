@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Business,Dan,Sholem,,3,1112,1516722
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Communication,Nicole,Lavoie,,3,1112,1528094
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Accounting,Brooke,Elliott,,3,1112,1571173
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Mechanical Engineering,Melih,Eriten,,3,1112,1583435
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Kinesiology,Eric,Drollette,,3,1112,1664927
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Mechanical Engineering,Alexander,Vakakis,,3,1112,1706043
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,English,Yevgeniya,Funk,,3,1112,1756086
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Communication,Anita,Mixon,,3,1112,1762229
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Writing,Miguel,Jimenez,,3,1112,1766295
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Business,Matthew,Nelson,,3,1112,1787182
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Animal Science,Alfred,Roca,,3,1112,1793435
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Geography,Richelle,Bernazzoli,,3,1112,1836631
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Electrical & Comp. Engineering,Farzad,Kamalabadi,,3,1112,1874305
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Civil Engineering,Brent,Young,,3,1112,1904343
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Social Work,Janet,Carter,,3,1112,1939110
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Business,Margaret,Wright,,3,1112,1979624
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Speech  Hearing Sciences,Justin,Aronoff,,3,1112,2050670
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Mathematics,Ming,Xiao,,3,1112,2042253
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Sociology,Matt,Schneider,,3,1112,2085946
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Sociology,Catherine,Kenney,,3,1112,80294

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.1,poor,Civil Engineering,Praveen,Kumar ,,4,1112,1960009
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.1,poor,Electrical  Comp. Engineering,Arne,Fliflet,,4,1112,2084675
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Biology,Carl,Malmgren,,4,1112,1439474
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Education,Eurydice,Bauer,,4,1112,1693634
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Media  Cinema Studies,Kerry,Wilson,,4,1112,1928133
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.4,poor,Economics,Dakshina,De Silva,,4,1112,1222741
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.4,poor,Economics,Jorge,Rojas,,4,1112,1405584
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.4,poor,Community Health Sciences,Laura,McCloskey,,4,1112,1536940
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.6,poor,Economics,Joana,Meyer,,4,1112,833998
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.6,poor,Special Education,Cheryl,Light Shriner,,4,1112,1750765
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.6,poor,Advertising,John,Wirtz,,4,1112,1901610
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.6,poor,Chemistry,David,Kell,,4,1112,2116847
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Community Health Sciences,Youngshik,Park,,4,1112,1020165
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Mathematics,Chadwick,Gugg,,4,1112,717725
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Mathematics,Rosana,Eldred,,4,1112,1031280
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,English,Nafissa,Thompson-Spires,,4,1112,1904188
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Computer Science,Sariel,Har-Peled,,4,1112,831801
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Agriculture,Gerald,Nelson,,4,1112,902613
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Environmental Studies,Michelle,Wander,,4,1112,949476
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Biology,Tracey,Hickox,,4,1112,1247208

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Political Science,Ginsela,Sin,,6,1112,1879481
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Engineering,S.,Balachandar,,6,1112,601079
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Philosophy,Steve,Zusman,,6,1112,747748
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Biology,Claudio,Grosman,,6,1112,904942
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Chemistry,Jeremy,Weaver,,6,1112,1017765
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Engineering,Daniel,Bodony,,6,1112,1197501
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Mathematics,Desmond,Cummins,,6,1112,1753694
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Advertising,Brett,Clifton,,6,1112,1853073
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Languages,Eman,Saadah,,6,1112,757260
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Child & Family Studies,Elissa,Thomann,,6,1112,875416
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Speech Communication,Kay,Holley,,6,1112,908605
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Education,Yoon,Pak,,6,1112,944140
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Psychology,Daniel,Simons,,6,1112,1085359
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Mathematics,Isidora,Milin,,6,1112,1440941
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,"Recreation, Parks, & Tourism",Lorikay,Paden,,6,1112,1634060
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Psychology,Renee,Baillargeon,,6,1112,1723342
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Philosophy,Andrew,Arana,,6,1112,1752036
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Mathematics,Grant,Lakeland,,6,1112,1789133
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Psychology,Roberto,Galvez,,6,1112,1820707
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Architecture,Keddy,Hutson,,6,1112,210679

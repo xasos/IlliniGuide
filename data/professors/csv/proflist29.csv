@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Philosophy,Kirk,Sanders,,13,1112,1234576
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Speech Communication,Mary,Ramey,,13,1112,933302
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Anthropology,Steve,Leigh,,13,1112,206857
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Fine Arts,Joel,Ross,,13,1112,765045
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Animal Science,Carla,Caceres,,13,1112,339421
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,English,Mary,Lindsey,,13,1112,1209159
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Political Science,Laura,Hastings,,13,1112,1229185
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Engineering,Lara,Waldrop,,13,1112,1248989
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.3,poor,Chemistry,Roman,Boulatov,,12,1112,934515
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Science,Michael,Schlesinger,,12,1112,1272768
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,English,Alice,Deck,,12,1112,768220
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,History,Vernon,Burton,,12,1112,281470
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Anthropology,F.K.,Lehman,,12,1112,146993
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Computer Science,Roy,Campbell,,12,1112,180294
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Engineering,Amy,Wagoner-Johnson,,12,1112,532813
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Ethnic Studies,Aide,Acosta,,12,1112,1426706
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Electrical & Comp. Engineering,Elyse,Rosenbaum,,12,1112,585721
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,poor,Economics,In-Koo,Cho,,12,1112,260201
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,poor,Mathematics,Dror,Varolin,,12,1112,404766
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Community Health Sciences,Jeffery,Trask,,12,1112,989520

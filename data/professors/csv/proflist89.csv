@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Economics,Adam,Osman,,4,1112,1954446
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Media  Cinema Studies,Dora,Valkanova ,,4,1112,2018165
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Music,Ronald,Hedlund,,4,1112,449141
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Chemistry,Brian,Freeman,,4,1112,470084
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Engineering,Douglas,Jones,,4,1112,567280
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Languages,Elena,Delgado,,4,1112,611994
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Women's Studies,Joanne,Chan,,4,1112,625433
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Physics,Michael,Weissman,,4,1112,999767
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Architecture,Michael,McCulley,,4,1112,1020449
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Psychology,Grant,Edmonds,,4,1112,1072459
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Engineering,Uday,Shanbhag,,4,1112,1093195
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Engineering,Olgica,Milenkovic,,4,1112,1269896
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Finance,Jeffrey,Davis,,4,1112,1286376
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Chinese,Yun,Yao,,4,1112,1473978
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Anatomy,Kurt,Kwast,,4,1112,1612561
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Writing,Erica,Melko,,4,1112,1626516
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Geology,Sam,Slaven,,4,1112,1706013
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Anthropology,Susan,Frankenberg,,4,1112,1745444
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Psychology,Nicole,Anderson-Cobb,,4,1112,1868758
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Computer Science,Andreas,Kloeckner,,4,1112,1891206

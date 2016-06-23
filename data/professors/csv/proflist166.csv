@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Education,Louis,Roussos,,1,1112,1000058
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Jonah,Sinick,,1,1112,1020260
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Agriculture,Robert,Thompson,,1,1112,1029236
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Agriculture,Meghan,Smith,,1,1112,1047812
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Speech Communication,Lindsay,Hinkle,,1,1112,1052987
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Daniel,Zaharopol,,1,1112,1062493
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Social Work,Jeff,Scott,,1,1112,1063287
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Aviation,Alexander,Rushing,,1,1112,1065314
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Sarah,Sullivan,,1,1112,1066115
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Physics,Patrick,Mears,,1,1112,1067980
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Accounting,Josh,Barnett,,1,1112,1069704
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,History,Nathan,Chio,,1,1112,1075524
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Chemistry,Adam,Washburn,,1,1112,1081584
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Studio Art,Joseph,Squier,,1,1112,1081776
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Nathan,Gunn,,1,1112,1100182
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Architecture,Scott,Murray,,1,1112,1121791
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Humanities,Christine,Catanzarite,,1,1112,1131836
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Dana,Hall,,1,1112,1136919
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Speech Communication,Stephen,Didomenico,,1,1112,1160353
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Jamie,Abaied,,1,1112,1160355

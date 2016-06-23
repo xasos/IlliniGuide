@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Statistics,LU,Gan,,4,1112,1545340
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Statistics,Bavwidinsi,Bawawana,,4,1112,1631341
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,TA,Andrew,Kaplan,,4,1112,1981923
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Civil Engineering,Ange,Akono,Therese,4,1112,1983314
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Mathematics,Detchat,Samart,,4,1112,2113165
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Economics,Michael,Brun,,4,1112,554976
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Accounting,Theodore,Sougiannis,,4,1112,595641
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Mathematics,David,Ross,,4,1112,788766
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Agriculture,Jules,Elkins,,4,1112,827821
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Fine Arts,Rosalyn,Schwartz,,4,1112,871998
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,English,Erin,Heath,,4,1112,1219966
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,International Studies,Barbara,Hancin-Bhatt,,4,1112,1229179
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Psychology,Stan,Wasserman,,4,1112,161355
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Languages,Juan,Socarras,,4,1112,749457
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Engineering,Xin,Chen,,4,1112,787542
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Geography,James,Best,,4,1112,1210660
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Political Science,Clifford,Singer,,4,1112,1444083
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Agricultural Economics,Joyce,Allen-Smith,,4,1112,1779283
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Anthropology,Vicente,Diaz,,4,1112,1855376
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Engineering,Yu-Ching,Lee,,4,1112,1880233

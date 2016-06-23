@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Food Science,Shelly,Schmidt,,27,1112,396565
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Science,James,Kaler,,27,1112,26680
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Psychology,Steven,Luke,,27,1112,832687
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Mathematics,Rosemary,Guzman,K,26,1112,2036750
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Comparative Literature,Rini,Mehta,,26,1112,900694
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Classics,David,Sansone,,26,1112,450697
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Communication,Jason,Chambers,,26,1112,695355
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Leisure Studies,Katherine,Broughton,,26,1112,1480785
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Mathematics,Karen,Mortensen,,26,1112,799374
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Political Science,Carol,Leff,,26,1112,546781
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Science,Esmail,Meisami,,26,1112,124044
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,English,Stephanie,Foote,,26,1112,524868
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Mathematics,Ming Chu,Gao,,25,1112,920974
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Finance,Donald,Davis,,25,1112,1090052
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Engineering,Shobha,Vasudevan,,25,1112,1106210
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Mathematics,Lena,Folwaczny,C,25,1112,1907208
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Anthropology,Andrew,Orta,,25,1112,211568
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Fine Arts,Robin,Douglas,,25,1112,285125
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Film,Jose,Capino,,25,1112,170405
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Mathematics,Joseph,Miles,,25,1112,448556

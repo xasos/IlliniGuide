@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Music,Blaine,Edlefsen,,0,1112,345260
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Engineering,Ryan,Logsdon,,0,1112,345299
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Business,Geoffrey,Green,,0,1112,399833
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Agriculture,Peter,Barry,,0,1112,416060
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Information Science,Karen,Medina,,0,1112,436923
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Engineering,Michael James,Pine,,0,1112,444489
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Agriculture,Christy,Sprague,,0,1112,457446
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Anthropology,Timothy,Pilbrow,,0,1112,501520
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Biology,Steven,Huber,,0,1112,504062
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Physical Ed,Mike,Frogley,,0,1112,504685
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Computer Science,Sylvian,Ray,,0,1112,507429
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Languages,Marcos,Campillo,,0,1112,527038
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,English,Ben,Stephens,,0,1112,588422
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Mathematics,Javier,Moreno,,0,1112,602065
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Music,Eric,Dalheim,,0,1112,625672
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Languages,Claire,Hutchinson,,0,1112,677874
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Graphic Arts,Robb,Springfield,,0,1112,734799
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Mathematics,Ayhan,Gunaydin,,0,1112,745167
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Communication,Paul,Riismandel,,0,1112,749261
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Mathematics,Richard,Britton,,0,1112,780868

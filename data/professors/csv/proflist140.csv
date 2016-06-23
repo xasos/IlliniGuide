@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Dan,Block,,2,1112,1687710
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Computer Science,Mike,Woodley,,2,1112,1698730
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Daniel,Liberzon,M.,2,1112,1753618
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Natural Resources,Jennifer,Fraterrigo,,2,1112,1776911
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Civil Engineering,Larry,Fahnestock,A,2,1112,1782008
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Physics,Taylor,Hughes,,2,1112,1783501
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Biology,Daniel,Welsh,,2,1112,1786441
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,French,Aileen,Ruane,R.,2,1112,1790819
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Business,Ravi,Gajendran,,2,1112,1798734
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Media & Cinema Studies,Safiya,Noble,,2,1112,1808941
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Literature,Valeria,Sobol,,2,1112,1815897
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Foreign Languages,Jasmina,Savic,,2,1112,1836934
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Classics,Melissa,Huang,,2,1112,1838444
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Itxaso,Rodriguez,,2,1112,1862750
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,History,Tessa Marie,Winkelmann,,2,1112,1864734
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Michael,Perino,,2,1112,1866469
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Women's Studies,Rachel,Storm,,2,1112,1878321
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Writing,Nolan,Grieve,,2,1112,1879434
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Hillary,Schwarb,,2,1112,1882850
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Armin,Straub,,2,1112,1899968

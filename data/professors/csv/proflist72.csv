@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Engineering,Michael,Selig,,5,1112,750382
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Engineering,Elizabeth,Hsiao-Wecksler,,5,1112,934048
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Biology,Phillip,Newmark,,5,1112,939911
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Accounting,Mark,Peecher,,5,1112,1091990
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Speech Communication,Trina,Wright,,5,1112,1112488
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Animal Science,Janeen,Salak-Johnson,L.,5,1112,1986977
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Anthropology,Arlene,Torres,,5,1112,94798
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Economics,Franklin,Shupp,,5,1112,124041
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,History,Charles,Stewart,,5,1112,466901
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,History,Richard,Esbenshade,,5,1112,1017653
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Journalism,Nancy,Benson,,5,1112,1064297
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Finance,Prachi,Deuskar,,5,1112,1131734
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Psychology,Nils,Schneider,,5,1112,1210504
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,American Studies,Tony,Clark,,5,1112,1379243
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Not Specified,Joel,Blanco,,5,1112,1660401
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,English,Sean,MacIntyre,,5,1112,1812719
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Psychology,Jill,Coleman,,5,1112,482602
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,English,Jennifer,Mylander,,5,1112,673495
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Philosophy,William,Schroeder,,5,1112,968958
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Women's Studies,Sharra,Vostral,,5,1112,1050170

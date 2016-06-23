@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Robert,Rumbelow,,1,1112,1797922
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Anthropology,Timothy,Landry,,1,1112,1799594
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Information Science,Melissa,Salrin,,1,1112,1808939
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Business,Marleen,McCormick,,1,1112,1825702
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Education,Heather,Harris,,1,1112,1828113
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Earth Science,William,Chapman,,1,1112,1829330
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Business,Eric,Fang,,1,1112,1841474
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Natalie,Watson,,1,1112,1849600
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Lisa,Burner,,1,1112,1854818
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Bioengineering,Hailey,Wilder,A,1,1112,1855368
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Art & Design,Ben,Grosser,,1,1112,1855830
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Information Science,Dennis,Quinn,P,1,1112,1861102
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Information Science,Carole,Palmer,,1,1112,1861224
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,East Asian Studies,Alex,Kais,,1,1112,1868209
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Community Health Sciences,Renique,Kersh,,1,1112,1868417
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Business,Wenxin,Xu,,1,1112,1868836
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Art History,Kristin,Romberg,,1,1112,1891204
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,East Asian Studies,Benjamin,Ridgway,,1,1112,1896607
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Speech & Hearing Sciences,Cheryl,Yepez,,1,1112,1902100
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Kristina,Boerger,G,1,1112,1902804

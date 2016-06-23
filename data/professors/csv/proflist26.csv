@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Chemistry,Erin,Whitteck,,14,1112,1262815
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Engineering,William,Hammack,,14,1112,557616
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Agriculture,Joe,Harper,,14,1112,786362
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,English,Robert,Markley,,14,1112,498534
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Architecture,Arthur,Kaha,,14,1112,557341
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Sociology,Anna-Maria,Marshall,,14,1112,323882
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Mathematics,Eugene,Lerman,,14,1112,795466
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Political Science,Xinyuan,Dai,,14,1112,778601
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Engineering,David,Zhang,,14,1112,649552
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Geography,Colin,Flint,,14,1112,1066360
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Electrical & Comp. Engineering,Chandrasekhar,Radhakrishnan,,14,1112,1867040
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Economics,Jason,Dunick,,14,1112,263675
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Accounting,Cynthia,Turner,,14,1112,652164
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Finance,Jeffrey,Brown,R.,14,1112,1841476
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Community Health Sciences,Justine,Kaplan,,14,1112,1895313
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Music,Aaron,Ziegel,,14,1112,1642172
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Richard T,Rodriguez,,14,1112,613185
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Speech & Hearing Sciences,Susan,Dramin-Weiss,,14,1112,982499
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.4,poor,Mechanical Engineering,Muni,Ranaweera,,13,1112,912379
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Chemistry,Maya,Ramesh,,13,1112,380815

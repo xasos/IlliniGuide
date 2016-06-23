@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Political Science,Eugene,Wolfe,,10,1112,476864
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Music,Katherine,Syer,,10,1112,290308
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Mechanical Engineering,Bruce,Flachsbart,,10,1112,1259730
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Business,Michael,Lim,,10,1112,1446556
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,English,Scott,Campbell,,10,1112,211567
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Bioengineering,Princess,Imoukhuede,,10,1112,1765835
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Music,Gayle,Magee,,10,1112,640475
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Speech & Hearing Sciences,Seok-Youn,Yoon,,10,1112,900691
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Accounting,David,Koo,,10,1112,1842010
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Chemistry,Martin,Burke,,10,1112,1466516
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Communication,Michele,Koven,,10,1112,1274445
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Languages,Richard,Tempest,,10,1112,562548
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Erin,McQuiston,,10,1112,892316
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,History,S. Max,Edelson,,10,1112,122810
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,International Studies,William,Hope,,10,1112,1070030
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Art History,Dana,Rush,,10,1112,548109
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Engineering,Erhan,Kudeki,,10,1112,567275
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Psychology,Diane,Beck,,10,1112,990436
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Science,Abigail,Salyers,,10,1112,57224
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Political Science,Kristina,Miler,,10,1112,620992

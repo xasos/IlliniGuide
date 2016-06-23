@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Sha,Chen,,1,1112,1371892
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Statistics,Erin,Condon,,1,1112,1377398
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Accounting,Anu,Varadharjan,,1,1112,1378096
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Eric,Peterson,,1,1112,1387731
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Astronomy,John,Lee,,1,1112,1408083
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Biology,Steven,Blanke,,1,1112,1413450
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Food Science,Elizabeth F.,Reutter,,1,1112,1415881
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Education,Todd,Spinner,,1,1112,1438282
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Italian,Jillian,Schouten,,1,1112,1438286
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Brian,Dolinar,,1,1112,1446731
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Architecture,Stewart,Hicks,,1,1112,1461865
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Human & Community Development,Aimee,Rickman,,1,1112,1470224
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,P. R.,Kumar,,1,1112,1482188
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,John,Knorek,,1,1112,1488663
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Stan,Chang,,1,1112,1501704
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Computer Science,Prateek,Rungta,,1,1112,1508918
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Linguistics,Ruth,Watkins,,1,1112,1513816
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Philosophy,Christopher,Tomaszewski,,1,1112,1521904
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Kinesiology,Deirdre,Dlugonski,,1,1112,1529533
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,American Studies,Christine,Stanciu,,1,1112,1537818

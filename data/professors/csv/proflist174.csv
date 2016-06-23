@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Political Science,Aleksander,Ksiazkiewicz,,1,1112,2123370
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Advertising,Shachar,Meron,,1,1112,2125364
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,History,Mauro,Nobili,,1,1112,2125642
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,History,Diane,Koenker,P,1,1112,2133550
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Linguistics,Alice,Huang,,1,1112,2133786
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,History,Bao,Bui,,1,1112,2134577
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Dolores,Albarracin,,1,1112,2139953
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Political Science,Audrey,Neville,,1,1112,2141707
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Journalism,Jabari,Asim,,0,1112,1246560
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Not Specified,Courtney,Weisman,,0,1112,1764187
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,History,Andrew,Siebert,,0,1112,1778766
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Not Specified,Anna,Rinaldi-Miles,,0,1112,1712235
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Speech Communication,Lauren,Walker,,0,1112,965778
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,English,Carrie,Lamanna,,0,1112,970659
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Marketing,William,Qualls,,0,1112,990591
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Mathematics,Greg,Frazier,,0,1112,1046348
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Anthropology,Emma,Rueterra,,0,1112,1070047
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Music,Michael,Cameron,,0,1112,1074784
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Spanish,Anita,Saalfeld,,0,1112,1084915
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Japanese,Yoko,Numata,,0,1112,1093427

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Social Work,Mark,Testa,,1,1112,1367387
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Labor & Employment Relations,John,Lawler,,1,1112,1419363
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Foreign Languages,William,Castro,,1,1112,1527000
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Mechanical Engineering,William,King,,1,1112,1554932
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Media Arts,Koeli,Goel,,1,1112,1613765
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Social Science,Blake,Riley,,1,1112,1631136
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Economics,Yiqun,Wang,,1,1112,1661506
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Information Science,David,Dubin,,1,1112,1861217
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Information Science,Bonnie,Mak,,1,1112,1861221
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Foreign Languages,Leonardo,Giannossa,,1,1112,1865356
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Engineering,Ling,Meng,J,1,1112,1877622
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Business,Gregory,Marrs,Alan,1,1112,1890545
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Leisure Studies,Liza,Berdchevsky,,1,1112,1903925
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Urban  Regional Planning,Andrew,Greenlee,J.,1,1112,1955103
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Biology,Barry,Pittendrigh,,1,1112,1966179
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Agriculture,Gary,Ochs,,1,1112,1983628
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Biology,Timothy,Wertin,,1,1112,2130150
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Materials Engineering,Qian,Chen,,1,1112,2142669
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Art  Design,Paula,Popowski,,1,1112,2146313
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Business,Jeffrey,Kindt,,1,1112,493548

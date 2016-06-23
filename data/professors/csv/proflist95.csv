@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Social Work,Tara,Larison,,4,1112,1455655
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,History,Scott,Harrison,,4,1112,1501710
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,"Recreation, Parks, & Tourism",Nicholas,Hryhorczuk,,4,1112,1548376
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Management,Raj,Echambadi,,4,1112,1581137
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Bioengineering,Eleni,Antoniadou,,4,1112,1588027
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Danielle,Thomas,,4,1112,1631376
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,J. Michael,Holmes,,4,1112,1664763
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Genevieve,Henricks,,4,1112,1666003
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Joseph,Grohens,,4,1112,1686253
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Accounting,Andrew,Bauer,,4,1112,1703182
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Computer Science,Philip Brighten,Godfrey,,4,1112,1719710
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Craig,Dutton,,4,1112,1725773
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Human & Community Development,Jill,Bowers,R,4,1112,1884555
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Social Work,Delight ,Deloney,,4,1112,1951016
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Civil Engineering,Jeremy,Guest,,4,1112,1968535
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Accounting,Oktay,Urcan,,4,1112,2014764
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Biology,Ed,Heske,,3,1112,328259
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Graphic Arts,Henry,Brimmer,,3,1112,839326
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Agriculture,Richard,Gates,,3,1112,1541117
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Music,Erin,Gee,,3,1112,1814757

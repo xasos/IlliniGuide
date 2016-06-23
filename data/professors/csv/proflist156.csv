@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Biology,John,Drake,,1,1112,1235310
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Agriculture,Snook,Pataky,,1,1112,1249532
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Science,Richard,Weinzierl,,1,1112,1268930
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Kinesiology,Emily,Mailey,,1,1112,1317444
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Mathematics,Donald,Tsai,,1,1112,1365316
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Education,Susan,Noffke,,1,1112,1374658
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Mechanical Engineering,Andrew,Alleyne,,1,1112,1425996
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Engineering,Yuanhui,Zhang,,1,1112,1442711
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Engineering,Daniel,Pack,,1,1112,1494523
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Political Science,Lauren,Knizner,,1,1112,1501716
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Geography,Katie,Coulter,,1,1112,1518306
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Chemistry,Nicholas,Llewelyn,,1,1112,1551207
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Fine Arts,Kevin,Reeder,,1,1112,1566471
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,French,Laëtitia,Deleuze,,1,1112,1620131
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Computer Science,Klara,Nahrstedt,,1,1112,1668024
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Mechanical Engineering,Stephen,Platt,,1,1112,1681744
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,"Recreation, Parks, & Tourism",Andrew,Kerins,,1,1112,1684939
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Art & Design,Matthew,Peterson,,1,1112,1687510
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Engineering,Jean-Pierre,Leburton,,1,1112,1692951
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Law,Richard,Hazlewood,,1,1112,1719233

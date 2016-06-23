@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Anthropology,T,Pilborw,,2,1112,501519
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Fine Arts,Linda,Lehovic,,2,1112,513459
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Mathematics,Rapti,Zoe,,2,1112,734033
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Journalism,Michael,Howie,,2,1112,810029
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,History,Rachel,Shulman,,2,1112,845712
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Communication,Pedro,Caban,,2,1112,902280
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Accounting,Raghunathan,Venugopalan,,2,1112,923334
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Asian Studies,Josie,Sohn,,2,1112,960883
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Not Specified,Elizabeth,Dampf,,2,1112,1208440
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Chinese,Hao,Chen,,2,1112,1287633
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Finance,Vyacheslav,Fos,,2,1112,1728018
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Animal Science,Juan,Loor,,2,1112,1733343
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Communication,Katie,Abrams,,2,1112,1789161
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,African-American Studies,Robin,Jarrett,L,2,1112,1875993
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Engineering,Kai,James,,2,1112,2069327
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Psychology,David,Budescu,,2,1112,580594
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Music,Anna,Shultz,,2,1112,795370
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Chemistry,Charity,Flener,,2,1112,798610
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Psychology,Yi Ching,Lee,,2,1112,916865
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,English,Eve,Eure,,2,1112,982131

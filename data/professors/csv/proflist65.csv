@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Not Specified,Monika,Stodolska,,6,1112,260202
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Engineering,W.E.,Dunn,,6,1112,600901
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Political Science,Merle,Bowen,,6,1112,798992
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Accounting,John,Chandler,,6,1112,800928
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,English,Shawn,Gilmore,,6,1112,860373
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,English,Agnieszka,Tuszynska,,6,1112,1247088
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Film,Sasha,Mobley,,6,1112,1840958
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Natural Resources,Yuji,Arai,,6,1112,1903764
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,Mark,Thompson,,6,1112,274396
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,H. Adlai,Murdoch,,6,1112,572054
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Speech Communication,Samantha,Arnold,,6,1112,709454
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,History,Clarence,Lang,,6,1112,799312
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Psychology,Sandra,Lucas,,6,1112,865331
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Foreign Languages,Laurence,Mall,,6,1112,947957
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Communication,Matthew,Pitchford,,6,1112,1788388
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Music,Debra,Richtmeyer,,6,1112,122982
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Physics,Tom,Junk,,6,1112,404491
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Science,Greg,McFarquhar,,6,1112,707738
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,Susan,Koshy,,6,1112,773778
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,History,Eugene,Avrutin,,6,1112,936582

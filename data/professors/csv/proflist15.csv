@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Mathematics,Rinet,Kedem,,20,1112,568501
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Electrical & Computer Engineering,Hyungsoo,Choi,,20,1112,850928
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Mathematics,Joe,Rosenblatt,,20,1112,474910
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Music,Thomas,Turino,,20,1112,270341
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Psychology,Janice,Juraska,,20,1112,512820
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,English,Lori,Newcomb,,20,1112,84957
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,History,Harry,Liebersohn,,20,1112,557537
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Psychology,Gary,Dell,,20,1112,723981
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Engineering,Louis,Wozniak,,20,1112,267309
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Business,Ali,Tafti,,20,1112,1521236
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,English,Robert Dale,Parker,,20,1112,783412
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Mathematics,Matthew,Ando,,20,1112,940833
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Mathematics,Larry,Dornhoff,,20,1112,153160
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Physics,Robert,Brunner,,20,1112,531660
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Mathematics,Richard,Laugesen,,20,1112,577903
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Astronomy,Athol,Kemball,,20,1112,1270813
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Women's Studies,Cris,Mayo,,20,1112,353798
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Mathematics,Bruce,Reznick,,20,1112,569854
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Biology,Andrew,Suarez,,20,1112,483663
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Theater,J.W.,Morrissette,,20,1112,1434220

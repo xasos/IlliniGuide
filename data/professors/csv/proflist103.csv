@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Education,Light,Shriner,,3,1112,1212708
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Engineering,Andrew,Singer,,3,1112,1453160
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,English,Sarah,Sahn,,3,1112,1485816
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Biology,Gary,Olsen,,3,1112,1581872
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,East Asian Studies,Elisheva,Perelman,,3,1112,1688926
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Mathematics,Jingwei,Guo,,3,1112,1699773
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,History,Terri,Weissman,,3,1112,1720543
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Social Work,Minli,Liao,,3,1112,1753326
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Computer Science,John,Bambenek,,3,1112,1810934
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Advertising,Chang-Dae,Ham,,3,1112,1848472
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Cinema,Julie,Turnock,,3,1112,1852678
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Music, Ulrike ,Praeger,,3,1112,2051034
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Anthropology,Leslea Jane,Hlusko,,3,1112,142796
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Chemistry,Roshelle,Silverman,,3,1112,373129
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Psychology,Helen,Neville,,3,1112,395113
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Agriculture,Randall,Westgren,,3,1112,416061
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,History,Lillian,Hoddeson,,3,1112,551580
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Speech Communication,Daena,Goldsmith,,3,1112,554956
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Mathematics,Malgorzata,Konwerska,,3,1112,557248
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Mathematics,Nora,Ganter,,3,1112,558384

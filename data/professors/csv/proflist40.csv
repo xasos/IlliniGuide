@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.3,poor,Mathematics,Babak,Modami,,9,1112,1877941
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Political Science,Dianne,Pinderhughes,,9,1112,179314
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Music,Tom,Ward,,9,1112,204076
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Electrical & Comp. Engineering,Mike,Roppo,,9,1112,1833935
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Mathematics,Robert,Fossum,,9,1112,344287
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Sociology,Serife,Genis,,9,1112,1405331
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Speech & Hearing Sciences,Kenneth,Watkin,,9,1112,203313
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Ethnic Studies,Gang (or Gary),Xu,,9,1112,396563
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Spanish,Vicky,Hackbarth,,9,1112,1228793
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Spanish,Teresa,Peris Fuentes,,9,1112,1380191
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Mathematics,Sergey,Dyachenko,,9,1112,2045735
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Speech & Hearing Sciences,Torrey,Loucks,,9,1112,1670011
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Fine Arts,Christiana,Marten,,9,1112,680177
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Chemistry,Dana,Dlott,,9,1112,842851
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Psychology,Alison,Groot,,9,1112,261461
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Mathematics,Panki,Kim,,9,1112,800304
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Civil Engineering,Erol,Tutumluer,,9,1112,1290367
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Engineering,Narendra,Ahuja,,9,1112,215324
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Architecture,Mohamed,Boubekri,,9,1112,437207
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Mathematics,Yi,Lin,,9,1112,450474

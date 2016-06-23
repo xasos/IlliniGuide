@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Accounting,Zach,Wang ,,1,1112,1986399
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Geography,Pronoy,Rai,,1,1112,1987946
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Political Science,Jamie,Thomas-Ward,,1,1112,2012961
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Bioengineering,Kaustubh ,Bhalerao,,1,1112,2019272
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Languages,Oleksandra,Wallo,,1,1112,2019487
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Daniel,Storage,,1,1112,2027761
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Architecture,Michael,Kim,,1,1112,2034726
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Chelsea  ,Farmer,E.,1,1112,2038608
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Education,Fouad,Abd El Khalick,,1,1112,2049714
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Foreign Languages,Josephine,Karkafi,,1,1112,2050782
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Bridget,Sweet,,1,1112,2051514
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Tim,Dean,,1,1112,2051590
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Chinese,Taoyu ,Yang,,1,1112,2068310
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Urban  Regional Planning,Stephen,Sherman,,1,1112,2074574
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Human  Community Development,James Kale,Monk,,1,1112,2075615
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Social Work,Carol,Wilson Smith,,1,1112,2077859
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Candice,Jenkins,,1,1112,2084904
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Adrian,Herrera Escobar,,1,1112,2094239
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Natalie,Mesner,,1,1112,2100828
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Seonghee,Cho,,1,1112,2111578

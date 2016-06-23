@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Music,Michael,Silvers,,2,1112,1922040
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Animal Biology,Allison,Hansen,,2,1112,1967119
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Psychology,Christine,Shenouda,,2,1112,2031247
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Economics,JiHyung,Lee,,2,1112,2058767
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Economics,Marieke,Kleemans,,2,1112,2095966
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Business,Lawrence,DeBrock,,2,1112,2097370
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Physics,Anne,Sickles,,2,1112,2102985
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Business,Phillip,Anderson,,2,1112,2117873
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Humanities,Lawrence,Schehr,,2,1112,151350
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Psychology,Denise,Kubose,,2,1112,495491
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,English,Soonjak,Kim,,2,1112,582832
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Architecture,Amy,Teckenbrock,,2,1112,671928
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,"Recreation, Parks, & Tourism",Bruce,Wicks,,2,1112,817948
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Theater,Thomas,Mitchell,,2,1112,845718
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Art History,Sofia,Georgiadou,,2,1112,999342
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Business,Yupin,Patarapongsant,,2,1112,1000372
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Astronomy,Telemachos,Mouschovias,,2,1112,1134901
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Economics,Eric,Hake,,2,1112,1157100
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Linguistics,Benjamin,Slade,,2,1112,1167589
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Architecture,Allen,Taylor,,2,1112,1218302

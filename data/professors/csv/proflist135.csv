@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Linguistics,Chilin,Shih,,2,1112,1380194
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Micah,Riecker,,2,1112,1406814
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,American Studies,John,Low,,2,1112,1408338
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Human & Community Development,Brent,McBride,,2,1112,1437218
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Music,Jeff,Magee,,2,1112,1448395
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Psychology,Dana,Joseph,,2,1112,1481573
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Computer Science,Lucas,Cook,,2,1112,1508919
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Spanish,Jose,Hualde,,2,1112,1510956
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Psychology,Erin,Jones,,2,1112,1546549
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Economics,Diego,Margot,,2,1112,1638961
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Languages,Alyssa,Martoccio,,2,1112,1640126
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Communication,Jasmine,Roberts,,2,1112,1674039
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Geography,Julie,Cidell,,2,1112,1687722
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Agriculture,Andrea,Taylor,,2,1112,1718354
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Wendy,Truran,,2,1112,1734681
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Sociology,Asef,Bayat,,2,1112,1761859
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Spanish,Emily,Foss,,2,1112,1793297
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Pathology,Gregory,Freund,G,2,1112,1803715
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Lynee,Lawson,,2,1112,1854407
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Information Science,Bob,Burger,,2,1112,1861117

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Economics,Kristine,Brown,,5,1112,1205710
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Psychology,Caroline,Tancredy,,5,1112,1311258
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Architecture,William C.,Sullivan,,5,1112,1481214
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Economics,Evangelia,Chalioti,,5,1112,1674032
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Speech & Hearing Sciences,Donald,Haring,,5,1112,1715674
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Science,Peter,Snyder,,5,1112,898281
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,English,Tara,Lyons,,5,1112,930059
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Languages,Vandana,Puri,,5,1112,980435
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,English,Matt,Minicucci,,5,1112,1453752
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Communication,Jillian,Beley,,5,1112,1481606
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Art,Laura,Hetrick,,5,1112,1606709
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Engineering,Elizabeth,Lemay,,5,1112,1709953
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,French,Brian,Hunt,,5,1112,1724784
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,French,Peter,Golato,,5,1112,1750591
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Mechanical Engineering,Sungwoo,Nam,,5,1112,1904702
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Music,Chester,Alwes,,5,1112,192331
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Agriculture,Gary,Kling,,5,1112,471601
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Psychology,Christopher,Armstrong,,5,1112,617208
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Community Health Sciences,Travis,Gayles,,5,1112,903121
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Languages,Daria,Kabanova,,5,1112,942064

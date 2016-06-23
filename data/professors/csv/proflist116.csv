@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Biology,Chris,Holmes,,3,1112,1693530
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Cynthia,Haymon-Coleman,,3,1112,1701807
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Materials Engineering,Mohamed,Aboukhatwa,,3,1112,1783068
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Agricultural Economics,Brenna,Ellison,,3,1112,1839691
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Information Science,Yoo-Seong,Song,,3,1112,1861158
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,History,Onni,Gust,,3,1112,1862207
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Economics,Rachel,Shafer,,3,1112,1869911
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Business,Carl,Vieregger,H,3,1112,1870737
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Justin,Davidson,S,3,1112,1875476
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Linguistics,Stefanos,Katsikas,,3,1112,1905813
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,American Studies,Jennifer,Davis,L,3,1112,1917878
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Chemistry,Jefferson,Chan,,3,1112,1948102
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Communication,Bryan,Abendschein,,3,1112,1959547
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Political Science,Sarah,Hummel,,3,1112,1987712
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Adam,Kruse,J,3,1112,1996456
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Linguistics,Azam,Feiz,,3,1112,2028747
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Not Specified,Jodi,Byrd,,2,1112,1226972
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Mathematics,Margaret,Njeru,,2,1112,1151644
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Computer Science,Robert,Skeel,,2,1112,188410
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Health Science,Peter,Mulhall,,2,1112,788390

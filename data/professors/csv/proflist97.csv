@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Engineering,James,Beauchamp,,3,1112,1286582
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Mathematics,Jaime,Martinez Robles,Nicola,3,1112,2049375
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Physics,Yoshitsugu,Oono,,3,1112,1073972
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Anthropology,Christina,Halperin,,3,1112,1210818
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Communication,Lauren,Grill,,3,1112,1379925
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Urban & Regional Planning,Misa,Inoue,,3,1112,1612401
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Physics,Aleksei,Aksimentiev,,3,1112,1669858
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Mechanical Engineering,Iwona,Jasiuk,M,3,1112,1824448
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Art & Design,William,Bullock,,3,1112,1855838
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Art  Design,Cliff,Shin,,3,1112,1972239
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Mathematics,Michael,Roman,,3,1112,660430
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,History,Nathan,Clarke,,3,1112,798541
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Media Arts,Stephen,Hocker,,3,1112,1649009
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Philosophy,Derek,O'Connell,,3,1112,1810126
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Spanish,Megan,Garguilo,E,3,1112,2141651
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Accounting,Ganguly,Ananda,,3,1112,438484
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Music,Jennifer,Frasier,,3,1112,653593
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Biology,Neil,Shah,,3,1112,880107
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Economics,Lanny,Arvan,,3,1112,1557762
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Psychology,Geoffrey,McKinley,,3,1112,1826416

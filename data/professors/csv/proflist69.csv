@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Leisure Studies,Jonathan,Hicks,,6,1112,1736710
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Classics,Karen,Laurence,,6,1112,1866327
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Geology,Justin,Pettijohn,Cory,6,1112,2138306
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Music,Dan,Kohut,,5,1112,374674
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.1,poor,Urban Design & Development,Elizabeth,Sweet,,5,1112,915869
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Mathematics,Shu,Li,,5,1112,2106179
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Materials Engineering,Daniel,Shoemaker,,5,1112,2139138
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.4,poor,Anthropology,Hairong,Yan,,5,1112,830740
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Mathematics,Wenxuan,Zhong,,5,1112,1164751
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Writing,Iftikhar,Haider,,5,1112,1647075
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.6,poor,Architecture,Allison,Warren,,5,1112,987111
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Psychology,Nichelle,Carpenter,,5,1112,1881533
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,English,Dana,Carluccio,,5,1112,1054580
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Computer Science,Lui,Sha,,5,1112,1794030
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Communication,Andrea,Press,,5,1112,601648
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Mathematics,Ruth,Davidson,,5,1112,2040997
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Chemistry,Timothy,Vaden,,5,1112,798608
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Psychology,Jonathan,Cottrell,,5,1112,1796629
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,American Studies,Christine,Delisle,,5,1112,1854683
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,English,Kelly,Searsmith,,5,1112,259352

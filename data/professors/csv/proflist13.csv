@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Sociology,Noreen,Sugrue,,22,1112,1129525
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Languages,Rakesh,Bhatt,,22,1112,516401
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Film,Anustup,Basu,,22,1112,812328
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Languages,Jennifer,Cole,,22,1112,125005
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Social Science,Lisa,Cacho,,22,1112,457475
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Theology,Richard,Layton,,22,1112,240294
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,History,John,Ramsbottom,,22,1112,155027
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,John,Griswold,,22,1112,367686
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Classics,Daniel,Abosso,,22,1112,845095
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Journalism,Steve,Helle,,22,1112,927951
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Mathematics,Rick,Gorvett,,22,1112,578021
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Computer Science,Jeff,Erickson,,22,1112,180296
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Psychology,Sarah,Grison,,22,1112,893684
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Biochem. & Molecular Biology,Lyne,Levesque,,21,1112,1718203
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Mathematics,Peter,Loeb,,21,1112,308394
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Engineering,Timothy,Trick,,21,1112,144699
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Geography,Ezekial,Kalipeni,,21,1112,617988
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Political Science,Jose Antonio,Cheibub,,21,1112,1113352
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Anthropology,Alejandro,Lugo,,21,1112,263750
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,History,Kathryn,Oberdeck,,21,1112,209741

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Advertising,Kevin,Wise,,20,1112,1852326
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Mathematics,Anush,Tserunyan,,19,1112,1843345
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,poor,Biology,Feng Sheng,Hu,,19,1112,182098
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Anthropology,Stan,Ambrose,,19,1112,26679
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,English,Julia,Livingston,,19,1112,1292557
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Science,Beth,Morgan,,19,1112,119534
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Anthropology,Alma,Gottlieb,,19,1112,208506
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Communication,John,Murphy,,19,1112,1559840
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Chemistry,Nick,Llewellyn,,19,1112,1467933
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Psychology,Brian,Ross,,19,1112,408791
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Mathematics,Bruce,Carpenter,,19,1112,788570
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Mathematics,Alexander,Yong,,19,1112,1197986
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Mathematics,Jeremy,Tyson,,19,1112,1198174
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,English,Victor,Mendoza,,19,1112,423922
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Communication,John,Caughlin,,19,1112,933907
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Computer Science,Wade,Fagen,,19,1112,1815742
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Engineering,Mariana,Sohn,,19,1112,1697507
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Psychology,Ashley,Kilmer,,19,1112,912087
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Agriculture,Darrel,Kesler,,19,1112,242436
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.4,poor,Mathematics,Sue,Purkayastha,,18,1112,929099

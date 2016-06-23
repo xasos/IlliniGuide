@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Speech Communication,Anne,Stone,,3,1112,1092829
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Communication,Michelle,Shumate,,3,1112,1263023
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Spanish,Raul,Mora,,3,1112,1290904
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,"Recreation, Parks, & Tourism",Scott,Tainsky,,3,1112,1520527
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Media Arts,Myra,Washington,,3,1112,1526631
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,English,Charles,Wright,,3,1112,1592535
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Engineering,Tomasz,Kozlowski,,3,1112,1710120
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Community Health Sciences,Dan,Bronson-Lowe,,3,1112,1749450
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Communication,Chul-Joo,Lee,,3,1112,1787489
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Advertising,Rhiannon,Clifton,,3,1112,1834970
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Mathematics,April,Hoffmeister ,,3,1112,2014425
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Accounting,Michael,Kustanovich,,3,1112,2016790
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Music,Michael,Ewald,,3,1112,123003
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Classics,Gerald,Browne,,3,1112,345604
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Political Science,Paul,Quirk,,3,1112,377689
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Engineering,Umberto,Ravaioli,,3,1112,567282
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,History,Will,Cooley,,3,1112,778621
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Engineering,Dusan,Stipanovic,,3,1112,781813
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Dalton,Johnson,,3,1112,860371
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Music,Dawn,Harris,,3,1112,862996

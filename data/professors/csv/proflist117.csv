@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Classics,Jim,Dengate,,2,1112,819942
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,History,Alice,Jones-Nelson,,2,1112,843637
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Environmental Studies,David,Wahl,,2,1112,1040346
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Civil Engineering,Leslie,Struble,,2,1112,1113824
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Political Science,Edward,Kolodziej,,2,1112,1209184
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Education,Jinming,Zhang,,2,1112,1324764
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Labor & Employment Relations,Steven,Ashby,,2,1112,1674941
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Psychology,Melinda,Jensen,,2,1112,1722656
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Civil Engineering,Ximinig,Cai,,2,1112,1729763
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Information Science,Vetle,Torvik,,2,1112,1861231
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Accounting,Bing David,Zong,,2,1112,1879520
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Agricultural Economics,Yilan,XU,,2,1112,1896651
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Computer Science,Tao,Xie,,2,1112,1969244
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Mathematics,Rebecca,Johnson,L,2,1112,2044499
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Advertising,Mike,Yao,,2,1112,2055217
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,English,Kristi,McDuffie,,2,1112,2108288
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Mathematics,Vinicious,Lopes,,2,1112,1023482
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Mathematics,Huey-Li,Li,,2,1112,1088827
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Foods & Nutrition,Hong,Chen,,2,1112,1143913
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.2,poor,Economics,Minh Q,Dao,,2,1112,1209014

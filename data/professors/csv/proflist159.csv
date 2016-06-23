@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Speech Communication,Bob,Husband,,1,1112,949316
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Biology,Carol,Shearer,,1,1112,949327
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Sarah,Luckey,,1,1112,969940
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Engineering,Minh,DO,,1,1112,973294
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Chae Yoon,Park,,1,1112,984996
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Economics,Zhongjun,QU,,1,1112,990218
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,History,Trisha,Olson,,1,1112,1000456
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Communication,Paula,Treichler,,1,1112,1046388
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Economics,Adam,Smith,,1,1112,1046680
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Materials Engineering,Moonsub,Shim,,1,1112,1066364
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Elizabeth,Savage,,1,1112,1083910
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Agriculture,Miguel,Gomez,,1,1112,1093605
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,French,Juliette,Dade,,1,1112,1187581
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,French,Christopher,Carignan,,1,1112,1209784
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Finance,Dennis,Beard,,1,1112,1230267
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,History,Annaliese,Bateman,,1,1112,1230294
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Information Science,Daniel T.,Schiller,,1,1112,1274447
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Accounting,Brian,White,,1,1112,1318832
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Humanities,David,Clark,,1,1112,1344636
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Kinesiology,Caitlin,Vitosky,,1,1112,1363561

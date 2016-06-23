@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Natural Resources,Kirk,Stodola,,3,1112,1887607
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Advertising,Gunwoo,Yoon,,3,1112,1900797
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Psychology,Wenting,Mu,,3,1112,1921624
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.3,poor,Philosophy,Michael,Ernst,,3,1112,1949975
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Finance,Sarab,Seth,,3,1112,320799
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Computer Science,Luddy,Harrison,,3,1112,847138
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Engineering,George,Gross,,3,1112,850996
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Mathematics,Ming,Yang,,3,1112,1127362
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Mechanical Engineering,Chia-Fon,Lee,,3,1112,1251994
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Biology,Ray,Ming,,3,1112,1276505
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Chinese,Huang Lan,SU,,3,1112,1354891
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Engineering,Prashant,Mehta,,3,1112,1429298
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Statistics,Maria,Muyot,,3,1112,1531584
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,English,Debora,Tienou,,3,1112,1735130
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Geography,Emmanuel,Nuesiri,,3,1112,1796809
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,poor,Civil Engineering,Evgueni,Filipov,T,3,1112,1839014
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Accounting,Wei,Wang,,3,1112,1938569
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Chemistry,Brian,Trinh,,3,1112,2052484
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Architecture,Heather,Grossman,,3,1112,2132093
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Agriculture,Bill,Helferich,,3,1112,184690

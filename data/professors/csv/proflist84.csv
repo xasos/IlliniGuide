@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Linguistics,Eyamba,Bokamba,,4,1112,854522
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Physics,Susan,Lamb,,4,1112,914000
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Music,Rachel,Mitchell,,4,1112,1283985
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,History,Carla,Hustak,,4,1112,1758824
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Physics,Daniel,Riahi,,4,1112,264352
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,English,Silver,Damsen,,4,1112,477990
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Biology,Michael,Glaser,,4,1112,561307
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Mathematics,Artan,Sheshmani,,4,1112,1032138
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Architecture,Barry,Mink,,4,1112,1253007
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Psychology,Kisha,Jones,,4,1112,1636893
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Literature,Rachel,Harris,,4,1112,1638878
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Sociology,Zsuzsa,Gille,,4,1112,1753490
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Finance,Mathias,Kronlund,,4,1112,1898964
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Business,Nehemiah,Scott,,4,1112,2034837
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Humanities,Joanne,Wheeler,,4,1112,124026
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Education,Lizanne,Destefano,,4,1112,131213
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Computer Science,Josep,Torellas,,4,1112,188402
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,German,Shawn,Boyd,,4,1112,292361
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Engineering,Armand,Beaudoin,,4,1112,616631
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Economics,Mehmet,Arslanbayoglu,,4,1112,788554

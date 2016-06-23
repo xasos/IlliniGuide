@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Medicine,Stephanie,Ceman,,2,1112,707026
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,History,F,Jaher,,2,1112,720906
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Speech Communication,Kate,Conrad,,2,1112,803303
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Psychology,Larry,Hubert,,2,1112,859197
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,German,Jeff,Love,,2,1112,885772
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Speech Communication,Jeff,Goelitz,,2,1112,897239
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Community Health Sciences,Maryann,Halpin,,2,1112,898886
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Engineering,Brian,Cunningham,,2,1112,902943
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,"Recreation, Parks, & Tourism",Erik,Backlund,,2,1112,931532
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Spanish,Tracy,Falwell,,2,1112,933912
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Cory,Holding,,2,1112,948217
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Spanish,Maria Isabel,Velazquez,,2,1112,954110
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Asian Studies,Nancy,Abelmann,,2,1112,960923
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Aleksondra,Hultquist,,2,1112,1052195
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Mathematics,Paul,Wenger,,2,1112,1087068
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Engineering,Victoria,Coverstone,,2,1112,1175195
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Geology,Stephen,Marshak,,2,1112,1266958
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Baron,Haber,,2,1112,1331075
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Biology,Shawna,Naidu,,2,1112,1345816
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Accounting,Sean,Cao,,2,1112,1346922

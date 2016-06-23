@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Business,Mark,Wolters,,93,1112,1620627
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Psychology,Tom,Srull,,91,1112,124038
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Computer Science,Lawrence,Angrave,,89,1112,1117293
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Statistics,Alexei,Stepanov,,88,1112,776819
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Chemistry,Gretchen,Adams,,88,1112,477677
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Sociology,Judith,Pintar,,78,1112,683382
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Physics,Tim,Stelzer,,76,1112,57225
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Business,Steve,Hall,,72,1112,155844
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Computer Science,Cinda,Heeren,,70,1112,511007
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Education,David,Zola,,69,1112,117403
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Political Science,Farhad,Malekafzali,,67,1112,616271
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Classics,Jon,Solomon,,67,1112,835709
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Engineering,Richard,Keane,,66,1112,273579
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Chemistry,Tina,Huang,,66,1112,1665735
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Chemistry,Don,Decoste,,66,1112,227828
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,Mathematics,Dianna,Armstrong,,65,1112,124550
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Accounting,Tom,Finnegan,,64,1112,161131
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Geology,Michael,Stewart,,59,1112,255862
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Economics,Isaac,Diianni,,59,1112,1743688
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Mathematics,Tom,Carty,,58,1112,705345

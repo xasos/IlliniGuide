@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,English,Brandon,Jernigan,,9,1112,727597
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Education,Brendesha,Tynes,,9,1112,839078
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Communication,George,Boone,,9,1112,1517481
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Mechanical Engineering,Shelby,Hutchens,,9,1112,1922347
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Art History,Jonathon,Fineberg,,9,1112,710419
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Communication,Eda,Derhemi,,9,1112,1111632
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Accounting,Susan,Krische,,9,1112,99332
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Spanish,Teresa,Fuentes,,9,1112,1380193
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Business,Nick,Petruzzi,,9,1112,1549754
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Anthropology,Alison,Carter,,9,1112,2042985
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Political Science,Robert,Weissberg,,9,1112,124023
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,English,William,Hechler,,9,1112,845515
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Accounting,Jasmijn,Bol,,9,1112,1274911
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Psychology,Don,Dulany,,9,1112,160949
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Music,Anne,Prescott,,9,1112,1123587
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Chemistry,Catherine,Murphy,,9,1112,1353328
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Art History,Anne,Hedeman,,9,1112,690515
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Economics,J. Fred,Giertz,,9,1112,852250
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Geography,Trevor,Birkenholtz,,9,1112,1892167
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Languages,Karen,Fresco,,9,1112,681606

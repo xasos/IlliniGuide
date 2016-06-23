@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Chemistry,Roxy,Wilson,,12,1112,260066
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,History,Lorman,Ratner,,12,1112,324529
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Anthropology,Saul,Mahir,,12,1112,875469
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Literature,Harriet,Murav,,12,1112,135279
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Engineering,Narayana,Aluru,,12,1112,392161
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Chemistry,Tyson,Miller,,12,1112,447876
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Economics,Richard,Arnould,,12,1112,483148
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Mathematics,Ely,Kerman,,12,1112,1348404
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Computer Science,Kai,Zhao,,12,1112,1712064
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,English,Yanoula,Athanassakis,,12,1112,362483
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Chemistry,Bill,Harwood,,12,1112,724046
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Psychology,Aaron,Benjamin,,12,1112,636729
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Marketing,Cele,Otnes,,12,1112,1177521
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Kinesiology,Sean,Mullen,,12,1112,1764325
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Mathematics,Zoi,Raptii,,12,1112,739548
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Physics,Peter,Abbamonte,,12,1112,1088805
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,German,Isaac,Tubb,,12,1112,1418509
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,History,Carolyn,Hibbard,,12,1112,380407
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Community Health Sciences,Flavia,Andrade,,12,1112,1278572
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Psychology,Dov,Cohen,,12,1112,731443

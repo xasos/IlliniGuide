@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Engineering,Gulser,Koksal,,1,1112,1544908
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Communication,Amanda B.,Cronkhite,,1,1112,1653006
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,French,Zsuzsanna,Fagyal,,1,1112,1658784
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Landscape Architecture & Regional Planning,Amita,Sinha,,1,1112,1690735
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Engineering,Arjun,Navaneetha,,1,1112,1739012
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,History,Rhona,Seidelman,D,1,1112,1787377
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Communication,Elizabeth,Alvarez,R,1,1112,1791510
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Landscape Architecture & Regional Planning,Richard,Hindle,L,1,1112,1795235
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,International Studies,Tanu,Kohli,,1,1112,1892165
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,French,Malyoune,Benoit,,1,1112,1958375
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Chemistry,Kevin,Zang,,1,1112,2006722
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Electrical  Computer Engineering,Oligica,Milenkovic,,1,1112,2011682
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Electrical  Computer Engineering,Saiprasad,Ravishankar,,1,1112,2011693
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Animal Science,Anna,Kukekova,,1,1112,2014734
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Civil Engineering,Sotiria,Koloutsou-Vakakis,,1,1112,2019101
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Economics,Jeffrey ,Carlson,L,1,1112,2020657
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Engineering,Linwei,Xin,,1,1112,2062996
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,History,Stefan,Peychev ,,1,1112,2072597
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Speech  Hearing Sciences,Caroline,Bunch,,1,1112,2080659
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Geography,Jonathan,Greenberg,,1,1112,2083449

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Communication,Matt,Linick,,3,1112,1350134
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Communication,Laura,Burns,,3,1112,1539219
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Electrical & Comp. Engineering,Daniel,Wasserman,,3,1112,1872593
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,International Studies,Margaret,Fitzpatrick,,3,1112,1877184
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Physics,Seppe,Kuehn,,3,1112,2095507
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Agriculture,Tim,Marty,,3,1112,375068
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Literature,Alisa,Freedman,,3,1112,640863
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Writing,Derek,Van Ittersum,,3,1112,751129
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Art History,Matt,Benrus,,3,1112,752599
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Writing,Pete,Craft,,3,1112,769451
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Community Health Sciences,Maryann,Haplin,,3,1112,903122
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Communication,Jessi,Eckstein,,3,1112,957359
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Economics,Thomas,Parker,,3,1112,1014828
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Philosophy,Eric,Schaaf,,3,1112,1162720
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Civil Engineering,Chris,Barkan,,3,1112,1320232
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Art History,Irene,Small,,3,1112,1353164
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Spanish,Alexandra,Morales,,3,1112,1401588
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Accounting,Hye Sun,Chang,,3,1112,1462102
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Art & Design,Eric,Benson,,3,1112,1582393
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Chemistry,Dean,Olsen,,3,1112,1623330

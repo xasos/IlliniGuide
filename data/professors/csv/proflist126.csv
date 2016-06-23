@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Design,Tammie,Rubin,,2,1112,1337942
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,French,Virginie,Reali,,2,1112,1362261
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Accounting,Rick,Laux,,2,1112,1399008
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Psychology,Alejandro,Lleras,,2,1112,1411689
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Music,Mary,Paquette-Abt,,2,1112,1450620
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Engineering,Steven,Chin,,2,1112,1485033
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Agriculture,Pat,Tranel,,2,1112,1489482
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Mathematics,Kit Ho,Mak,,2,1112,1501714
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Art & Design,Patrick Earl,Hammie,,2,1112,1626581
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,French,Richard,Beyogle,,2,1112,1689502
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Not Specified,Lance,Larkin,,2,1112,1792295
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Art & Design,Jorge,Lucero,,2,1112,1803574
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Biology,Jo-Anne,Holley,,2,1112,1812289
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Bioengineering,Andrew,Smith,,2,1112,1817744
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Accounting,Dawn,Drnevich,,2,1112,1868753
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,History,Tariq,Ali,O,2,1112,1908208
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Accounting,James,Bodtke,,2,1112,1927036
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Communication,Josue,Cisneros,David,2,1112,1964781
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Mechanical Engineering,Mike,Philpott,,2,1112,1981663
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,English,Melissa ,Stanfill,,2,1112,2015932

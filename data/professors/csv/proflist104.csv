@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Speech Communication,Laurie J.,Samuels,,3,1112,663127
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Sociology,Dao,Jeong,,3,1112,719708
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,German,Derek,Drake,,3,1112,814575
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Theater,Thom,Davis,,3,1112,875550
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Ethnic Studies,Sara,Kaplan,,3,1112,908590
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Accounting,Karen,Molloy,,3,1112,992137
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,History,Andy,Eisen,,3,1112,1032652
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Psychology,Nathan,Todd,,3,1112,1228615
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Mathematics,LI,LI,,3,1112,1353330
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Anthropology,Adrienne,LO,,3,1112,1444277
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Civil Engineering,Venkatraman,Srinivasan,,3,1112,1621783
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Communication,Melissa,Dobosh,,3,1112,1647221
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Music,Rochelle,Sennet,,3,1112,1701340
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Information Science,Linda,Smith,C,3,1112,1808938
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Not Specified,David,Saintillan,,3,1112,1810346
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,International Studies,Kate,Grim-Feinberg,,3,1112,1854624
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Civil Engineering,Ahmed,Elbanna,E,3,1112,1872920
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Physics,Yann,Chemla,R,3,1112,1914648
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Speech  Hearing Sciences,Raksha,Mudar,,3,1112,2063266
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Communication,Zia ,Miric,,3,1112,2069421

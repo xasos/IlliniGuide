@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Political Science,Benjamin,Miller,,1,1112,2109541
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Heather,McLeer,,1,1112,2110012
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Journalism,Ben,Holden,,1,1112,2141696
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Anthropology,Jane,Desmond,,1,1112,2146554
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Community Health Sciences,Elora,Orazio,,1,1112,2146776
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Chemistry,Walter,Klemperer,,1,1112,401574
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Martha,Webber,,1,1112,603692
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Writing,Tayari,Jones,,1,1112,644332
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Communication,Ashley,Yahn,,1,1112,767385
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Journalism,Zak,Stambor,,1,1112,795295
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Languages,Krisanna,Lucken,,1,1112,800929
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,German,Henry,Gerlach,,1,1112,809213
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Political Science,Brianna,Lawrence,,1,1112,812947
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Studio Art,Bea,Nettles,,1,1112,842149
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Chemistry,Jaclyn,Wegner,,1,1112,845507
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Mathematics,Colin,Ferguson,,1,1112,851214
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Maritime Law,Chris,Kelsey,,1,1112,889778
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Education,Sheila,Ashbrook,,1,1112,929100
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Psychology,Amanda,Baldwin,,1,1112,929941
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Theater,Liberty,Leeds,,1,1112,944036

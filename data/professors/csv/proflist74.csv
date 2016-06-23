@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Advertising,Brittany,Duff,,5,1112,1939471
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Biology,Amy,Marshall-Colon,,5,1112,2049906
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Philosophy,David,Rowland,,5,1112,203318
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Languages,Clodo,Soto,,5,1112,335791
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Religion,David,Price,,5,1112,961226
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,English,Amy,Mohr,,5,1112,1055326
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Communication,Ravina,Daphtary,,5,1112,1197735
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Psychology,Noriel,Lim,,5,1112,1225867
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Political Science,Megan,Remmel,,5,1112,1277683
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Finance,Jaewon,Choi,,5,1112,1557355
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,English,Sarah,Cassinelli,M,5,1112,1800897
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Political Science,Blair,Niece,,5,1112,1821647
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Mathematics,Janna,Lierl,,5,1112,2000864
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Not Specified,Damion,Thomas,,5,1112,554018
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Agriculture,Dianne,Noland,,5,1112,683381
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Physics,Mathias,Grosse Perdekamp,,5,1112,1206956
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Communication,Francis,MacHungo,,5,1112,1228838
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Finance,Jaimi,Goodfriend,,5,1112,1260208
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Linguistics,Corina Roxana,Girju,,5,1112,1305121
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Kinesiology,Edward,McAuley,,5,1112,868308

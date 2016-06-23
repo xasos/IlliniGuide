@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Music,Ignacio,Prats Arolas,,1,1112,1097422
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Urban Design & Development,Varkki,Pallathucheril,,1,1112,1120314
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Ethnic Studies,Jin-Hee,Lee,,1,1112,1132385
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Astronomy,Ronald,Webbink,,1,1112,1134443
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Chemistry,Johnny,Giles,,1,1112,1246293
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Deaf Studies,Geraldo,Montezuma,,1,1112,1247770
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Mathematics,Ping,HU,,1,1112,1323873
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Accounting,Glenda,Kao,,1,1112,1364551
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,English,Peter,Garret,,1,1112,1399534
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Health Science,Weimo,Zhu,,1,1112,1408735
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Human & Community Development,Barbara,Anderson,,1,1112,1443671
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Business,John,Bruke,,1,1112,1534435
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,History,Janine,Drake,,1,1112,1577522
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Agriculture,Steven,Eckhoff,,1,1112,1630829
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Information Science,Kate,Williams,,1,1112,1694322
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Theater,Regina,Garcia,,1,1112,1697551
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Classics,Emily,Marillier,,1,1112,1747904
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Chemistry,Milo,Russell,,1,1112,1817322
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Mechanical Engineering,Seok,Kim,,1,1112,1824184
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Civil Engineering,Arif,Masud,,1,1112,1849573

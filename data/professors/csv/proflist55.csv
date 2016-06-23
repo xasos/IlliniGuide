@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Biology,Chris,Cheng-Devries,,7,1112,800932
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Business,Gopesh,Anand,,7,1112,1549759
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Mathematics,Benjamin J,Wyser,,7,1112,1743741
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Languages,Iker,Gonzalez-Allende,,7,1112,513718
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Agriculture,Laurian,Unnevehr,,7,1112,772895
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Computer Science,Karrie,Karahalios,,7,1112,827364
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Communication,Brian,Dolber,,7,1112,914774
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Political Science,Samantha,Frost,,7,1112,1018794
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Biochemistry,Peter,Orlean,,7,1112,1039148
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Education,Chris,Higgins,,7,1112,1994776
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Languages,Jordi,Olivar,,7,1112,361187
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Computer Science,Tarek,Abdelzaher,,7,1112,797719
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,English,Feisal,Mohamed,,7,1112,1366546
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Engineering,Greg,Timp,,7,1112,151310
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Mathematics,Nikolaos,Tzirakis,,7,1112,1267921
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Engineering,Srinivasa,Salapaka,,7,1112,616630
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Engineering,Rakesh,Kumar,,7,1112,988375
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Human Development,Janet,Reis,,7,1112,1126176
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Engineering,Magdi,Ragheb,,7,1112,1149038
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,English,Sara,McWhorter,,7,1112,1425808

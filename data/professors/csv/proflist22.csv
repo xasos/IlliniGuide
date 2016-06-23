@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Music,Eduardo,Herrera,,15,1112,880480
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Mechanical Engineering,Martin,Starzewski,,15,1112,1076643
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.7,poor,Engineering,Patricia,Franke,,15,1112,478577
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.9,poor,English,Bob,Haynes,,15,1112,544000
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.0,poor,Materials Engineering,Shen,Dillon,,15,1112,1501713
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.1,poor,Chemistry,Anne,Baranger,,15,1112,916310
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Computer Science,Anil,Hirani,,15,1112,1004115
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,English,Georgepierre,Lebron,,15,1112,892990
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.2,poor,Biochemistry,Ashley,Spies,,15,1112,1081768
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Art History,Jennifer,Burns,,15,1112,1054947
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Mathematics,Iwan,Duursma,,15,1112,556858
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Mathematics,Han,Duong,,15,1112,340915
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Accounting,Adel,Ibrahim,,15,1112,868684
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Not Specified,Karen,Flynn,,15,1112,975115
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Languages,Brenden,Carollo,,15,1112,538330
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Geography,Edward Heath,Robinson,,15,1112,1738888
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Physics,Jim,Eckstein,,15,1112,896425
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Urban & Regional Planning,Faranak,Miraftab,,15,1112,1212176
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Geology,Chu-Yung,Chen,,15,1112,627960
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Psychology,Denise,Cummins,,15,1112,871614

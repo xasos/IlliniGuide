@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Education,Russell,Korte,,4,1112,1392686
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Art History,Anne,Sautman,,4,1112,1426765
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Community Health Sciences,Andiara,Schwingel,,4,1112,1562928
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Comparative Literature,George,Gasyna,,4,1112,1577971
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Communication,Rachel,Kimnach,,4,1112,1782593
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Classics,Brian,Walters,,4,1112,1815821
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Mathematics,Jason,Lo,,4,1112,2102870
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Scott,Morris,,4,1112,305757
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Music,Gary,Smith,,4,1112,430115
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Languages,Samira,Hassa,,4,1112,433339
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Languages,Mara,Wade,,4,1112,685504
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Education,Karla,Moller,,4,1112,710607
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Engineering,Laura,Hollis,,4,1112,781811
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Biology,Jim,Dalling,,4,1112,820001
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,History,Mike,Lehman,,4,1112,845919
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Spanish,Nacho,Alvarez,,4,1112,890316
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,English,Rebeccah,Bechtold,,4,1112,1155433
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Linguistics,Ercan,Balci,,4,1112,1190658
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Community Health Sciences,Dustin,Lange,,4,1112,1249324
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,5.0,good,Psychology,Mike,Morrison,,4,1112,1285402

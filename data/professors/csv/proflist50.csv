@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Philosophy,Charles,Byrne,,8,1112,843439
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Biology,Larry,Hanks,,8,1112,600040
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Civil Engineering,David,Lange,,8,1112,1038429
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Religion,Kenneth,Howell,,8,1112,1090061
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Speech Communication,Megan,Kosovski,,8,1112,1066166
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Engineering,Tangul,Basar,,8,1112,1381657
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Communication,Katie,Irwin,,8,1112,1695232
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Urban Design & Development,Mary,Edwards,,8,1112,341700
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Psychology,Eugene,Kim,,8,1112,506450
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,English,Jonathan,Vincent,,8,1112,775627
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Agriculture,Paul,Stoddard,,8,1112,1073083
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,English,Brad,Stiles,,8,1112,1185006
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Human & Community Development,Jan,Brooks,,8,1112,1717084
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,David,Roark,,8,1112,532817
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Speech Communication,Allison,Scott,,8,1112,901704
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Finance,Zhi,Wang,,8,1112,1195437
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Communication,Leanne,Knobloch,,8,1112,1226222
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Communication,Mark,Lavoie,,8,1112,1248527
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Political Science,Bonnie,Weir,,8,1112,1428313
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Economics,Dennis,O'Dea,,8,1112,1445377

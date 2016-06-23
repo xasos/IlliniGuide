@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Kinesiology,Steve,Broglio,,1,1112,925182
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Spanish,Silvia,Perpi,,1,1112,931482
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Science,Mankin,Mak,,1,1112,936310
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Foreign Languages,Caspi,Vardit,,1,1112,940864
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Fine Arts,Tim,Van Laar,,1,1112,971850
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Computer Science,Dustin,Parr,,1,1112,973661
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Anthropology,Alyssa,Garcia,,1,1112,979205
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Mathematics,Chetan,Pahlajani,,1,1112,999373
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Philosophy,Martin,Roth,,1,1112,1028994
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,History,Sarah,Frohardt-Lane,,1,1112,1050429
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Philosophy,Brandon,Polite,,1,1112,1052205
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Materials Engineering,Gerald,Wong,,1,1112,1073741
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Aviation,Chuck,Seloover,,1,1112,1078839
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Mathematics,Radoslav,Kirov,,1,1112,1085317
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Psychology,Sarah,Miller,,1,1112,1086008
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Agriculture,Dean,Reichers,,1,1112,1098294
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Education,Barbara,Hug,,1,1112,1116107
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Agriculture,Flournoy,Corey,,1,1112,1118269
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Food Science,William,Helferich,,1,1112,1198735
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Writing,Alex,Shakar,,1,1112,1231612

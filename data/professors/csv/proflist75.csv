@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Engineering,Philip,Krein,,5,1112,907666
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Business,Michael,Bednar,,5,1112,1225052
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Engineering,Yoram,Bresler,,5,1112,1269903
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Bioengineering,Marcia,Pool,,5,1112,1969623
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Engineering,Paul,Kenis,,5,1112,93138
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Agriculture,Hamish,Gow,,5,1112,374312
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Engineering,Bruce,Hajek,,5,1112,1117270
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Biochem. & Molecular Biology,Gustavo,Caetano-Anolles,,5,1112,1297805
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Statistics,Jingfei,Zhang,,5,1112,1472110
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Business,Ram,Subramanyam,,5,1112,1801514
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Business,Michael,Fricke,,5,1112,2063127
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Mechanical Engineering,Gabriel,Juarez,J,5,1112,2126370
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Geology,W. P.,Chen,,5,1112,849262
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Music,Donald,Schleicher,,5,1112,918153
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Civil Engineering,Khaled,El-Rayes,,5,1112,1035502
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Journalism,Alexis,Tate,,5,1112,1093698
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,Curtis,Perry,,5,1112,1111245
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,Carrie,Dickison,,5,1112,1247677
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Comparative Literature,Chase,Dimock,,5,1112,1248693
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Communication,Jermaine,Martinez,,5,1112,1581934

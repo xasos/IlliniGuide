@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Mathematics,Judy,Zhu,,6,1112,556568
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Mathematics,Sergei,Ivanov,,6,1112,915083
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Statistics,Xiaofeng,Shao,,6,1112,958636
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Biology,Surangi,Punyasena,,6,1112,1511893
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,"Recreation, Parks, & Tourism",Erin,McKenna,,6,1112,1684942
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Information Science,Les,Gasser,,6,1112,1813191
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Chemistry,Angela,Cannon,,6,1112,275441
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,English,Beth,Palatnik,,6,1112,439613
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Finance,V,France,,6,1112,466701
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Psychology,Ying-Yi,Hong,,6,1112,723984
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Mathematics,Anton,Malkin,,6,1112,946968
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Finance,George,Pinteris,,6,1112,987398
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Mathematics,Gabriele,Lanave,,6,1112,1522852
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Communication,Sally,Jackson,,6,1112,1721057
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Computer Science,John,Hart,,6,1112,1773959
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,English,Wayne,Dickerson,,6,1112,827935
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Psychology,Gabriela,Walker,,6,1112,1626480
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Art History,Eric,Hostetter,,6,1112,971699
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Architecture,Ralph,Hammann,,6,1112,1012795
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Computer Science,Wai-Tat,Fu,,6,1112,1093190

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Anthropology,Ellen,Moodie,,21,1112,778393
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,History,Kristin,Hoganson,,21,1112,211569
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,Finance,Matthew,Marcinkowski,,21,1112,1208279
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.7,good,Biology,Hugh,Robertson,,21,1112,347999
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Environmental Studies,Mark,David,,21,1112,949471
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Political Science,Damarys,Canache,,21,1112,944878
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Philosophy,Robert G.,Wengert,,21,1112,198293
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Women's Studies,Fiona,Ngo,,21,1112,1044903
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,James,Hansen,,21,1112,124005
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Mike,Odom,,21,1112,495724
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,History,Mark,Leff,,21,1112,297645
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,English,Stephanie,Cherolis,,21,1112,1112182
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Communication,Peter,Sheldon,,21,1112,798312
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Community Health Sciences,Lena,Hann,,21,1112,1438427
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Computer Science,William,Chapman,,21,1112,1938215
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Psychology,Dorothy,Espelage,,21,1112,129277
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Manisha,Basu,,21,1112,1249655
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Political Science,Mark,Schrad,,21,1112,1041696
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,English,Julie,Price,,21,1112,355680
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Classics,Shannon,Stewart,,21,1112,1426772

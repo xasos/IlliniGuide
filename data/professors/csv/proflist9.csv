@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Physics,Tony,Liss,,29,1112,194825
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Anthropology,Charles,Roseman,,29,1112,735565
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Philosophy,Sorin,Bangu,,29,1112,1480566
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,poor,Geography,Ashwini,Chhatre,,28,1112,1117316
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Anthropology,Helaine,Silverman,,28,1112,474491
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Biology,Jonathon,Marcot,,28,1112,1205576
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Engineering,Donna,Brown,,28,1112,7738
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Economics,Paul,Magelli,,28,1112,339468
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Mathematics,Rebekah,Gilbert,A,28,1112,1788870
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Classics,Stephen,Bay,,28,1112,518875
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Psychology,Eric,Leshikar,,28,1112,1018978
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Health Science,Susan,Farner,,28,1112,641969
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Communication,Tom,Costello,,28,1112,350203
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Music,Pete,Griffin,,28,1112,122991
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.4,poor,Sociology,Manisha,Desai,,27,1112,460079
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.8,poor,Mathematics,Funda,Gultepe,,27,1112,1863153
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Communication,Ivy,Glennon,,27,1112,714679
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,History,Claire,Crowston,,27,1112,364278
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Ethnic Studies,Brian,Ruppert,,27,1112,127188
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Mathematics,Igor,Nikolaev,,27,1112,612692

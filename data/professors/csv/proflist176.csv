@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Communication,Alice,Liao,,0,1112,1232574
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Mathematics,Vaibhav,Gadre,,0,1112,1247028
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Music,Anne,Clark,,0,1112,1248469
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Astronomy,Joseph,Mohr,,0,1112,1268928
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Anthropology,Christa,Olson,,0,1112,1276312
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Engineering,Natasha,Neogi,,0,1112,1281560
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Mathematics,Ruben,Zhao,,0,1112,1282893
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,English,Sunil,Agnani,,0,1112,1289004
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Chemistry,Joni,Boi,,0,1112,1296615
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Accounting,Andrea,Cantrell,,0,1112,1308536
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,"Recreation, Parks, & Tourism",Nick,Watanabe,,0,1112,1317190
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Architecture,Rhonda,Frank,,0,1112,1317989
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Urban & Regional Planning,Felipe,Olivarez,,0,1112,1323741
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Mathematics,Tom,Cooney,,0,1112,1326137
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Psychology,Rachael,Rubin,,0,1112,1330416
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Finance,Kwangwoo,Park,,0,1112,1333562
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Engineering,Goldberg,David,,0,1112,1335319
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Mathematics,Youngsoo,Kim,,0,1112,1336043
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Music,Joe,Wachtel,,0,1112,1339210
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Special Education,Nancy,Hertzog,,0,1112,1351961

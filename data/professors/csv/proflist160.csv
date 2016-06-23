@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Theater,John,Morrissette,,1,1112,1434217
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Political Science,Rachael,Dotter,,1,1112,1446308
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Art & Design,Juan Carlos,Castro,,1,1112,1446341
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Foods & Nutrition,Emily,Radlowski,,1,1112,1454962
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Materials Engineering,Jianjun,Cheng,,1,1112,1490278
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Mathematics,Steve,Avsec,,1,1112,1508917
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Education,Shuai,Wang,,1,1112,1518301
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Biology,Brian,Steidinger,,1,1112,1558125
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Geography,Steven,Radil,,1,1112,1570332
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Business,I-Chen,Wang,,1,1112,1657793
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Business,Douglas,Miller,,1,1112,1664599
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Mathematics,Andrew,Hunte,,1,1112,1666692
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Stephen,Davenport,,1,1112,1667265
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Linguistics,Adriana,Munoz,,1,1112,1685938
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Agriculture,Kari,Keating,,1,1112,1712754
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,French,Nick,Strole,,1,1112,1715346
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Karen,Roybal,,1,1112,1718366
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Economics,Ricardo,Bebczuk,,1,1112,1722728
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Katherine,Skwarczek,,1,1112,1727979
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Nutrition,Karen,Chapman-Novakofski,M,1,1112,1780162

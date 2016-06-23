@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Materials Engineering,Jessica,Krogstad,,3,1112,2013708
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Engineering,Peter,Kurath,,3,1112,203620
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Chemistry,Todd,Martinez,,3,1112,661794
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Mathematics,Douglas,West,,3,1112,730872
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Philosophy,Wright,Neely,,3,1112,746802
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Spanish,Alannah,Hernandez,,3,1112,789785
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Mathematics,Andrew,Ledoan,,3,1112,889780
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Not Specified,Shywon,Berry,,3,1112,1136735
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Education,Fred,Davidson,,3,1112,1168877
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Economics,Andrea,Beller,,3,1112,1204974
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Bioengineering,Angela,Green,,3,1112,1234674
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Biology,Alison,Bell,,3,1112,1284558
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Computer Science,Grigore,Rosu,,3,1112,1461507
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Accounting,Kirsten,Fanning,,3,1112,1739500
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,English,Lindsay,Russell,,3,1112,1821615
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,African-American Studies,Ronald,Bailey,,3,1112,1876948
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Theater,Jeremy,Day,,3,1112,1945336
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Geography,Geoffrey,Hewings,,3,1112,619199
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Philosophy,Ben,Bayer,,3,1112,771205
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,English,Clint,Stevens,,3,1112,776518

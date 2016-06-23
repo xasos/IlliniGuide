@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Religion,Jonathan,Ebel,,10,1112,946902
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Health Science,Charles,Holmes,,10,1112,967895
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Engineering,Lippold,Haken,,10,1112,843959
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Philosophy,Daniel,Korman,,10,1112,1273936
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Political Science,Milan,Svolik,,10,1112,1563420
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Engineering,Bruce,Conway,,10,1112,134166
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Languages,Hans Henrich,Hock,,10,1112,522948
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,History,Bruce,Levine,,10,1112,1010874
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Classics,Angeliki,Tzanetou,,10,1112,1015137
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Electrical  Comp. Engineering,Eric,Badger,,10,1112,1928819
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Speech & Hearing Sciences,Cynthia,Johnson,,10,1112,263112
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Kinesiology,Ed,Ofori,,10,1112,852252
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,English,Christina,Scheuer,,10,1112,1020764
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,International Studies,Timothy,Wedig,,10,1112,1528455
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Accounting,Daniel,Holder,,10,1112,648283
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,English,Melissa,Bailes,,10,1112,1030874
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Animal Science,Anthony,Yannarell,,10,1112,1185334
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,History,Tamara,Chaplin,,10,1112,1619939
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Statistics,David,Dalpiaz,,10,1112,2002545
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Foreign Languages,Volodymyr,Chumachenko,,10,1112,793046

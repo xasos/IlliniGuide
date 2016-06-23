@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Education,Christopher,Span,,11,1112,808727
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Special Education,Johnell,Bentz,,11,1112,1359606
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Computer Science,Danny,Dig,,11,1112,1685432
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Community Health Sciences,David,Remmert,,11,1112,655565
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Statistics,Uma,Ravat,,11,1112,1947917
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Geography,Sara,McLafferty,,11,1112,750280
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,English,Rebecca,Weber,,11,1112,933131
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,English,Andrew,Moss,,11,1112,950772
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Science,Bill,Simmons,,11,1112,274211
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Biology,Richard,Mintel,,11,1112,862689
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,History,Don,Crummey,,11,1112,210186
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,English,Renee,Trilling,,11,1112,649507
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Geology,Eileen,Herrstrom,,11,1112,1263333
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Philosophy,Phillip,Hillmer,,11,1112,1449237
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.7,good,Speech Communication,David,Tewksbury,,11,1112,1081831
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Engineering,Michael J.,Haney,,11,1112,1746027
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Lori,Garner,,11,1112,362399
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Foods & Nutrition,Lisa,Burgoon,,11,1112,1083946
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Astronomy,Brian,Fields,,11,1112,877704
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.9,good,Business,Robert,Valli,,11,1112,1477082

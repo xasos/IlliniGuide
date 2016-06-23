@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,English,Kyle,Garton-Gundling,R,0,1112,2116729
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Physics,Jeff,Filippini,,0,1112,2118297
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Law,James,Simon,L.,0,1112,2121747
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Political Science,Jeffrey,Ashley,,0,1112,2127508
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Anthropology,Elise,Kramer,A.,0,1112,2130830
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Communication,Alyssa,Obradovich,,0,1112,2130940
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Education,Nancy,Macgregor,,0,1112,2131295
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Biology,Martha,Gillette,,0,1112,2132188
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,History,Claudia,Brosseder,,0,1112,2134287
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Journalism,Stretch,Ledford,,0,1112,2141708
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Psychology,Paul,Sharp,,0,1112,2142276
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Philosophy,Chris,Weaver,,0,1112,2144415
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Natural Resources,Cory,Suski,,0,1112,2144563
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Materials Engineering,Andre,Schleife,,0,1112,2146474
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Music,Jerold,Siena,,0,1112,2149290
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,History,Jerry,Davila,,0,1112,2152700
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Engineering,Richard,Pell,,0,1112,249530
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Political Science,Stephen,Meserve,,0,1112,256779
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Communication,Ehud,Yairi,,0,1112,331482
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,N/A,zero,Education,Jennifer,Ng,,0,1112,343558

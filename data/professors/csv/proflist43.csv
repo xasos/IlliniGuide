@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Mathematics,Xiaochun,Li,,9,1112,1164746
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Kinesiology,Marni,Boppart,,9,1112,1720689
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Philosophy,Robert,McKim,,9,1112,1755846
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Mathematics,Renming,Song,,9,1112,614953
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,History,Craig,Koslofsky,,9,1112,1133633
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Engineering,Timonthy,Bretl,,9,1112,1249559
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Psychology,Sarah,Brown-Schmidt,,9,1112,1700413
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Computer Science,Brian,Bailey,,9,1112,550130
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Music,Barry,Houser,,9,1112,1696798
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,East Asian Studies,Roderick,Wilson,I,9,1112,1776543
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Spanish,Lucia,Alzaga,,9,1112,921556
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Finance,Birsel,Tavucku Pirim,,9,1112,1053433
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Women's Studies,Erik,McDuffie,,9,1112,788440
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Finance,Srinivasan,Kannan,,9,1112,209540
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Biology,David,Kranz,,9,1112,844096
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Philosophy,Ian,Hegger,,9,1112,1743604
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Chemistry,Douglas,Mitchell,A,9,1112,1800106
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,English,Bruce,Michelson,,9,1112,600737
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Mathematics,Charles,Rezk,,9,1112,624500
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Electrical & Comp. Engineering,Sayan,Mitra,,9,1112,1766542

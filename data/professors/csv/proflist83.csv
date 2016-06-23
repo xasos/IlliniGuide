@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Psychology,Nu-Chu,Liang,,4,1112,1968192
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.4,poor,Engineering,Karthik,Chandrasekaran,,4,1112,2065382
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Computer Science,Yuan Yuan,Zhou,,4,1112,188404
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Sociology,Jan,Pieterse,,4,1112,774830
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Computer Science,Marco,Caccamo,,4,1112,1700177
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Mathematics,Atul,Dixit,,4,1112,1719584
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Statistics,Bo,Li,,4,1112,1840081
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Agriculture,Charles,Voigt,,4,1112,380410
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Music,Jack,Ranney,,4,1112,408979
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Mathematics,Steven,Bradlow,,4,1112,1744253
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Health Science,Karen,Plawecki,,4,1112,324130
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Literature,Brett,Kaplan,,4,1112,598128
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Spanish,Mariselle,Meléndez,,4,1112,934047
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Digital Arts,Kevin,Hamilton,,4,1112,1028865
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,English,Debleena,Biswas,,4,1112,1136361
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Not Specified,Nabeel,Yaseen,,4,1112,1170782
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Astronomy,Tony,Wong,,4,1112,1434889
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Statistics,Yuguo,Chen,,4,1112,1446480
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Chemistry,Beth,Lindquist,A,4,1112,1854434
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Economics,Dan,Bernhardt,,4,1112,827404

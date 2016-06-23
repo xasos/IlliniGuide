@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Accounting,Sharon,Cox,,1,1112,2147551
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Psychology,Carrie,Hacias,,1,1112,752471
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Chemistry,Bethany,Reynolds,,1,1112,772427
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Leisure Studies,John,Popa,,1,1112,830625
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,History,Caroll,Syms,,1,1112,898393
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Medicine,Fred,Troutt,,1,1112,970807
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Physics,Richard,Martin,,1,1112,1000264
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Economics,Neus,Herranz,,1,1112,1069699
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Asian Studies,Alexander,Meyer,,1,1112,1109184
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Marketing,Robert,Kreuzbauer,,1,1112,1183322
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Information Science,William,Wheeler,,1,1112,1232813
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Psychology,Jen,Manongdo,,1,1112,1234011
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Communication,Ellen,Moore,,1,1112,1255832
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Law,Robert,Steigmann,,1,1112,1395328
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Computer Science,Andrei,Popescu,,1,1112,1429510
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,History,Anca,Glont,,1,1112,1449141
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Physics,Pete,Flynn,,1,1112,1568546
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Agriculture,Debra,Reid,,1,1112,1663268
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Accounting,Özlem,Arikan,,1,1112,1664593
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.5,poor,Special Education,Suzanne,Lee,,1,1112,1666818

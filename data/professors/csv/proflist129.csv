@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Sociology,Moon-Kie,Jung,,2,1112,1157767
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Engineering,Kuang-Chien,Hsieh,,2,1112,1227482
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Communication,Desiree,Yomtoob,,2,1112,1252365
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Kinesiology,Tom,Wojcicki,,2,1112,1337455
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Business,Joseph T.,Mahoney,,2,1112,1353197
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Cecily,Garber,,2,1112,1426766
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Psychology,Niwako,Sugimura,,2,1112,1471723
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Xiaodi,Tong,,2,1112,1536469
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Computer Science,Vikram,Adve,,2,1112,1654175
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Urban & Regional Planning,Bumsoo,Lee,,2,1112,1657946
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Engineering,Ioannis,Chasiotis,,2,1112,1708917
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Mathematics,Bernard,Lidicky,,2,1112,1720824
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,German,Anna,Tendera,,2,1112,1780505
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Mathematics,Theo,Molla,,2,1112,1903820
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Journalism,Rich,Martin,,2,1112,1926830
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Accounting,Robin,Elliott,,2,1112,736080
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Mathematics,Ozgur,Mizrak,,2,1112,745168
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Kinesiology,Amelia,Woods,,2,1112,831641
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Psychology,Nikki,Pierce,,2,1112,852156
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,History,Elisabeth,McMahon,,2,1112,935151

@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Art & Design,Brad,Tober,,6,1112,1645737
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Statistics,Stephane ,Guerrier ,,6,1112,1931251
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Mathematics,Debra,Woods,,6,1112,529342
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Comparative Literature,Emanuel,Rota,,6,1112,1472223
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Communication,Kate,Ditewig-Morris,,6,1112,1898693
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Mathematics,Samantha,Xu,,6,1112,2001971
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Computer Science,Ryan,Cunningham,,6,1112,1966577
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Journalism,Leon,Dash,,6,1112,64980
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Information Science,Redina,Herman,,6,1112,525366
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,English,Ted,Underwood,,6,1112,598127
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Business,John,Clarke,,6,1112,916319
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Chinese,Zong-Qi,Cai,,6,1112,934780
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Dance,Philip,Johnston,,6,1112,1359949
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,Engineering,David,Flaherty,,6,1112,1815004
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Economics,Anne,Villamil,,6,1112,532213
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Finance,Roger,Cannaday,,6,1112,856887
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Megan,Condis,,6,1112,1060383
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Rachel,Samanie,,6,1112,1666313
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Mathematics,Xiaoguang,Ma,,6,1112,1750473
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Speech & Hearing Sciences,Aaron,Johnson,,6,1112,1801242

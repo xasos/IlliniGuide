@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,English,Lisa,Oliverio,,12,1112,792381
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Political Science,Thomas,Rudolph,,12,1112,113031
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.8,good,Electrical & Computer Engineering,Serge,Minin,,12,1112,1800866
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.9,good,English,Claire,Barber,,12,1112,1147117
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,English,Hina,Nazar,,12,1112,707729
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,History,James,Brennan,,12,1112,1191260
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Philosophy,Jesse,Steinberg,,12,1112,1191261
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,Mathematics,Bert,Guillou,,12,1112,1231946
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Geography,David,Wilson,,12,1112,128894
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Mechanical Engineering,Stephen,Downing,,12,1112,788574
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Anthropology,Timothy,Pauketat,,12,1112,142797
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,History,John,Randolph,,12,1112,410120
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Philosophy,Joe,Swenson,,12,1112,395110
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Communication,David,Tokarz,,12,1112,1711816
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Institute of Comm Research,Cheryl,Cole,,12,1112,1444323
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Sociology,Rebecca,Sandefur,,12,1112,1724606
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,Chemistry,Ryan,Rafferty,,12,1112,1743891
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,English,Leon,Chai,,12,1112,707728
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Botany,John,Masiunas,,12,1112,783419
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,German,Carl,Niekerk,,12,1112,917109

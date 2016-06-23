@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Political Science,Tracy,Sulkin,,42,1112,90864
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Business,Micheal,Preis,,41,1112,780837
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.4,average,Mathematics,Denka,Kutzarova,,41,1112,193184
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,good,History,Behrooz,Ghamari-Tabrizi,,41,1112,735567
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.6,good,Biology,Ed,Dole,,41,1112,274286
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.3,good,History,Mark,Micale,,41,1112,301641
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Geography,Thomas,Bassett,,40,1112,274832
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.4,good,Earth Science,Jeffrey,Frame,,40,1112,1559748
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Foods & Nutrition,Dawn,Bohn,,39,1112,980836
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Religion,Rajeshwari,Pandharipande,,39,1112,534290
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.0,good,History,Tamara,Matheson,,39,1112,196569
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Mathematics,A.J.,Hildebrand,,39,1112,25935
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.6,good,Physics,Naomi,Makins,,39,1112,479648
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Anthropology,Gilberto,Rosas,,38,1112,1035345
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Business,John,Kindt,,38,1112,536569
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,History,Dana,Rabin,,38,1112,603695
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.5,average,Communication,Robert,McChesney,,38,1112,729653
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Women's Studies,Pat,Gill,,38,1112,259370
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.1,good,Mathematics,Hal,Schenck,,38,1112,1051376
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Economics,Hadi,Esfahani,Salehi,38,1112,260254

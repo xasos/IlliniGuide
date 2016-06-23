@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,Thomas,Ayala,,2,1112,954886
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Business,Michael,Shaw,,2,1112,955277
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Community Health Sciences,Deirdre,O'Sullivan,,2,1112,964903
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Agriculture,Madhu,Khanna,,2,1112,1001943
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Mathematics,Chih-Chung,Liu,,2,1112,1055021
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Education,Lorenzo,Baber,,2,1112,1183814
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Communication,John,Anderson,,2,1112,1204469
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Physics,Alan,Nathan,,2,1112,1216672
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Communication,Vincent,Licciardello,,2,1112,1235913
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Media Arts,Tabe,Bergman,,2,1112,1299455
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Studio Art,Steven,Cartwright,,2,1112,1350630
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Studio Art,Molly,Briggs,,2,1112,1363754
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Philosophy,Chad,Carmichael,,2,1112,1382051
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Speech & Hearing Sciences,Lynn,Brault,,2,1112,1407196
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Psychology,Fritz,Drasgow,,2,1112,1430440
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Japanese,Junko,Onosaka,,2,1112,1436532
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Geography,Robert,Cochran,,2,1112,1495735
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Mathematics,Marcin,Sabok,,2,1112,1538762
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,Political Science,Todd,Robinson,,2,1112,1555447
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.2,good,English,Sandra,Camargo,,2,1112,1574065

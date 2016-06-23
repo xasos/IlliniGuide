@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.5,average,Mathematics,Carol,Castellon,,7,1112,593644
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Music,Gregory,Diethrich,,7,1112,443603
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Mathematics,Gabriele,La Nave,,7,1112,1712757
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Accounting,Yue &quot;Laura&quot;,Li,,7,1112,1274912
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.6,average,Communication,"Curtis, Scott",Jacobs,,7,1112,1640759
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Computer Science,Saurabh,Sinha,,7,1112,831226
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Business,Lloyd,Hodges,,7,1112,981298
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Bioengineering,Kenneth,Gentry,,7,1112,1280766
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.7,average,Sociology,Daniel,Steward,,7,1112,1736415
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.8,average,Computer Science,Madhusudan,Parthasarathy,,7,1112,1426819
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Mathematics,Dan,Lior,,7,1112,812968
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,2.9,average,Not Specified,Rebecca,Roach,,7,1112,1141364
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Psychology,Cynthia,Fisher,,7,1112,203314
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Biology,Huey,Hing,,7,1112,394709
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Mathematics,Tao,Mei,,7,1112,1081195
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.0,average,Urban & Regional Planning,Ken,Salo,,7,1112,1567161
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Music,Anna,Schultz,,7,1112,750370
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Computer Science,Ryan,Cunnigham,,7,1112,1797203
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Physics,Michael,Stone,,7,1112,872642
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.1,average,Linguistics,Numa,Markee,,7,1112,1168874

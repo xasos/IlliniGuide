@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Spanish,Javier,Irigoyen-Garcia,,2,1112,1545182
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Philosophy,Joseph,Spino,,2,1112,1628636
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Communication,William,Watson,,2,1112,1647218
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,French,Dach,Nicola,,2,1112,1665655
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Biology,Hee Jung,Chung,,2,1112,1710615
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Engineering,Lynford,Goddard,,2,1112,1731310
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Finance,Scott,Perkins,,2,1112,1752578
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Anthropology,Cris,Hughes,E,2,1112,1760260
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Materials Engineering,Matt,Sherburne,,2,1112,1835081
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Chemistry,Kami,Hull,L,2,1112,1835914
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Community Health Sciences,Emerson,Sebastiao,,2,1112,1874200
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Crop Studies,A. Lane,Rayburn,,2,1112,1930993
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Statistics,Trevor,Park,H,2,1112,1972542
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Communication,Donovan,Bisbee,,2,1112,2026197
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Accounting,Timothy,Brown,,2,1112,2040062
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Computer Science,Michael,Bailey,,2,1112,2050634
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.5,good,Accounting,Angel,Chatterton,,2,1112,2054266
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Education,Yvonne A.,Carey,,2,1112,391843
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,English,Mat,Hart,,2,1112,497654
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,4.8,good,Health Science,Jerry,Carden,,2,1112,541384

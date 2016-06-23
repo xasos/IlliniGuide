@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Biology,Angel,Rivera,,3,1112,866122
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Mathematics,Samuel,Kadziela,,3,1112,892995
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,English,Merton,Lee,,3,1112,971356
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Communication,Michelle,Nelson,,3,1112,986470
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Mathematics,Yelda,Aydin,,3,1112,1210293
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Kinesiology,Gary,Crull,,3,1112,1231281
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Mathematics,Robert,Bauer,,3,1112,1416220
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Materials Engineering,Dennis,Readey,,3,1112,1515091
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Information Science,Kathryn,La Barre,,3,1112,1861220
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Accounting,Bright,Asante-Appiah,,3,1112,1873664
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Advertising,Sela,Sar,,3,1112,1923681
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Physics,Morten,Lundsgaard,,3,1112,1966413
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Information Science,Rhiannon,Bettiva,,3,1112,1982547
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.2,average,Bioengineering,Roy,Dar,,3,1112,2094667
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Geography,Inci,Guneralp,,3,1112,801065
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,History,Shoji,Konishi,,3,1112,810535
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Urban Design & Development,Stacy,Harwood,,3,1112,842151
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Philosophy,Brendan,Shea,,3,1112,880972
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Law,Travis,McDade,,3,1112,895314
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,3.3,average,Art History,Jeryldene,Wood,,3,1112,979811

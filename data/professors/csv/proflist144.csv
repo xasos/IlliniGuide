@@ -1,0 +1,21 @@
+categoryType,contentType,institution_name,overall_rating,rating_class,tDept,tFname,tLname,tMiddlename,tNumRatings,tSid,tid
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Information Science,Jon,Gant,,1,1112,1861094
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Social Work,Pamela,Chiang,P.,1,1112,1863638
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Biochem. & Molecular Biology,Fei,Wang,,1,1112,1869055
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Biology,Gwyn,Puckett,,1,1112,1871019
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Mathematics,Arindam,Roy,,1,1112,1871849
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Communication,Paul,Myers,,1,1112,1872530
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,English,Julia,Smith,,1,1112,1880040
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Animal Science,Adam,Brandt,,1,1112,1881103
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Civil Engineering,Bassem,Andrawes,,1,1112,1904912
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Communication,Jose,Izaguirre,G.,1,1112,1964117
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Psychology,Gabriele ,Gratton,,1,1112,1980998
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Agricultural Economics,Bartlomiej ,Rokicki,,1,1112,2002196
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Education,Patrick ,Smith,,1,1112,2008504
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Chinese,Wenqi,Yang,,1,1112,2038573
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Statistics,Jin,Wang,,1,1112,2044747
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Education,Joseph ,Robinson-Cimpian,P.,1,1112,2047202
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Electrical  Comp. Engineering,juan,Jimenez,,1,1112,2068208
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Finance,Don,Fullerton,,1,1112,2070061
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Animal Science,Ryan,Dilger,,1,1112,2131227
+PROFESSOR,TEACHER,University Of Illinois at Urbana-Champaign,1.0,poor,Art  Design,Rojin,Salehi Vishkaie,,1,1112,2147357
