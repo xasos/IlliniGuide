@@ -29,4 +29,13 @@ for x in class_acronym:
 for x in course_number_name:
     db.session.add(models.Search(name0=x[0], name1=x[1], role="class"))
 
+f = open("data/professors/proflist.csv", "rt", encoding="WINDOWS-1252")
+read = csv.reader(f, delimiter=",")
+i = 0
+
+for line in read:
+    if i != 0:
+        db.session.add(models.Search(name0=line[6] + " " + line[7], role="professor", dept=line[5]))
+    i += 1
+
 db.session.commit()

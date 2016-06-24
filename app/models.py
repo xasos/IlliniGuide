@@ -6,6 +6,9 @@ class Search(db.Model):
     #name = db.Column(db.String(80), unique=True)
     #role = db.Column(db.String(80), unique=False)
 
+class Reviews(db.Model):
+    __table__ = db.Model.metadata.tables['Reviews']
+
 #    def __init__(self, name0, name1, role):
 #        self.name = name
 #        self.role = role
