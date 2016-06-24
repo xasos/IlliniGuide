@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>{{ classname }}</h1>
+
+    <h3>Stats</h3>
+    <ul>
+        {% for stat in stats %}
+            <li>{{ stat[0] }}-{{ stat[1] }}</li>
+        {% endfor %}
+    </ul>
+
+    <h3>Professors who have taught this class</h3>
+    <ul>
+        {% for prof in professors %}
+            <li>{{ prof }}</li>
+        {% endfor %}
+    </ul>
+
+    <h3>Reviews (Will be organized by prof in future) </h3>
+    <ul>
+        {% for review in reviews %}
+            <li>
+                <p>Date written: {{ review.date }}</p>
+                <p>Professor: {{ review.professorname }}</p>
+                <p>Comments: {{ review.comments }}</p>
+                <p>Easiness: {{ review.easy }}</p>
+                <p>Overall Quality: {{ review.quality }}</p>
+            </li>
+        {% endfor %}
+    </ul>
+
+{% endblock %}

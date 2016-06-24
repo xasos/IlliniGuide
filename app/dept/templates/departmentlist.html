@@ -8,4 +8,11 @@
     {% endfor %}
 </ul>
 
+<h3> List of Professors </h3>
+<ul>
+    {% for x in links_professors %}
+        <li><a href="{{ x[1] }}"> {{ x[0] }}</a></li>
+    {% endfor %}
+</ul>
+
 {% endblock %}
