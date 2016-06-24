@@ -17,7 +17,7 @@ def departmentlist(dept):#, page=1):
     for x in professors:
         temp = x.name0.replace(" ", "")
         links_professors.append((x.name0, "/professor/" + temp))
-    return render_template("departmentlist.html", links_classes=links_classes, links_professors=links_professors)
+    return render_template("departmentlist.html", departmentname = str(dept), links_classes=links_classes, links_professors=links_professors)
 
 @dept.route('/<dept>/class/<classnum>')
 def classthing(dept, classnum):
