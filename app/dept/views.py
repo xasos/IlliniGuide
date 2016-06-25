@@ -1,4 +1,4 @@
-from flask import Blueprint, render_template
+from flask import Blueprint, render_template, abort
 from app import db, models
 from . import dept
 
@@ -6,6 +6,8 @@ from . import dept
 @dept.route('/<dept>/<int:page>')
 def departmentlist(dept):#, page=1):
     department = dept.upper()
+    if (models.Search.query.filter(models.Search.role=="department").filter(models.Search.name0==department).first() is None):
+        abort(404)
     classes = db.session.query(models.Search).filter(models.Search.name0.like(str(department) + " " +"%")).order_by(models.Search.name0).all()
     #classes = classes.paginate(1, 20, False).items
     professors = db.session.query(models.Search).filter(models.Search.dept==str(department)).order_by(models.Search.name0).all()
@@ -23,6 +25,8 @@ def departmentlist(dept):#, page=1):
 @dept.route('/<dept>/class/<classnum>')
 def classthing(dept, classnum):
     department = dept.upper()
+    if (models.Search.query.filter(models.Search.role=="class").filter(models.Search.name0==department+" "+classnum).first() is None):
+        abort(404)
     reviews = db.session.query(models.Reviews).filter(models.Reviews.classname==(str(department) + " " + str(classnum)))
     stats = [db.session.query(db.func.avg(models.Reviews.easy)).filter(models.Reviews.classname==(str(department) + " " + str(classnum)))[0],
             db.session.query(db.func.avg(models.Reviews.quality)).filter(models.Reviews.classname==(str(department) + " " + str(classnum)))[0]]

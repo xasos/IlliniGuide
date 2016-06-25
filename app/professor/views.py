@@ -2,17 +2,18 @@ from flask import Blueprint, render_template
 from app import db, models
 from . import prof
 
-def addspace(coursecode):
-    y=0
-    for x in coursecode:
-        if x.isupper() and x is not coursecode[0]:
-            break
-        y+=1
-    return coursecode[0:y] + " " + coursecode[y:]
+def findname(name):
+    query = db.session.query(models.Search).filter(models.Search.role=="professor")
+    for x in query:
+        if name.lower() == x.name0.replace(" ", "").lower():
+            return x.name0
+    return ""
 
 @prof.route('/<professor>')
 def stuff(professor):
-    professor = addspace(professor)
+    professor = findname(professor)
+    if professor == "":
+        abort(404)
     reviews = db.session.query(models.Reviews).filter(models.Reviews.professorname==(str(professor)))
     stats = [db.session.query(db.func.avg(models.Reviews.easy)).filter(models.Reviews.professorname==(str(professor)))[0],
               db.session.query(db.func.avg(models.Reviews.quality)).filter(models.Reviews.professorname==(str(professor)))[0]]

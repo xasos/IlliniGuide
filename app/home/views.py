@@ -28,18 +28,7 @@ def about():
 @home.route("/autocomplete", methods=['GET'])
 def autocomplete():
     search = request.args.get('q')
-    query = db.session.query(models.Search).filter(models.Search.name0.ilike('%' + str(search) + '%')).order_by(models.Search.hits.desc())
-    query2 = db.session.query(models.Search).filter(models.Search.name1.ilike('%' + str(search) + '%')).order_by(models.Search.hits.desc())
-    results = []
-    results2 = []
-    for mv in query:
-        results.append((mv.name0, mv.hits))
-    for mv in query2:
-        results.append((mv.name1, mv.hits))
-    results = sorted(results, key=itemgetter(1), reverse=True)
-    for mv in results:
-        results2.append(mv[0])
-    return jsonify(matching_results=results2)
+    return jsonify(matching_results=models.Search.autosearch(search))
 
 @home.route("/search/<query>")
 def search(query):
