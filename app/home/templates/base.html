@@ -11,7 +11,7 @@
                       $.getJSON("{{ url_for('home.autocomplete') }}", {
                           q: request.term,
                       }, function(data) {
-                          response(data.matching_results.slice(0, 10));
+                          response(data.matching_results.slice(0, 15));
                       });
                   },
                   minLength: 2,

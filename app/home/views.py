@@ -1,6 +1,7 @@
 from flask import Blueprint, render_template, jsonify, request, redirect
 from . import home
 from app import db, models
+from operator import itemgetter
 import urllib
 
 @home.route('/')
@@ -27,33 +28,43 @@ def about():
 @home.route("/autocomplete", methods=['GET'])
 def autocomplete():
     search = request.args.get('q')
-    query = db.session.query(models.Search.name0).filter(models.Search.name0.ilike('%' + str(search) + '%'))
-    query2 = db.session.query(models.Search.name1).filter(models.Search.name1.ilike('%' + str(search) + '%'))
-    results = [mv[0] for mv in query.all()]
-    for mv in query2.all():
-        results.append(mv[0])
-    return jsonify(matching_results=results)
+    query = db.session.query(models.Search).filter(models.Search.name0.ilike('%' + str(search) + '%')).order_by(models.Search.hits.desc())
+    query2 = db.session.query(models.Search).filter(models.Search.name1.ilike('%' + str(search) + '%')).order_by(models.Search.hits.desc())
+    results = []
+    results2 = []
+    for mv in query:
+        results.append((mv.name0, mv.hits))
+    for mv in query2:
+        results.append((mv.name1, mv.hits))
+    results = sorted(results, key=itemgetter(1), reverse=True)
+    for mv in results:
+        results2.append(mv[0])
+    return jsonify(matching_results=results2)
 
 @home.route("/search/<query>")
 def search(query):
     result = urllib.parse.unquote(query)
-
     if (models.Search.query.filter_by(name0=result).first() is None):
-        if (models.Search.query.filter_by(name1=result).first().role == "class"):
-            query = models.Search.query.filter_by(name1=result).first().name0
-            query = query.split()
-            return redirect("/dept/"+query[0]+"/class/"+query[1])
-        elif (models.Search.query.filter_by(name1=result).first().role == "department"):
-            query = models.Search.query.filter_by(name1=result).first().name0
-            return redirect("/dept/"+query)
+        dbquery = models.Search.query.filter_by(name1=result).first()
+        dbquery.hits += 1
+        db.session.commit()
+        if (dbquery.role == "class"):
+            name = dbquery.name0.split()
+            return redirect("/dept/"+name[0]+"/class/"+name[1])
+        elif (db.role == "department"):
+            name = dbquery.name0
+            return redirect("/dept/"+name)
         else:
             query = query.replace(" ", "")
             return redirect("/professor/"+query)
     else:
-        if (models.Search.query.filter_by(name0=result).first().role == "class"):
-            query = query.split()
+        dbquery = models.Search.query.filter_by(name0=result).first()
+        dbquery.hits += 1
+        db.session.commit()
+        if (dbquery.role == "class"):
+            query = dbquery.name0.split()
             return redirect("/dept/"+query[0]+"/class/"+query[1])
-        elif (models.Search.query.filter_by(name0=result).first().role == "department"):
+        elif (dbquery.role == "department"):
             return redirect("/dept/"+query)
         else:
             query = query.replace(" ", "")
