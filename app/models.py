@@ -9,6 +9,9 @@ class Search(db.Model):
 class Reviews(db.Model):
     __table__ = db.Model.metadata.tables['Reviews']
 
+class Metrics(db.Model):
+    __table__ = db.Model.metadata.tables['Metrics']
+
 #    def __init__(self, name0, name1, role):
 #        self.name = name
 #        self.role = role
