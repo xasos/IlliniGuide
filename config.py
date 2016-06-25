@@ -1,4 +1,4 @@
 import os
 basedir = os.path.abspath(os.path.dirname(__file__))
 
-SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL', 'postgresql://KevinHong:@localhost/illiniguide')
+SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL', 'postgresql://niraj:@localhost/illiniguide')
