@@ -1,5 +1,9 @@
 from app import db
+import os, base64, hashlib
 from operator import itemgetter
+from flask_login import UserMixin
+from sqlalchemy.dialects.postgresql import JSONB
+from flask_dance.consumer.backend.sqla import OAuthConsumerMixin
 
 class Search(db.Model):
     __table__ = db.Model.metadata.tables['Search']
@@ -35,21 +39,31 @@ class Reviews(db.Model):
 class Metrics(db.Model):
     __table__ = db.Model.metadata.tables['Metrics']
 
-#    def __init__(self, name0, name1, role):
-#        self.name = name
-#        self.role = role
-#
-#class tester(db.Model):
-#    __table__ = db.Model.metadata.tables['tester']
-#
-#    def __repr__(self):
-#        return self.DISTRICT
+class User(db.Model, UserMixin):
+    id = db.Column(db.Integer, primary_key=True, nullable=False)
+    name = db.Column(db.String(256), unique=True, nullable=False)
+    email = db.Column(db.String(256), unique=True, nullable=False)
+    password = db.Column(db.LargeBinary(), nullable=False)
+    cookies = db.relationship('Cookie', backref='User',
+                                lazy='dynamic')
 
+    def get_auth_token(self):
+        selector = os.urandom(16)
+        validator = os.urandom(64)
+        data = [base64.b64encode(selector).decode("utf-8"), base64.b64encode(validator).decode("utf-8")]
+        db.session.add(Cookie(user_id = self.id, selector = selector, validator = hashlib.sha256(validator).digest()))
+        return login_serializer.dumps(data)
 
-#class User(db.Model):
-#  id = db.Column(db.Integer, primary_key=True)
-#  name = db.Column(db.String(100))
-#  email = db.Column(db.String(100))
-#  def __init__(self, name, email):
-#    self.name = name
-#    self.email = email
+    @staticmethod
+    def get(userid):
+        return db.session.query(models.User).filter(models.User.id==userid).one_or_none()
+
+class Cookie(db.Model):
+    id = db.Column(db.Integer, primary_key=True, nullable=False)
+    selector = db.Column(db.LargeBinary())
+    validator = db.Column(db.LargeBinary())
+    user_id = db.Column(db.Integer, db.ForeignKey('User.id'))
+
+#class OAuth(db.Model, OAuthConsumerMixin):
+#    user_id = db.Column(db.Integer, db.ForeignKey(User.id))
+#    user = db.relationship(User)
