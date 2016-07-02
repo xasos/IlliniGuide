@@ -1,48 +1,48 @@
 import urllib, hashlib, base64
 from . import home
-from app import db, models
+from app import app, db, models, forms, bcrypt
 from flask import Blueprint, render_template, jsonify, request, redirect
 from flask_login import current_user, login_required, login_user, logout_user
 
+
 ''' User Experience '''
 
-@home.route("/signup")
+@home.route("/signup", methods=['GET', 'POST'])
 def signup():
-    form = SignupForm();
+    form = forms.SignupForm();
     if form.validate_on_submit():
-        new_user = User(name=form.name, email=form.email,\
-                    password=bcrypt.generate_password_hash(base64.urlsafe_b64encode(hashlib.sha256(b'form.password').digest())))
+        new_user = models.User(name=form.name.data, email=form.email.data, password=bcrypt.generate_password_hash(base64.urlsafe_b64encode(hashlib.sha256(form.password.data.encode("utf-8")).digest())))
         db.session.add(new_user)
         db.session.commit()
         login_user(new_user)
         return redirect('/')
     return render_template('signup.html', form=form)
 
-@home.route('/login')
+@home.route('/login', methods=['GET', 'POST'])
 def login():
-    form = LoginForm()
+    form = forms.LoginForm()
     if form.validate_on_submit():
         try:
-            user = db.session.query(models.User).filter(models.User.email==form.email).one()
+            user = db.session.query(models.User).filter(models.User.email==form.email.data).one()
         except NoResultsFound:
             flash("Email is not valid. Please try again")
             return render_template('login.html', form=form)
-        if not bcrypt.check_password_hash(user.password, base64.urlsafe_b64encode(hashlib.sha256(b'form.password').digest())):
+        if not bcrypt.check_password_hash(user.password, base64.urlsafe_b64encode(hashlib.sha256(form.password.data.encode("utf-8")).digest())):
             flash("Email and password do not match. Please try again.")
             return render_template('login.html', form=form)
-        if (form.remember_me):
+        if (form.remember_me.data):
             login_user(user, remember = True)
         else:
             login_user(user)
         return form.redirect('index')
     return render_template('login.html', form=form)
 
-@home.route('/reauthenticate')
+@home.route('/reauthenticate', methods=['GET', 'POST'])
 @login_required
 def reauthenticate():
-    form = ReauthenticateForm()
+    form = forms.ReauthenticateForm()
     if form.validate_on_submit():
-        if not bcrypt.check_password_hash(current_user.password, form.password):
+        if not bcrypt.check_password_hash(current_user.password, base64.urlsafe_b64encode(hashlib.sha256(form.password.data.encode("utf-8")).digest())):
             flash("Password is incorrect. Please try again.")
             return render_template('reauth.html', form=form)
         login_user(current_user, remember=True)
@@ -53,6 +53,8 @@ def reauthenticate():
 @home.route('/logout')
 @login_required
 def logout():
+    db.session.delete(g.cookie)
+    db.session.commit()
     logout_user()
     return redirect('/')
 

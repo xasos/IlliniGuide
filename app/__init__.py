@@ -8,6 +8,14 @@ app.config.from_object('config')
 
 app.wsgi_app = ProxyFix(app.wsgi_app)
 
+''' Extension Init '''
+
+from flask_bcrypt import Bcrypt
+from itsdangerous import URLSafeTimedSerializer
+
+bcrypt = Bcrypt(app)
+login_serializer = URLSafeTimedSerializer(app.secret_key)
+
 ''' Database and Migrations '''
 
 from flask_sqlalchemy import SQLAlchemy
@@ -16,7 +24,9 @@ from flask_migrate import Migrate, MigrateCommand
 
 #TODO: App Factory?
 db = SQLAlchemy(app)
-db.Model.metadata.reflect(db.engine)
+#db.Model.metadata.reflect(db.engine)
+meta = db.Model.metadata
+engine = db.engine
 
 migrate = Migrate(app, db)
 
@@ -28,32 +38,34 @@ manager.add_command('db', MigrateCommand)
 from .home import home
 from .professor import prof
 from .dept import dept
+from .user import user
 
 app.register_blueprint(home)
 app.register_blueprint(prof)
 app.register_blueprint(dept)
+app.register_blueprint(user)
 
 ''' Local Users, Login, and Cookie Handling '''
 
 import base64, hashlib
 from flask_login import LoginManager
-from itsdangerous import URLSafeTimedSerializer
-from flask_bcrypt import Bcrypt
 
-bcrypt = Bcrypt(app)
+#from flask_bcrypt import Bcrypt
+
 login_manager = LoginManager(app)
-login_serializer = URLSafeTimedSerializer(app.secret_key)
+
 login_manager.login_view = '/login'
 login_manager.refresh_view = '/reauthenticate'
 
 @login_manager.user_loader
 def load_user(user_id):
-    return User.query.get(int(user_id))
+    return models.User.query.get(int(user_id))
 
 @login_manager.token_loader
 def load_token(token):
+    print("Loading Token")
     try:
-        loaded_token = login_serializer.loads(token, max_age=604800)
+        loaded_token = login_serializer.loads(token, max_age=1)
     except BadSignature:
         return None
     except SignatureExpired:
@@ -61,6 +73,7 @@ def load_token(token):
         cookie = db.session.query(models.Cookie).filter(models.Cookie.selector==base64.b64decode(utf.encode(loaded_token[0])))
         db.session.delete(cookie)
         db.session.commit()
+        return None
     try:
         cookie = db.session.query(models.Cookie).filter(models.Cookie.selector==base64.b64decode(utf.encode(loaded_token[0]))).one()
     except NoResultsFound:
@@ -69,6 +82,7 @@ def load_token(token):
         db.session.delete(cookie)
         db.session.commit()
         return None
+    g.cookie = cookie
     return cookie.User
 
 ''' OAuth '''
@@ -98,12 +112,12 @@ def google_logged_in(google_blueprint, token):
     resp = google_blueprint.session.get("/plus/v1/people/me")
     if resp.ok:
         email = resp.json()["emails"][0]["value"]
-        query = User.query.filter_by(email=email)
+        query = models.User.query.filter_by(email=email)
         try:
             user = query.one()
         except NoResultFound:
             # create a user
-            user = User(name=resp.json()["displayName"], email=resp.json()["emails"][0]["value"])
+            user = models.User(name=resp.json()["displayName"], email=resp.json()["emails"][0]["value"], SSO=True)
             db.session.add(user)
             db.session.commit()
         login_user(user)
@@ -141,12 +155,12 @@ def fb_logged_in(fb_blueprint, token):
     resp = fb_blueprint.session.get("/2.6/me?fields=name,email")
     if resp.ok:
         email = resp.json()["email"]
-        query = User.query.filter_by(email=email)
+        query = models.User.query.filter_by(email=email)
         try:
             user = query.one()
         except NoResultFound:
             # create a user
-            user = User(name=resp.json()["name"], email=resp.json()["emails"])
+            user = modelsUser(name=resp.json()["name"], email=resp.json()["emails"], SSO=True)
             db.session.add(user)
             db.session.commit()
         login_user(user)

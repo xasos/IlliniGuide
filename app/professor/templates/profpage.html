@@ -17,6 +17,13 @@
         {% endfor %}
     </ul>
 
+    <h3> Leave a Review </h3>
+    <p>
+       {{ form.thing.label }}:
+       {{ form.thing(size=80) }}
+    </p>
+     <p><input type="submit" value="Log In"></p>
+
     <h3>Reviews (Will be organized by class in future) </h3>
     <ul>
         {% for review in reviews %}

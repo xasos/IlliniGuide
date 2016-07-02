@@ -1,7 +1,8 @@
 from flask_wtf import Form
-from wtforms import Form, BooleanField, StringField, PasswordField
-from wtforms.validators import DataRequired, Email, EqualTo
-from urlparse import urlparse, urljoin
+from wtforms import BooleanField, StringField, PasswordField, HiddenField
+from wtforms.fields.html5 import DecimalRangeField
+from wtforms.validators import DataRequired, Email, EqualTo, NumberRange
+from urllib.parse import urlparse, urljoin
 from flask import request, url_for, redirect
 
 def is_safe_url(target):
@@ -52,4 +53,4 @@ class ReauthenticateForm(RedirectForm):
     password = PasswordField('Password', validators=[DataRequired()])
 
 class ReviewForm(Form):
-    pass
+    thing = DecimalRangeField("Difficulty", validators=[NumberRange(min=0, max=5)])

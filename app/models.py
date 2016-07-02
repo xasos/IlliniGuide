@@ -1,4 +1,4 @@
-from app import db
+from app import db, meta, engine, login_serializer
 import os, base64, hashlib
 from operator import itemgetter
 from flask_login import UserMixin
@@ -7,11 +7,13 @@ from flask_dance.consumer.backend.sqla import OAuthConsumerMixin
 
 ''' Deliverables '''
 
+Search = db.Table('Search', meta, autoload=True, autoload_with=engine)
+Metrics = db.Table('Metrics', meta, autoload=True, autoload_with=engine)
+Reviews = db.Table('Reviews', meta, autoload=True, autoload_with=engine)
+
 class Search(db.Model):
-    __table__ = db.Model.metadata.tables['Search']
-    #id = db.Column(db.Integer, primary_key=True)
-    #name = db.Column(db.String(80), unique=True)
-    #role = db.Column(db.String(80), unique=False)
+    __tablename__ = "Search"
+
 
     def autosearch(querystring, dept=""):
         if dept == "":
@@ -36,10 +38,22 @@ class Search(db.Model):
         return results2
 
 class Reviews(db.Model):
-    __table__ = db.Model.metadata.tables['Reviews']
+    __tablename__ = "Reviews"
+
+class UserReviews(db.Model):
+    id = db.Column(db.Integer, primary_key=True, nullable=False)
+    user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
+    professor = db.Column(db.Text(), nullable=False)
+    classname = db.Column(db.Text(), nullable=False)
+    comments = db.Column(db.Text(), nullable=False)
+    profdifficulty = db.Column(db.Numeric(), nullable=False)
+    classdifficulty = db.Column(db.Numeric(), nullable=False)
+    quality = db.Column(db.Numeric(), nullable=False)
+    date = db.Column(db.Date(), nullable=False)
 
 class Metrics(db.Model):
-    __table__ = db.Model.metadata.tables['Metrics']
+    __tablename__ = 'Metrics'
+
 
 ''' Users and Authentication '''
 
@@ -47,14 +61,18 @@ class User(db.Model, UserMixin):
     id = db.Column(db.Integer, primary_key=True, nullable=False)
     name = db.Column(db.String(256), unique=True, nullable=False)
     email = db.Column(db.String(256), unique=True, nullable=False)
+    #SSO = db.Column(db.Boolean(), nullable=False)
     password = db.Column(db.LargeBinary())
     cookies = db.relationship('Cookie', backref='User', lazy='dynamic')
+    #data = db.Column(JSONB)
+    reviews = db.relationship('UserReviews', backref='User', lazy='dynamic')
 
     def get_auth_token(self):
         selector = os.urandom(16)
         validator = os.urandom(64)
         data = [base64.b64encode(selector).decode("utf-8"), base64.b64encode(validator).decode("utf-8")]
         db.session.add(Cookie(user_id = self.id, selector = selector, validator = hashlib.sha256(validator).digest()))
+        db.session.commit()
         return login_serializer.dumps(data)
 
     #@staticmethod
@@ -68,9 +86,11 @@ class Cookie(db.Model):
     user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
 
 class GoogleOAuth(db.Model, OAuthConsumerMixin):
+    __tablename__ = "flask_dance_googleoauth"
     user_id = db.Column(db.Integer, db.ForeignKey(User.id))
     user = db.relationship(User)
 
 class FacebookOAuth(db.Model, OAuthConsumerMixin):
+    __tablename__ = "flask_dance_facebookoauth"
     user_id = db.Column(db.Integer, db.ForeignKey(User.id))
     user = db.relationship(User)

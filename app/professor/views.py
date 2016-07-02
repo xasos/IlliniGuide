@@ -1,5 +1,5 @@
 from flask import Blueprint, render_template
-from app import db, models
+from app import db, models, forms
 from . import prof
 
 def findname(name):
