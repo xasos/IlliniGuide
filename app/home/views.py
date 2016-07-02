@@ -1,6 +1,6 @@
 import urllib, hashlib, base64
 from . import home
-from app import db, models, login_serializer, login_manager
+from app import db, models
 from flask import Blueprint, render_template, jsonify, request, redirect
 from flask_login import current_user, login_required, login_user, logout_user
 

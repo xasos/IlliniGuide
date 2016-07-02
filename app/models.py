@@ -65,12 +65,12 @@ class Cookie(db.Model):
     id = db.Column(db.Integer, primary_key=True, nullable=False)
     selector = db.Column(db.LargeBinary())
     validator = db.Column(db.LargeBinary())
-    user_id = db.Column(db.Integer, db.ForeignKey('User.id'))
+    user_id = db.Column(db.Integer, db.ForeignKey('user.id'))
 
 class GoogleOAuth(db.Model, OAuthConsumerMixin):
     user_id = db.Column(db.Integer, db.ForeignKey(User.id))
     user = db.relationship(User)
 
-class FacebookOauth(db.Model, OAuthConsumerMixin):
+class FacebookOAuth(db.Model, OAuthConsumerMixin):
     user_id = db.Column(db.Integer, db.ForeignKey(User.id))
     user = db.relationship(User)

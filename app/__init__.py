@@ -73,9 +73,13 @@ def load_token(token):
 
 ''' OAuth '''
 
+import blinker
+from app import models
+from flask_login import current_user
 from flask_dance.contrib.google import make_google_blueprint, google
 from flask_dance.contrib.facebook import make_facebook_blueprint, facebook
-import blinker
+from flask_dance.consumer.backend.sqla import SQLAlchemyBackend
+from flask_dance.consumer import oauth_authorized, oauth_error
 
 google_blueprint = make_google_blueprint(
     client_id=app.config['GOOGLE_CLIENT_ID'],
@@ -84,7 +88,7 @@ google_blueprint = make_google_blueprint(
     redirect_url='/'
 )
 app.register_blueprint(google_blueprint, url_prefix="/login")
-google_blueprint.backend = SQLAlchemyBackend(GoogleOAuth, db.session, user=current_user)
+google_blueprint.backend = SQLAlchemyBackend(models.GoogleOAuth, db.session, user=current_user)
 
 @oauth_authorized.connect_via(google_blueprint)
 def google_logged_in(google_blueprint, token):
@@ -124,10 +128,10 @@ def google_error(google_blueprint, error, error_description=None, error_uri=None
 fb_blueprint = make_facebook_blueprint(
     client_id=app.config['FACEBOOK_CLIENT_ID'],
     client_secret=app.config['FACEBOOK_CLIENT_SECRET'],
-    scope=[public_profile, email]
+    scope=["public_profile", "email"]
 )
-app.register_blueprint(facebook_blueprint, url_prefix="/login")
-fb_blueprint.backend = SQLAlchemyBackend(FacebookOAuth, db.session, user=current_user)
+app.register_blueprint(fb_blueprint, url_prefix="/login")
+fb_blueprint.backend = SQLAlchemyBackend(models.FacebookOAuth, db.session, user=current_user)
 
 @oauth_authorized.connect_via(fb_blueprint)
 def fb_logged_in(fb_blueprint, token):
