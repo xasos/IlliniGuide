@@ -18,7 +18,6 @@ def get_redirect_target():
         if is_safe_url(target):
             return target
 
-
 class RedirectForm(Form):
     next = HiddenField()
 
@@ -51,3 +50,6 @@ class LoginForm(RedirectForm):
 
 class ReauthenticateForm(RedirectForm):
     password = PasswordField('Password', validators=[DataRequired()])
+
+class ReviewForm(Form):
+    pass

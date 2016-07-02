@@ -5,6 +5,8 @@ from flask_login import UserMixin
 from sqlalchemy.dialects.postgresql import JSONB
 from flask_dance.consumer.backend.sqla import OAuthConsumerMixin
 
+''' Deliverables '''
+
 class Search(db.Model):
     __table__ = db.Model.metadata.tables['Search']
     #id = db.Column(db.Integer, primary_key=True)
@@ -39,13 +41,14 @@ class Reviews(db.Model):
 class Metrics(db.Model):
     __table__ = db.Model.metadata.tables['Metrics']
 
+''' Users and Authentication '''
+
 class User(db.Model, UserMixin):
     id = db.Column(db.Integer, primary_key=True, nullable=False)
     name = db.Column(db.String(256), unique=True, nullable=False)
     email = db.Column(db.String(256), unique=True, nullable=False)
-    password = db.Column(db.LargeBinary(), nullable=False)
-    cookies = db.relationship('Cookie', backref='User',
-                                lazy='dynamic')
+    password = db.Column(db.LargeBinary())
+    cookies = db.relationship('Cookie', backref='User', lazy='dynamic')
 
     def get_auth_token(self):
         selector = os.urandom(16)
@@ -54,9 +57,9 @@ class User(db.Model, UserMixin):
         db.session.add(Cookie(user_id = self.id, selector = selector, validator = hashlib.sha256(validator).digest()))
         return login_serializer.dumps(data)
 
-    @staticmethod
-    def get(userid):
-        return db.session.query(models.User).filter(models.User.id==userid).one_or_none()
+    #@staticmethod
+    #def get(userid):
+    #    return db.session.query(models.User).filter(models.User.id==userid).one_or_none()
 
 class Cookie(db.Model):
     id = db.Column(db.Integer, primary_key=True, nullable=False)
@@ -64,6 +67,10 @@ class Cookie(db.Model):
     validator = db.Column(db.LargeBinary())
     user_id = db.Column(db.Integer, db.ForeignKey('User.id'))
 
-#class OAuth(db.Model, OAuthConsumerMixin):
-#    user_id = db.Column(db.Integer, db.ForeignKey(User.id))
-#    user = db.relationship(User)
+class GoogleOAuth(db.Model, OAuthConsumerMixin):
+    user_id = db.Column(db.Integer, db.ForeignKey(User.id))
+    user = db.relationship(User)
+
+class FacebookOauth(db.Model, OAuthConsumerMixin):
+    user_id = db.Column(db.Integer, db.ForeignKey(User.id))
+    user = db.relationship(User)

@@ -1,8 +1,10 @@
-from flask import Blueprint, render_template, jsonify, request, redirect, abort
+import urllib, hashlib, base64
 from . import home
 from app import db, models, login_serializer, login_manager
-import urllib, hashlib, base64
+from flask import Blueprint, render_template, jsonify, request, redirect
 from flask_login import current_user, login_required, login_user, logout_user
+
+''' User Experience '''
 
 @home.route("/signup")
 def signup():
@@ -47,11 +49,14 @@ def reauthenticate():
         return form.redirect('index')
     return render_template('reauth.html', user=current_user, form=form)
 
+#TODO: Logout deletes current device's cookies
 @home.route('/logout')
 @login_required
 def logout():
     logout_user()
     return redirect('/')
+
+''' Index '''
 
 @home.route('/')
 @home.route("/index")
