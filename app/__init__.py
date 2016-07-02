@@ -1,7 +1,6 @@
-''' App and DB Initialization '''
+''' App Initialization '''
 
 from flask import Flask
-from flask.ext.sqlalchemy import SQLAlchemy
 from werkzeug.contrib.fixers import ProxyFix
 
 app = Flask(__name__)
@@ -9,9 +8,20 @@ app.config.from_object('config')
 
 app.wsgi_app = ProxyFix(app.wsgi_app)
 
+''' Database and Migrations '''
+
+from flask_sqlalchemy import SQLAlchemy
+from flask_script import Manager
+from flask_migrate import Migrate, MigrateCommand
+
 #TODO: App Factory?
 db = SQLAlchemy(app)
 db.Model.metadata.reflect(db.engine)
+
+migrate = Migrate(app, db)
+
+manager = Manager(app)
+manager.add_command('db', MigrateCommand)
 
 ''' Blueprints '''
 
@@ -68,8 +78,8 @@ from flask_dance.contrib.facebook import make_facebook_blueprint, facebook
 import blinker
 
 google_blueprint = make_google_blueprint(
-    client_id=GOOGLE_CLIENT_ID
-    client_secret=GOOGLE_CLIENT_SECRET,
+    client_id=app.config['GOOGLE_CLIENT_ID'],
+    client_secret=app.config['GOOGLE_CLIENT_SECRET'],
     scope=["profile", "email"],
     redirect_url='/'
 )
@@ -112,8 +122,8 @@ def google_error(google_blueprint, error, error_description=None, error_uri=None
     flash(msg, category="error")
 
 fb_blueprint = make_facebook_blueprint(
-    client_id=FACEBOOK_CLIENT_ID
-    client_secret=FACEBOOK_CLIENT_SECRET,
+    client_id=app.config['FACEBOOK_CLIENT_ID'],
+    client_secret=app.config['FACEBOOK_CLIENT_SECRET'],
     scope=[public_profile, email]
 )
 app.register_blueprint(facebook_blueprint, url_prefix="/login")
