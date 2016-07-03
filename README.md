@@ -20,7 +20,7 @@ $ pip install -r requirements.txt
 $ python main.py
 ```
 
-## Deploy to Herkou
+## Deploy to Heroku
 ```sh
 $ heroku create --stack cedar
 $ heroku addons:add shared-database
