@@ -20,4 +20,4 @@ def stuff(professor):
     classes = []
     for x in reviews.order_by(models.Reviews.classname).distinct(models.Reviews.classname):
         classes.append(x.classname)
-    return render_template("profpage.html", professorname = str(professor), reviews=reviews.order_by(models.Reviews.date.desc()), stats=stats, classes=classes)
+    return render_template("profpage.html", form=forms.ReviewForm(), professorname = str(professor), reviews=reviews.order_by(models.Reviews.date.desc()), stats=stats, classes=classes)

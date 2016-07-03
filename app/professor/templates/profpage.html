@@ -17,12 +17,33 @@
         {% endfor %}
     </ul>
 
-    <h3> Leave a Review </h3>
-    <p>
-       {{ form.thing.label }}:
-       {{ form.thing(size=80) }}
-    </p>
-     <p><input type="submit" value="Log In"></p>
+    <!--<h3> Leave a Review </h3>
+    <form action="" method="post" name="Review">
+        {{ form.hidden_tag() }}
+        <p>
+            {{ form.classname.label }}: {{ form.classname(size=100) }}<br>
+            {{ form.comments.label }}: {{ form.comments(size=100) }}<br>
+            {{ form.profdifficulty.label }}: <br>
+                {% for subfield in form.profdifficulty %}
+                    <tr>
+                        <td>{{ subfield }}</td>
+                    </tr>
+                {% endfor %} <br>
+            {{ form.classdifficulty.label }}: <br>
+                {% for subfield in form.classdifficulty %}
+                    <tr>
+                        <td>{{ subfield }}</td>
+                    </tr>
+                {% endfor %} <br>
+            {{ form.quality.label }}: <br>
+                {% for subfield in form.quality %}
+                    <tr>
+                        <td>{{ subfield }}</td>
+                    </tr>
+                {% endfor %} <br>
+        </p>
+        <p><input type="submit" value="Log In"></p>
+    </form>-->
 
     <h3>Reviews (Will be organized by class in future) </h3>
     <ul>

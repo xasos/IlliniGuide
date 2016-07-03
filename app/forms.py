@@ -1,6 +1,6 @@
 from flask_wtf import Form
-from wtforms import BooleanField, StringField, PasswordField, HiddenField
-from wtforms.fields.html5 import DecimalRangeField
+from wtforms import BooleanField, StringField, PasswordField, HiddenField, RadioField
+from flask_wtf.html5 import DecimalRangeField
 from wtforms.validators import DataRequired, Email, EqualTo, NumberRange
 from urllib.parse import urlparse, urljoin
 from flask import request, url_for, redirect
@@ -53,4 +53,9 @@ class ReauthenticateForm(RedirectForm):
     password = PasswordField('Password', validators=[DataRequired()])
 
 class ReviewForm(Form):
-    thing = DecimalRangeField("Difficulty", validators=[NumberRange(min=0, max=5)])
+    professorname = StringField('Professor Name', validators=[DataRequired()])
+    classname = StringField('Class Name', validators=[DataRequired()])
+    comments = StringField('Comments', validators=[DataRequired()])
+    profdifficulty = RadioField('Professor Difficulty', choices=[0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0], validators=[DataRequired()])
+    classdifficulty = RadioField('Class Difficulty', choices=[0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0], validators=[DataRequired()])
+    quality = RadioField('Overall Quality', choices=[0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0], validators=[DataRequired()])
