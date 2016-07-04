@@ -10,7 +10,7 @@ def departmentlist(dept):#, page=1):
         abort(404)
     classes = db.session.query(models.Search).filter(models.Search.name0.like(str(department) + " " +"%")).order_by(models.Search.name0).all()
     #classes = classes.paginate(1, 20, False).items
-    professors = db.session.query(models.Search).filter(models.Search.dept==str(department)).order_by(models.Search.name0).all()
+    professors = db.session.query(models.Search).filter(models.Search.dept==str(department)).filter(models.Search.role=="professor").order_by(models.Search.name0).all()
     #professors= professors.paginate(1,20, False).items
     links_classes = []
     links_professors = []
