@@ -1,34 +1,116 @@
 <!doctype html>
 <html>
-  <head>
-      <link href="//code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" rel="Stylesheet"></link>
-      <script src="//code.jquery.com/jquery-2.2.0.min.js"></script>
-      <script src="//code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
-      <script type="text/javascript">
-          $(function() {
-              $("#autocomplete").autocomplete({
-                  source: function(request, response) {
-                      $.getJSON("{{ url_for('home.autocomplete') }}", {
-                          q: request.term,
-                      }, function(data) {
-                          response(data.matching_results);
-                      });
-                  },
-                  minLength: 2,
-                  select: function(event, ui) {
-                      window.location.href = "/search/"+ui.item.value;
-                  }
-              });
-          })
-      </script>
-      <title>Welcome to IlliniGuide</title>
-  </head>
-  </head>
-  <body>
+
+<head>
+    {% block scripts %}
+    <link href="//code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" rel="Stylesheet"></link>
+    <script src="//code.jquery.com/jquery-2.2.0.min.js"></script>
+    <script src="//code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            $(".autocomplete1").autocomplete({
+                source: function(request, response) {
+                    $.getJSON("{{ url_for('home.autocomplete') }}", {
+                        q: request.term
+                    }, function(data) {
+                        response(data.matching_results);
+                    });
+                },
+                minLength: 2,
+                select: function(event, ui) {
+                    window.location.href = "/search/" + ui.item.value;
+                }
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        $(function() {
+            $(".autocomplete2").autocomplete({
+                search: function(event, ui) {
+                    $('.quicksearch').empty();
+                },
+                source: function(request, response) {
+                    $.getJSON("{{ url_for('home.autocomplete') }}", {
+                        q: request.term,
+                        d: function() {
+                                var url = window.location.pathname.split('/');
+                                if (url.length > 2 && url[1] == "dept") {
+                                    return url[2];
+                                } else {
+                                    return null;
+                                }
+                            },
+                        r: function() {
+                                if ($('.autocomplete2').attr('id') == "profqs" || $('.autocomplete2').attr('id') == "allprofqs") {
+                                    return 'professor';
+                                } else if ($('.autocomplete2').attr('id') == "classqs" || $('.autocomplete2').attr('id') == "allclassqs") {
+                                    return 'class';
+                                } else if ($('.autocomplete2').attr('id') == "alldeptqs") {
+                                    return "dept"
+                                } else {
+                                    return null;
+                                }
+                            }
+                    }, function(data) {
+                        response(data.matching_results);
+                    });
+                },
+                minLength: 2
+            }).data('ui-autocomplete')._renderItem = function(ul, item) {
+                return $('<li/>')
+                    .data('item.autocomplete', item)
+                    .append(item.value)
+                    .appendTo($('.quicksearch'));
+            };
+        });
+    </script>
+    <script type = "text/javascript" language = "javascript">
+        $(document).ready(function() {
+            $(".autocomplete2").focus(function() {
+                $(".alllist").hide(0);
+            });
+        });
+    </script>
+    <script type = "text/javascript" language = "javascript">
+        $(document).ready(function() {
+            $(".autocomplete2").focusout(function() {
+                if (!$(this).val()) {
+                    $(".alllist").show(0);
+                }
+            });
+        });
+    </script>
+    <!--<script type = "text/javascript" language = "javascript">
+        $(document).ready(function() {
+            $( "#searchtoggle" ).hide();
+        });
+    </script>
+    <script type = "text/javascript" language = "javascript">
+        $(document).ready(function() {
+            $("#navbarsearch").click(function() {
+                $( "#searchtoggle" ).toggle( "slide" );
+            });
+        });
+    </script>-->
+    {% endblock %}
+    <title>{% block title %}IlliniGuide{% endblock %}</title>
+</head>
+
+<body>
     <div>IlliniGuide:
-        <a href="{{ url_for('home.index') }}">Home</a>
-        | <a href="{{ url_for('home.about') }}">About</a>
+        <a href="{{ url_for('home.index') }}">Home</a> |
+        <a href="{{ url_for('home.about') }}">About</a> |
+        {% if current_user.is_authenticated %}
+            <a href="{{ url_for('user.userpage', user=current_user.name.replace(' ', '')) }}">{{ current_user.name }}</a> |
+            <a href="{{ url_for('home.logout') }}">Logout</a>
+        {% else %}
+            <a href="{{ url_for('home.login') }}">Login</a> |
+            <a href="{{ url_for('home.signup') }}">Sign Up!</a> |
+        {% endif %}
+        <span id="navbarsearch"> Search </span>
+        <input style="width: 100px" name="autocomplete" type="text" id="searchtoggle" class="autocomplete1" placeholder="Enter a class, department, or professor..."/>
     </div>
     {% block content %}{% endblock %}
-  </body>
+</body>
+
 </html>

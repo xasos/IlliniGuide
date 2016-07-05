@@ -1,26 +1,29 @@
 {% extends "base.html" %}
 
+{% block title %}
+Sign Up - IlliniGuide
+{% endblock %}
+
 {% block content %}
 <h1>Sign Up</h1>
-  <form action="" method="post" name="login">
-      {{ form.hidden_tag() }}
-      {{ form.next }}
-      <p>
-          Name: {{ form.name(size=80) }} <br>
-          Email: {{ form.email(size=80) }}<br>
-          Password: {{ form.password(size=80) }} <br>
-          Confirm Password: {{ form.confirm_password(size=80) }} <br>
-          {% for error in form.email.errors %}
-            <span style="color: red;">[{{ error }}]</span><br>
-          {% endfor %}
-          {% for error in form.password.errors %}
-            <span style="color: red;">[{{ error }}]</span><br>
-          {% endfor %}
-          {% for error in form.confirm_password.errors %}
-            <span style="color: red;">[{{ error }}]</span><br>
-          {% endfor %}
-      </p>
-      <p><input type="submit" value="Sign Up"></p>
-  </form>
-  <p> Sign up with <a href="/login/google">Google<a> or <a href="/login/facebook">Facebook</a></p>
+<form action="" method="post" name="login">
+    {{ form.hidden_tag() }} {{ form.next }}
+    <p>
+        Name: {{ form.name(size=80) }} <br>
+        Email: {{ form.email(size=80) }} <br>
+        Password: {{ form.password(size=80) }} <br>
+        Confirm Password: {{ form.confirm_password(size=80) }} <br>
+        {% for error in form.email.errors %}
+            <span style="color: red;">[{{ error }}]</span> <br>
+        {% endfor %}
+        {% for error in form.password.errors %}
+            <span style="color: red;">[{{ error }}]</span> <br>
+        {% endfor %}
+        {% for error in form.confirm_password.errors %}
+            <span style="color: red;">[{{ error }}]</span> <br>
+        {% endfor %}
+    </p>
+    <p><input type="submit" value="Sign Up"></p>
+</form>
+<p> Sign up with <a href="/login/google">Google<a> or <a href="/login/facebook">Facebook</a></p>
 {% endblock %}

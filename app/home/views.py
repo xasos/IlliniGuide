@@ -1,7 +1,7 @@
 import urllib, hashlib, base64
 from . import home
 from app import app, db, models, forms, bcrypt
-from flask import Blueprint, render_template, jsonify, request, redirect
+from flask import Blueprint, render_template, jsonify, request, redirect, url_for
 from flask_login import current_user, login_required, login_user, logout_user
 
 
@@ -46,7 +46,7 @@ def reauthenticate():
             flash("Password is incorrect. Please try again.")
             return render_template('reauth.html', form=form)
         login_user(current_user, remember=True)
-        return form.redirect('index')
+        return form.redirect(url_for('home.index'))
     return render_template('reauth.html', user=current_user, form=form)
 
 #TODO: Logout deletes current device's cookies
@@ -56,7 +56,7 @@ def logout():
     db.session.delete(g.cookie)
     db.session.commit()
     logout_user()
-    return redirect('/')
+    return redirect(url_for('home.index'))
 
 ''' Index '''
 
@@ -69,36 +69,46 @@ def index():
 def about():
     return render_template("about.html")
 
+@home.route("/class")
+def classes():
+    query = models.Search.query.filter(models.Search.role=="class").all()
+    classes = []
+    for x in query:
+        classes.append((x.name0, x.name1))
+    return render_template("classlist.html", classes=classes)
+
 @home.route("/autocomplete", methods=['GET'])
 def autocomplete():
     search = request.args.get('q')
-    return jsonify(matching_results=models.Search.autosearch(search))
+    dept = request.args.get('d')
+    role = request.args.get('r')
+    return jsonify(matching_results=models.Search.autosearch(querystring=search, dept=dept, role=role))
 
 @home.route("/search/<query>")
 def search(query):
     result = urllib.parse.unquote(query)
-    if (models.Search.query.filter_by(name0=result).first() is None):
-        dbquery = models.Search.query.filter_by(name1=result).first()
+    if (models.Search.query.filter(models.Search.name0==result).first() is None):
+        dbquery = models.Search.query.filter(models.Search.name1==result).first()
         dbquery.hits += 1
         db.session.commit()
         if (dbquery.role == "class"):
             name = dbquery.name0.split()
-            return redirect("/dept/"+name[0]+"/class/"+name[1])
+            return redirect(url_for('dept.classpage', dept=name[0], classnum=name[1]))
         elif (db.role == "department"):
             name = dbquery.name0
-            return redirect("/dept/"+name)
+            return redirect(url_for('dept.departmentpage', dept=name))
         else:
             query = query.replace(" ", "")
-            return redirect("/professor/"+query)
+            return redirect(url_for("prof.professorpage", professor=query))
     else:
-        dbquery = models.Search.query.filter_by(name0=result).first()
+        dbquery = models.Search.query.filter(models.Search.name0==result).first()
         dbquery.hits += 1
         db.session.commit()
         if (dbquery.role == "class"):
             query = dbquery.name0.split()
-            return redirect("/dept/"+query[0]+"/class/"+query[1])
+            return redirect(url_for('dept.classpage', dept=name[0], classnum=name[1]))
         elif (dbquery.role == "department"):
-            return redirect("/dept/"+query)
+            return redirect(url_for('dept.departmentpage', dept=query))
         else:
             query = query.replace(" ", "")
-            return redirect("/professor/"+query)
+            return redirect(url_for("prof.professorpage", professor=query))

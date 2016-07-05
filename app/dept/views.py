@@ -2,28 +2,34 @@ from flask import Blueprint, render_template, abort
 from app import db, models
 from . import dept
 
+@dept.route('')
+def departmentlist():
+    query = models.Search.query.filter(models.Search.role=="department").all()
+    departments = []
+    for x in query:
+        departments.append((x.name0, x.name1))
+    return render_template("alldept.html", departments=departments)
+
 @dept.route('/<dept>')
 @dept.route('/<dept>/<int:page>')
-def departmentlist(dept):#, page=1):
+def departmentpage(dept):#, page=1):
     department = dept.upper()
     if (models.Search.query.filter(models.Search.role=="department").filter(models.Search.name0==department).first() is None):
         abort(404)
-    classes = db.session.query(models.Search).filter(models.Search.name0.like(str(department) + " " +"%")).order_by(models.Search.name0).all()
+    classesquery = db.session.query(models.Search).filter(models.Search.name0.like(str(department) + " " +"%")).order_by(models.Search.name0).all()
     #classes = classes.paginate(1, 20, False).items
-    professors = db.session.query(models.Search).filter(models.Search.dept==str(department)).filter(models.Search.role=="professor").order_by(models.Search.name0).all()
+    professorsquery = db.session.query(models.Search).filter(models.Search.dept==str(department)).filter(models.Search.role=="professor").order_by(models.Search.name0).all()
     #professors= professors.paginate(1,20, False).items
-    links_classes = []
-    links_professors = []
-    for x in classes:
-        temp = x.name0.split()
-        links_classes.append((x.name0, x.name1,"/dept/"+temp[0]+"/class/"+temp[1]))
-    for x in professors:
-        temp = x.name0.replace(" ", "")
-        links_professors.append((x.name0, "/professor/" + temp))
-    return render_template("departmentlist.html", departmentname = str(department), links_classes=links_classes, links_professors=links_professors)
+    classes = []
+    professors = []
+    for x in classesquery:
+        classes.append((x.name0, x.name1))
+    for x in professorsquery:
+        professors.append(x.name0)
+    return render_template("departmentlist.html", departmentname = str(department), classes=classes, professors=professors)
 
 @dept.route('/<dept>/class/<classnum>')
-def classthing(dept, classnum):
+def classpage(dept, classnum):
     department = dept.upper()
     if (models.Search.query.filter(models.Search.role=="class").filter(models.Search.name0==department+" "+classnum).first() is None):
         abort(404)

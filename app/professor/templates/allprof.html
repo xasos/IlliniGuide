@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block title %}
+All Professors - IlliniGuide
+{% endblock %}
+
+{% block content %}
+<h3> All Professors</h3>
+<p> Quick Search: <input style="width: 100px" type="text" id="alldeptqs" class="autocomplete2" placeholder="Enter a professor..."/> </p>
+<ul class="alllist">
+    {% for x in professors %}
+        <li><a href="{{ url_for('prof.professorpage', professor=x) }}"> {{ x }}</a></li>
+    {% endfor %}
+</ul>
+<ul class="quicksearch">
+</ul>
+{% endblock %}

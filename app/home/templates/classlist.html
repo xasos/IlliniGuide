@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block title %}
+All Classes - IlliniGuide
+{% endblock %}
+
+{% block content %}
+<h3> All Offered Classes </h3>
+<p> Quick Search: <input style="width: 100px" type="text" id="allclassqs" class="autocomplete2" placeholder="Enter a class..."/> </p>
+<ul class="alllist">
+    {% for x in classes %}
+        <li><a href="{{ url_for('dept.classpage', dept=x[0].split()[0], classnum=x[0].split()[1]) }}"> {{ x[0] }} - {{ x[1] }}</a></li>
+    {% endfor %}
+</ul>
+<ul class="quicksearch">
+</ul>
+{% endblock %}

@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 
+{% block title %}
+{{ classname }} - IlliniGuide
+{% endblock %}
+
 {% block content %}
     <h1>{{ classname }}</h1>
 
@@ -16,12 +20,6 @@
             <li>{{ prof }}</li>
         {% endfor %}
     </ul>
-
-    <h3> Leave a Review </h3>
-    <p>
-       
-    </p>
-    <p><input type="submit" value="Log In"></p>
 
     <h3>Reviews (Will be organized by prof in future) </h3>
     <ul>
