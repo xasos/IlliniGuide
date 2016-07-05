@@ -15,20 +15,18 @@ class Search(db.Model):
     __tablename__ = "Search"
 
     def autosearch(querystring, dept=None, role=None):
-        print("here")
         print(dept)
         print(role)
         query = db.session.query(Search).filter(Search.name0.ilike('%' + str(querystring) + '%'))
         query2 = db.session.query(Search).filter(Search.name1.ilike('%' + str(querystring) + '%'))
-        if (dept is None and role is None):
-            print("here")
+        if (role is None):
             query = query.order_by(Search.hits.desc())
             query2 = query2.order_by(Search.hits.desc())
             results = []
             results2 = []
-            for mv in query:
+            for mv in query.all():
                 results.append((mv.name0, mv.hits))
-            for mv in query2:
+            for mv in query2.all():
                 results.append((mv.name1, mv.hits))
             results = sorted(results, key=itemgetter(1), reverse=True)
             for mv in results:
@@ -37,23 +35,13 @@ class Search(db.Model):
         else:
             query = query.filter(Search.role==role)
             query2 = query2.filter(Search.role==role)
-            if (dept is None):
+            print(dept)
+            if (dept == 'null'):
+                print(query.all())
                 results = []
-                for entry in query:
-                    result = entry.name0 + " - " + entry.name1
-                    if (result not in results):
-                        results.append(result)
-                for entry in query2:
-                    result = entry.name0 + " - " + entry.name1
-                    if (result not in results):
-                        results.append(result)
-                return results.sort()
-            else:
-                query = query.filter(Search.dept==dept)
-                query2 = query2.filter(Search.dept==dept)
-                results = []
-                for entry in query:
-                    if (entry.role is "professor"):
+                for entry in query.all():
+                    print(entry.role)
+                    if (entry.role == "professor"):
                         result = entry.name0
                         print(result)
                     else:
@@ -62,14 +50,36 @@ class Search(db.Model):
                     print(results)
                     if (result not in results):
                         results.append(result)
-                for entry in query2:
-                    if (entry.role is "professor"):
+                for entry in query2.all():
+                    if (entry.role == "professor"):
                         result = entry.name0
                     else:
                         result = entry.name0 + " - " + entry.name1
                     if (result not in results):
                         results.append(result)
-                print(sorted(results))
+                return sorted(results)
+            else:
+                query = query.filter(Search.dept==dept)
+                query2 = query2.filter(Search.dept==dept)
+                results = []
+                for entry in query.all():
+                    print(entry.role)
+                    if (entry.role == "professor"):
+                        result = entry.name0
+                        print(result)
+                    else:
+                        result = entry.name0 + " - " + entry.name1
+                    print(result)
+                    print(results)
+                    if (result not in results):
+                        results.append(result)
+                for entry in query2.all():
+                    if (entry.role == "professor"):
+                        result = entry.name0
+                    else:
+                        result = entry.name0 + " - " + entry.name1
+                    if (result not in results):
+                        results.append(result)
                 return sorted(results)
         return []
 

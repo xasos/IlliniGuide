@@ -82,6 +82,7 @@ def autocomplete():
     search = request.args.get('q')
     dept = request.args.get('d')
     role = request.args.get('r')
+    #print(search+', ' + dept + ', ' + role)
     return jsonify(matching_results=models.Search.autosearch(querystring=search, dept=dept, role=role))
 
 @home.route("/search/<query>")

@@ -46,7 +46,7 @@
                                 } else if ($('.autocomplete2').attr('id') == "classqs" || $('.autocomplete2').attr('id') == "allclassqs") {
                                     return 'class';
                                 } else if ($('.autocomplete2').attr('id') == "alldeptqs") {
-                                    return "dept"
+                                    return "department"
                                 } else {
                                     return null;
                                 }
@@ -57,10 +57,27 @@
                 },
                 minLength: 2
             }).data('ui-autocomplete')._renderItem = function(ul, item) {
-                return $('<li/>')
-                    .data('item.autocomplete', item)
-                    .append(item.value)
-                    .appendTo($('.quicksearch'));
+                if ($('.autocomplete2').attr('id') == "profqs" || $('.autocomplete2').attr('id') == "allprofqs") {
+                    return $('<li/>')
+                        .data('item.autocomplete', item)
+                        .append("<a href=\'/professor/" + item.value.replace(/\s+/g, '') + "\'>" + item.value + "</a>")
+                        .appendTo($('.quicksearch'));
+                } else if ($('.autocomplete2').attr('id') == "classqs" || $('.autocomplete2').attr('id') == "allclassqs") {
+                    return $('<li/>')
+                        .data('item.autocomplete', item)
+                        .append("<a href=\'/dept/" + item.value.split()[0] + "/class/" + item.value.split()[1]+ "\'>" + item.value + "</a>")
+                        .appendTo($('.quicksearch'));
+                } else if ($('.autocomplete2').attr('id') == "alldeptqs") {
+                    return $('<li/>')
+                        .data('item.autocomplete', item)
+                        .append("<a href=\'/dept/" + item.value.split()[0] + "\'>" + item.value + "</a>")
+                        .appendTo($('.quicksearch'));
+                } else {
+                    return $('<li/>')
+                        .data('item.autocomplete', item)
+                        .append(item.value)
+                        .appendTo($('.quicksearch'));
+                }
             };
         });
     </script>
@@ -75,18 +92,19 @@
         $(document).ready(function() {
             $(".autocomplete2").focusout(function() {
                 if (!$(this).val()) {
+                    $('.quicksearch').empty();
                     $(".alllist").show(0);
                 }
             });
         });
     </script>
-    <!--<script type = "text/javascript" language = "javascript">
-        $(document).ready(function() {
-            $( "#searchtoggle" ).hide();
+    <script>
+        $(function() {
+            $( ".tabs" ).tabs();
         });
     </script>
-    <script type = "text/javascript" language = "javascript">
-        $(document).ready(function() {
+    <!--<script type = "text/javascript" language = "javascript">
+        $(function() {
             $("#navbarsearch").click(function() {
                 $( "#searchtoggle" ).toggle( "slide" );
             });

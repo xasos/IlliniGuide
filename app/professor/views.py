@@ -10,6 +10,7 @@ def findname(name):
     return ""
 
 @prof.route('')
+@prof.route('/')
 def professorlist():
     query = models.Search.query.filter(models.Search.role=="professor").all()
     profs = []

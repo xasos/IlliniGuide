@@ -6,7 +6,7 @@ All Professors - IlliniGuide
 
 {% block content %}
 <h3> All Professors</h3>
-<p> Quick Search: <input style="width: 100px" type="text" id="alldeptqs" class="autocomplete2" placeholder="Enter a professor..."/> </p>
+<p> Quick Search: <input style="width: 200px" type="text" id="allprofqs" class="autocomplete2" placeholder="Enter a professor..."/> </p>
 <ul class="alllist">
     {% for x in professors %}
         <li><a href="{{ url_for('prof.professorpage', professor=x) }}"> {{ x }}</a></li>

@@ -3,6 +3,7 @@ from app import db, models
 from . import dept
 
 @dept.route('')
+@dept.route('/')
 def departmentlist():
     query = models.Search.query.filter(models.Search.role=="department").all()
     departments = []

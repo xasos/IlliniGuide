@@ -6,7 +6,7 @@ All Departments - IlliniGuide
 
 {% block content %}
 <h3> All Departments </h3>
-<p> Quick Search: <input style="width: 100px" type="text" id="alldeptqs" class="autocomplete2" placeholder="Enter a department..."/> </p>
+<p> Quick Search: <input style="width: 200px" type="text" id="alldeptqs" class="autocomplete2" placeholder="Enter a department..."/> </p>
 <ul class="alllist">
     {% for x in departments %}
         <li><a href="{{ url_for('dept.departmentpage', dept=x[0]) }}"> {{ x[0] }} - {{ x[1] }}</a></li>

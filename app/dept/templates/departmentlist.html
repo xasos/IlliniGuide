@@ -6,27 +6,34 @@
 
 {% block content %}
 <h2> {{ departmentname }} </h2>
-<h3> List of Offered Classes </h3>
-<div>
-    Quick Search: <input style="width: 100px" type="text" id="classqs" class="autocomplete2" placeholder="Enter a class..."/>
-    <ul class="alllist">
-        {% for x in classes %}
-            <li><a href="{{ url_for('dept.classpage', dept=x[0].split()[0], classnum=x[0].split()[1]) }}"> {{ x[0] }} - {{ x[1] }}</a></li>
-        {% endfor %}
+<div class="tabs">
+    <ul>
+        <li><a href="#classes">Classes</a></li>
+        <li><a href="#professors">Professors</a></li>
     </ul>
-    <ul class="quicksearch">
-    </ul>
-</div>
-
-<h3> List of Professors </h3>
-<div>
-    Quick Search: <input style="width: 100px" type="text" id="profqs" class="autocomplete2" placeholder="Enter a professor..."/>
-    <ul class="alllist">
-        {% for x in professors %}
-            <li><a href="{{ url_for('prof.professorpage', professor=x.replace(" ", "")) }}"> {{ x }}</a></li>
-        {% endfor %}
-    </ul>
-    <ul class="quicksearch">
-    </ul>
-</div>
+    <div style="height: 600px; overflow: scroll;" id="classes">
+        <h3> List of Offered Classes </h3>
+        <div>
+            Quick Search: <input style="width: 200px" type="text" id="classqs" class="autocomplete2" placeholder="Enter a class..."/>
+            <ul class="alllist">
+                {% for x in classes %}
+                    <li><a href="{{ url_for('dept.classpage', dept=x[0].split()[0], classnum=x[0].split()[1]) }}"> {{ x[0] }} - {{ x[1] }}</a></li>
+                {% endfor %}
+            </ul>
+            <ul class="quicksearch">
+            </ul>
+        </div>
+    </div>
+    <div style="height: 600px; overflow: scroll;" id="professors">
+        <h3> List of Professors </h3>
+            Quick Search: <input style="width: 200px" type="text" id="profqs" class="autocomplete2" placeholder="Enter a professor..."/>
+            <ul class="alllist">
+                {% for x in professors %}
+                    <li><a href="{{ url_for('prof.professorpage', professor=x.replace(" ", "")) }}"> {{ x }}</a></li>
+                {% endfor %}
+            </ul>
+            <ul class="quicksearch">
+            </ul>
+        </div>
+    </div>
 {% endblock %}
