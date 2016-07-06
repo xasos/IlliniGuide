@@ -65,7 +65,7 @@
                 } else if ($('.autocomplete2').attr('id') == "classqs" || $('.autocomplete2').attr('id') == "allclassqs") {
                     return $('<li/>')
                         .data('item.autocomplete', item)
-                        .append("<a href=\'/dept/" + item.value.split()[0] + "/class/" + item.value.split()[1]+ "\'>" + item.value + "</a>")
+                        .append("<a href=\'/dept/" + item.value.split(" ")[0] + "/class/" + item.value.split(" ")[1]+ "\'>" + item.value + "</a>")
                         .appendTo($('.quicksearch'));
                 } else if ($('.autocomplete2').attr('id') == "alldeptqs") {
                     return $('<li/>')

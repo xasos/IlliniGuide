@@ -15,8 +15,6 @@ class Search(db.Model):
     __tablename__ = "Search"
 
     def autosearch(querystring, dept=None, role=None):
-        print(dept)
-        print(role)
         query = db.session.query(Search).filter(Search.name0.ilike('%' + str(querystring) + '%'))
         query2 = db.session.query(Search).filter(Search.name1.ilike('%' + str(querystring) + '%'))
         if (role is None):
@@ -35,19 +33,13 @@ class Search(db.Model):
         else:
             query = query.filter(Search.role==role)
             query2 = query2.filter(Search.role==role)
-            print(dept)
             if (dept == 'null'):
-                print(query.all())
                 results = []
                 for entry in query.all():
-                    print(entry.role)
                     if (entry.role == "professor"):
                         result = entry.name0
-                        print(result)
                     else:
                         result = entry.name0 + " - " + entry.name1
-                    print(result)
-                    print(results)
                     if (result not in results):
                         results.append(result)
                 for entry in query2.all():
@@ -63,14 +55,10 @@ class Search(db.Model):
                 query2 = query2.filter(Search.dept==dept)
                 results = []
                 for entry in query.all():
-                    print(entry.role)
                     if (entry.role == "professor"):
                         result = entry.name0
-                        print(result)
                     else:
                         result = entry.name0 + " - " + entry.name1
-                    print(result)
-                    print(results)
                     if (result not in results):
                         results.append(result)
                 for entry in query2.all():
