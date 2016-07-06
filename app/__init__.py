@@ -1,6 +1,6 @@
 ''' App Initialization '''
 
-from flask import Flask
+from flask import Flask, flash, g, session
 from werkzeug.contrib.fixers import ProxyFix
 
 app = Flask(__name__)
@@ -48,7 +48,8 @@ app.register_blueprint(user)
 ''' Local Users, Login, and Cookie Handling '''
 
 import base64, hashlib
-from flask_login import LoginManager
+from flask_login import LoginManager, login_user, logout_user
+from sqlalchemy.orm.exc import NoResultFound
 
 #from flask_bcrypt import Bcrypt
 
@@ -76,13 +77,14 @@ def load_token(token):
         return None
     try:
         cookie = db.session.query(models.Cookie).filter(models.Cookie.selector==base64.b64decode(utf.encode(loaded_token[0]))).one()
-    except NoResultsFound:
+    except NoResultFound:
         return None
     if (hashlib.sha256(base64.b64decode(utf.encode(loaded_token[1]))).digest() != cookie.validator):
         db.session.delete(cookie)
         db.session.commit()
         return None
-    g.cookie = cookie
+    if (cookie.User.SSO==False):  
+        session['cookie'] = cookie
     return cookie.User
 
 ''' OAuth '''
@@ -117,7 +119,7 @@ def google_logged_in(google_blueprint, token):
             user = query.one()
         except NoResultFound:
             # create a user
-            user = models.User(name=resp.json()["displayName"], email=resp.json()["emails"][0]["value"], SSO=True)
+            user = models.User(name=resp.json()["displayName"], email=resp.json()["emails"][0]["value"], SSO=True, SSOProvider="Google")
             db.session.add(user)
             db.session.commit()
         login_user(user)
@@ -160,7 +162,7 @@ def fb_logged_in(fb_blueprint, token):
             user = query.one()
         except NoResultFound:
             # create a user
-            user = modelsUser(name=resp.json()["name"], email=resp.json()["emails"], SSO=True)
+            user = modelsUser(name=resp.json()["name"], email=resp.json()["emails"], SSO=True, SSOProvider="Facebook")
             db.session.add(user)
             db.session.commit()
         login_user(user)

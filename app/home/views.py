@@ -1,9 +1,9 @@
 import urllib, hashlib, base64
 from . import home
 from app import app, db, models, forms, bcrypt
-from flask import Blueprint, render_template, jsonify, request, redirect, url_for
+from flask import Blueprint, render_template, jsonify, request, redirect, url_for, g, session
 from flask_login import current_user, login_required, login_user, logout_user
-
+from sqlalchemy.orm.exc import NoResultFound
 
 ''' User Experience '''
 
@@ -11,7 +11,7 @@ from flask_login import current_user, login_required, login_user, logout_user
 def signup():
     form = forms.SignupForm();
     if form.validate_on_submit():
-        new_user = models.User(name=form.name.data, email=form.email.data, password=bcrypt.generate_password_hash(base64.urlsafe_b64encode(hashlib.sha256(form.password.data.encode("utf-8")).digest())))
+        new_user = models.User(name=form.name.data, email=form.email.data, password=bcrypt.generate_password_hash(base64.urlsafe_b64encode(hashlib.sha256(form.password.data.encode("utf-8")).digest())), SSO=False)
         db.session.add(new_user)
         db.session.commit()
         login_user(new_user)
@@ -24,7 +24,7 @@ def login():
     if form.validate_on_submit():
         try:
             user = db.session.query(models.User).filter(models.User.email==form.email.data).one()
-        except NoResultsFound:
+        except NoResultFound:
             flash("Email is not valid. Please try again")
             return render_template('login.html', form=form)
         if not bcrypt.check_password_hash(user.password, base64.urlsafe_b64encode(hashlib.sha256(form.password.data.encode("utf-8")).digest())):
@@ -53,8 +53,12 @@ def reauthenticate():
 @home.route('/logout')
 @login_required
 def logout():
-    db.session.delete(g.cookie)
-    db.session.commit()
+    try:
+        db.session.delete(session['cookie'])
+        del session['cookie']
+        db.session.commit()
+    except KeyError:
+        pass
     logout_user()
     return redirect(url_for('home.index'))
 

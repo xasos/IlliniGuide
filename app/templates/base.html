@@ -35,7 +35,7 @@
                         d: function() {
                                 var url = window.location.pathname.split('/');
                                 if (url.length > 2 && url[1] == "dept") {
-                                    return url[2];
+                                    return url[2].toUpperCase();
                                 } else {
                                     return null;
                                 }
@@ -128,6 +128,17 @@
         <span id="navbarsearch"> Search </span>
         <input style="width: 100px" name="autocomplete" type="text" id="searchtoggle" class="autocomplete1" placeholder="Enter a class, department, or professor..."/>
     </div>
+    <p>
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+            <ul>
+                {% for message in messages %}
+                <li>{{ message }} </li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        {% endwith %}
+    </p>
     {% block content %}{% endblock %}
 </body>
 
