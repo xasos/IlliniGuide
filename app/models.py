@@ -96,7 +96,7 @@ class UserReviews(db.Model):
     profdifficulty = db.Column(db.Numeric(), nullable=False)
     classdifficulty = db.Column(db.Numeric(), nullable=False)
     quality = db.Column(db.Numeric(), nullable=False)
-    #grade = db.Column(db.Text(), nullable=False)
+    ##grade = db.Column(db.Text(), nullable=False)
     date = db.Column(db.Date(), nullable=False)
 
 class Metrics(db.Model):
