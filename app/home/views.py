@@ -53,12 +53,6 @@ def reauthenticate():
 @home.route('/logout')
 @login_required
 def logout():
-    try:
-        db.session.delete(session['cookie'])
-        del session['cookie']
-        db.session.commit()
-    except KeyError:
-        pass
     logout_user()
     return redirect(url_for('home.index'))
 
