@@ -1,7 +1,7 @@
 # IlliniGuide
 A course and professor guide for [UIUC](https://uiuc.edu). Built in Python, Flask, and PostgreSQL.
 
-*Note: Any questions, comments, feedback or feature requests should be directed to [xasos](http://github.com/xasos) or via an [issue](https://github.com/xasos/Coins/issues) in this repo.*
+*Note: Any questions, comments, feedback or feature requests should be directed to an [issue](https://github.com/xasos/Coins/issues) in this repo.*
 
 ## Development
 
