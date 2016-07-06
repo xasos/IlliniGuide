@@ -2,9 +2,12 @@
 
 from flask import Flask, flash, g, session
 from werkzeug.contrib.fixers import ProxyFix
+import os
 
 app = Flask(__name__)
 app.config.from_object('config')
+if (os.path.isfile('../config2.py')):
+    app.config.from_object('config2')
 
 app.wsgi_app = ProxyFix(app.wsgi_app)
 
@@ -57,6 +60,7 @@ login_manager = LoginManager(app)
 
 login_manager.login_view = '/login'
 login_manager.refresh_view = '/reauthenticate'
+login_manager.session_protection = "strong"
 
 @login_manager.user_loader
 def load_user(user_id):
@@ -83,8 +87,6 @@ def load_token(token):
         db.session.delete(cookie)
         db.session.commit()
         return None
-    if (cookie.User.SSO==False):  
-        session['cookie'] = cookie
     return cookie.User
 
 ''' OAuth '''
