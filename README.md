@@ -1,15 +1,9 @@
 # IlliniGuide
-A course and professor guide for UIUC built in Python + Flask.
+A course and professor guide for [UIUC](https://uiuc.edu). Built in Python, Flask, and PostgreSQL.
 
-## Want to build this for your own school?
-
-Feel free to fork this project & create a course site for your university. 
-
-## Data Source
-FOIA's
+*Note: Any questions, comments, feedback or feature requests should be directed to [xasos](http://github.com/xasos) or via an [issue](https://github.com/xasos/Coins/issues) in this repo.*
 
 ## Development
-Want to run this on your own machine? Follow these commands to get up and running:
 
 ```sh
 $ git clone https://github.com/xasos/IlliniGuide.git
@@ -17,7 +11,7 @@ $ cd IlliniGuide
 $ virtualenv venv
 $ source venv/bin/activate
 $ pip install -r requirements.txt
-$ python main.py
+$ python run.py
 ```
 
 ## Deploy to Heroku
@@ -27,13 +21,8 @@ $ heroku addons:add shared-database
 $ git push heroku master
 ```
 
-# In a separate terminal instance:
-```sh
-$ sql ...
-```
-
 ## Contributing
-[contributing](CONTRIBUTING.md)
+[Contributing Guidelines](CONTRIBUTING.md)
 
 ## License
 [MIT License](LICENSE)
