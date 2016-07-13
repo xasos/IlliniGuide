@@ -21,6 +21,46 @@
         {% endfor %}
     </ul>
 
+    <h3>Leave a Review!</h3>
+    <form action="" method="post" name="Review">
+        {{ form.hidden_tag() }}
+        <p>
+            Professor Name: {{ form.professorname(size=80) }}<br>
+            Class Name: {{ form.classname(size=80) }} <br>
+            Comments: {{ form.comments(size=100) }} <br>
+            Professor Difficulty: {{ form.profdifficulty(size=40) }} <br>
+            Class Difficulty: {{ form.classdifficulty(size=40) }} <br>
+            Group Work: {{ form.groupwork(size=40) }} <br>
+            Hours per Week: {{ form.hoursperweek(size=40) }} <br>
+            Overall Quality: {{ form.quality(size=40) }} <br>
+            <div>
+                Grade: {{ form.grade }}
+                <!--{% for subfield in form.grade %}
+                    <tr>
+                        <td>{{ subfield }}</td>
+                        <td>{{ subfield.label }}</td>
+                    </tr>
+                {% endfor %}-->
+            </div>
+            <div>
+                Plus/Minus: {{ form.plusminus }}
+                <!--{% for subfield in form.plusminus %}
+                    <tr>
+                        <td>{{ subfield }}</td>
+                        <td>{{ subfield.label }}</td>
+                    </tr>
+                {% endfor %}-->
+            </div>
+            {% for error in form.professorname.errors %}
+                <span style="color: red;">[{{ error }}]</span><br>
+            {% endfor %}
+            {% for error in form.classname.errors %}
+                <span style="color: red;">[{{ error }}]</span><br>
+            {% endfor %}
+        </p>
+        <p><input type="submit" value="Submit Review"></p>
+    </form>
+
     <h3>Reviews (Will be organized by prof in future) </h3>
     <ul>
         {% for review in reviews %}

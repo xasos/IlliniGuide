@@ -83,8 +83,10 @@ class UserReviews(db.Model):
     comments = db.Column(db.Text(), nullable=False)
     profdifficulty = db.Column(db.Numeric(), nullable=False)
     classdifficulty = db.Column(db.Numeric(), nullable=False)
+    groupwork = db.Column(db.Numeric(), nullable=False)
+    hoursperweek = db.Column(db.Integer, nullable=False)
     quality = db.Column(db.Numeric(), nullable=False)
-    ##grade = db.Column(db.Text(), nullable=False)
+    grade = db.Column(db.Text(), nullable=False)
     date = db.Column(db.Date(), nullable=False)
 
 class Metrics(db.Model):

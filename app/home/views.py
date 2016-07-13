@@ -104,7 +104,7 @@ def search(query):
         dbquery.hits += 1
         db.session.commit()
         if (dbquery.role == "class"):
-            query = dbquery.name0.split()
+            name = dbquery.name0.split()
             return redirect(url_for('dept.classpage', dept=name[0], classnum=name[1]))
         elif (dbquery.role == "department"):
             return redirect(url_for('dept.departmentpage', dept=query))

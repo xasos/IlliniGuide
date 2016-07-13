@@ -1,5 +1,5 @@
 from flask_wtf import Form
-from wtforms import BooleanField, StringField, PasswordField, HiddenField, RadioField
+from wtforms import BooleanField, StringField, PasswordField, HiddenField, RadioField, DecimalField
 from flask_wtf.html5 import DecimalRangeField
 from wtforms.validators import DataRequired, Email, EqualTo, NumberRange
 from urllib.parse import urlparse, urljoin
@@ -56,6 +56,10 @@ class ReviewForm(Form):
     professorname = StringField('Professor Name', validators=[DataRequired()])
     classname = StringField('Class Name', validators=[DataRequired()])
     comments = StringField('Comments', validators=[DataRequired()])
-    profdifficulty = RadioField('Professor Difficulty', choices=[0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0], validators=[DataRequired()])
-    classdifficulty = RadioField('Class Difficulty', choices=[0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0], validators=[DataRequired()])
-    quality = RadioField('Overall Quality', choices=[0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0], validators=[DataRequired()])
+    profdifficulty = DecimalField('Professor Difficulty', validators=[DataRequired(), NumberRange(min=0.0, max=5.0, message='Value must be between 0.0 and 5.0')])
+    classdifficulty = DecimalField('Class Difficulty', validators=[DataRequired(), NumberRange(min=0.0, max=5.0, message='Value must be between 0.0 and 5.0')])
+    groupwork = DecimalField('Amount (%) of Groupwork', validators=[DataRequired(), NumberRange(min=0.0, max=100.0, message='Value must be between 0.0 and 100.0')])
+    hoursperweek = DecimalField('Hours Needed per Week', validators=[DataRequired(), NumberRange(min=0.0, max=168.0, message='You can\'t spend more than a week or less than nothing in a week, pls')])
+    quality = DecimalField('Overall Quality', validators=[DataRequired(), NumberRange(min=0.0, max=5.0, message='Value must be between 0.0 and 5.0')])
+    grade = RadioField('Grade Received (will not be public)', choices=[('A', 'A'), ('B', 'B'), ('C', 'C'), ('D', 'D'), ('F', 'F')])
+    plusminus = RadioField('Plus/Minus', choices=[('Plus', '+'), ('None', ' '), ('Minus', '-')])
