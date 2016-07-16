@@ -18,7 +18,7 @@ def professorlist():
         profs.append(x.name0)
     return render_template("allprof.html", professors=sorted(profs))
 
-@prof.route('/<professor>')
+@prof.route('/<professor>', methods=['GET', 'POST'])
 def professorpage(professor):
     professor = findname(professor)
     if professor == "":

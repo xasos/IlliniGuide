@@ -103,10 +103,13 @@ class User(db.Model, UserMixin):
     SSOProvider = db.Column(db.Text())
     password = db.Column(db.LargeBinary())
     cookies = db.relationship('Cookie', backref='User', lazy='dynamic')
-    #data = db.Column(JSONB)
     reviews = db.relationship('UserReviews', backref='User', lazy='dynamic')
+    #admin = db.Column(db.Boolean(), nullable=True)
+    #contributor = db.Column(db.Boolean(), nullable=False)
+    #data = db.Column(JSONB)
 
     def get_auth_token(self):
+        print('creating token')
         selector = os.urandom(16)
         validator = os.urandom(64)
         data = [base64.b64encode(selector).decode("utf-8"), base64.b64encode(validator).decode("utf-8")]

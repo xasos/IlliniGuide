@@ -54,8 +54,6 @@ import base64, hashlib
 from flask_login import LoginManager, login_user, logout_user
 from sqlalchemy.orm.exc import NoResultFound
 
-#from flask_bcrypt import Bcrypt
-
 login_manager = LoginManager(app)
 
 login_manager.login_view = '/login'
@@ -72,8 +70,10 @@ def load_token(token):
     try:
         loaded_token = login_serializer.loads(token, max_age=1)
     except BadSignature:
+        print('badsig')
         return None
     except SignatureExpired:
+        print('expired')
         loaded_token = login_serializer.loads(token)
         cookie = db.session.query(models.Cookie).filter(models.Cookie.selector==base64.b64decode(utf.encode(loaded_token[0])))
         db.session.delete(cookie)
@@ -84,6 +84,7 @@ def load_token(token):
     except NoResultFound:
         return None
     if (hashlib.sha256(base64.b64decode(utf.encode(loaded_token[1]))).digest() != cookie.validator):
+        print('baddecode')
         db.session.delete(cookie)
         db.session.commit()
         return None

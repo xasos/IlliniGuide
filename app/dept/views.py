@@ -30,7 +30,7 @@ def departmentpage(dept):#, page=1):
         professors.append(x.name0)
     return render_template("departmentlist.html", departmentname = str(department), classes=classes, professors=professors)
 
-@dept.route('/<dept>/class/<classnum>')
+@dept.route('/<dept>/class/<classnum>', methods=['GET', 'POST'])
 def classpage(dept, classnum):
     form = forms.ReviewForm()
     if form.validate_on_submit():
