@@ -20,7 +20,11 @@ def professorlist():
 
 @prof.route('/<professor>', methods=['GET', 'POST'])
 def professorpage(professor):
+    form = forms.ReviewForm()
     professor = findname(professor)
+    if form.validate_on_submit():
+        db.session.add(models.UserReviews(user_id = current_user.id, professor=professor, classname=form.classname.data, profdifficulty=form.profdifficulty.data, classdifficulty=form.classdifficulty.data, groupwork=form.groupwork.data, hoursperweek=form.hoursperweek.data, grade=form.grade.data+form.plusminus.data, date=time.strftime('%d/%m/%Y')))
+        db.session.commit()
     if professor == "":
         abort(404)
     reviews = db.session.query(models.Reviews).filter(models.Reviews.professorname==(str(professor)))
@@ -29,4 +33,4 @@ def professorpage(professor):
     classes = []
     for x in reviews.order_by(models.Reviews.classname).distinct(models.Reviews.classname):
         classes.append(x.classname)
-    return render_template("profpage.html", form=forms.ReviewForm(), professorname = str(professor), reviews=reviews.order_by(models.Reviews.date.desc()), stats=stats, classes=classes)
+    return render_template("profpage.html", form=form, professorname = str(professor), reviews=reviews.order_by(models.Reviews.date.desc()), stats=stats, classes=classes)

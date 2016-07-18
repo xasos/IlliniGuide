@@ -34,7 +34,7 @@ def departmentpage(dept):#, page=1):
 def classpage(dept, classnum):
     form = forms.ReviewForm()
     if form.validate_on_submit():
-        db.session.add(models.UserReviews(user_id = current_user.id, professor=form.professorname.data, classname=form.classname.data, profdifficulty=form.profdifficulty.data, classdifficulty=form.classdifficulty.data, groupwork=form.groupwork.data, hoursperweek=form.hoursperweek.data, grade=form.grade.data+form.plusminus.data, date=time.strftime('%d/%m/%Y')))
+        db.session.add(models.UserReviews(user_id = current_user.id, professor=form.professorname.data, classname=dept+' '+classnum, profdifficulty=form.profdifficulty.data, classdifficulty=form.classdifficulty.data, groupwork=form.groupwork.data, hoursperweek=form.hoursperweek.data, grade=form.grade.data+form.plusminus.data, date=time.strftime('%d/%m/%Y')))
         db.session.commit()
     department = dept.upper()
     if (models.Search.query.filter(models.Search.role=="class").filter(models.Search.name0==department+" "+classnum).first() is None):
