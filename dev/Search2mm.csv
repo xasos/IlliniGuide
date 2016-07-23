@@ -4025,7 +4025,7 @@ id,name0,name1,role,dept,hits
 4024,HIST 396,Darwin and the Darwinian Rev,class,HIST,0
 4025,HIST 396,Oral History,class,HIST,0
 4026,HIST 396,A History of Israel,class,HIST,0
-4027,HIST 396,ShakespeareÃŒÂ¢â€°Ã¢Ã‚â€°Ã£Â¢s Worlds,class,HIST,0
+4027,HIST 396,ShakespeareíëŒ¢äóÁí¢í‰äóÁí£Œ¢s Worlds,class,HIST,0
 4028,HIST 396,Black Freedom Struggles in US,class,HIST,0
 4029,HIST 410,Decolonization in Africa,class,HIST,0
 4030,HIST 411,20thC Africa Intellectual Hist,class,HIST,0
@@ -4904,7 +4904,7 @@ id,name0,name1,role,dept,hits
 4903,THEA 374,Acting Studio I: Acting,class,THEA,0
 4904,THEA 391,Individual Topics,class,THEA,0
 4905,THEA 399,Undergraduate Group Seminar,class,THEA,0
-4906,THEA 399,ShakespeareÃŒÂ¢â€°Ã¢Ã‚â€°Ã£Â¢s Worlds,class,THEA,0
+4906,THEA 399,ShakespeareíëŒ¢äóÁí¢í‰äóÁí£Œ¢s Worlds,class,THEA,0
 4907,THEA 412,Directors Workshop,class,THEA,0
 4908,THEA 427,Scene Painting,class,THEA,0
 4909,THEA 435,Professional Lighting Systems,class,THEA,0
@@ -9236,10 +9236,10 @@ id,name0,name1,role,dept,hits
 9235,FIN 580,Option Trading & Market-Making,class,FIN,0
 9236,FIN 580,Foundations in Risk Management,class,FIN,0
 9237,FIN 580,Wealth Management,class,FIN,0
-9238,FR 323,Maryse CondÃŒÂ©,class,FR,0
+9238,FR 323,Maryse CondíëŒ©,class,FR,0
 9239,FR 443,Study of 21st Century France,class,FR,0
 9240,FR 529,Sociophonetics of French,class,FR,0
-9241,FR 578,InquiÃŒÂ©tude ou angoisse: la Fr,class,FR,0
+9241,FR 578,InquiíëŒ©tude ou angoisse: la Fr,class,FR,0
 9242,FSHN 125,Intro to Human Nutrition,class,FSHN,0
 9243,FSHN 150,Introduction to Dietetics,class,FSHN,0
 9244,FSHN 450,Dietetics: Professional Issues,class,FSHN,0
@@ -9726,7 +9726,7 @@ id,name0,name1,role,dept,hits
 9725,Susan Thomas,,professor,ACCY,0
 9726,Glenda Kao,,professor,ACCY,0
 9727,Sharon Cox,,professor,ACCY,0
-9728,â€°Ã›_zlem Arikan,,professor,ACCY,0
+9728,…zlem Arikan,,professor,ACCY,0
 9729,Keith Czerney,,professor,ACCY,0
 9730,Heather Pesch,,professor,ACCY,0
 9731,Brian White,,professor,ACCY,0
@@ -10100,7 +10100,7 @@ id,name0,name1,role,dept,hits
 10099,Anne Hedeman,,professor,ARTH,0
 10100,Dana Rush,,professor,ARTH,0
 10101,Jennifer Greenhill,,professor,ARTH,0
-10102,Oscar Vâ€°Ã›Ãzquez,,professor,ARTH,0
+10102,Oscar VäóÁí_ízquez,,professor,ARTH,0
 10103,Jennifer Burns,,professor,ARTH,0
 10104,Anne Burkus-Chasson,,professor,ARTH,0
 10105,Bea Nettles,,professor,ARTS,0
@@ -10857,7 +10857,7 @@ id,name0,name1,role,dept,hits
 10856,John Hart,,professor,CS,0
 10857,Wai-Tat Fu,,professor,CS,0
 10858,Ryan Cunningham,,professor,CS,0
-10859,JosÃŒÂ¥Ã¥Â© Meseguer,,professor,CS,0
+10859,JosíëŒ«í«Œ© Meseguer,,professor,CS,0
 10860,David Padua,,professor,CS,0
 10861,Saurabh Sinha,,professor,CS,0
 10862,Madhusudan Parthasarathy,,professor,CS,0
@@ -10959,7 +10959,7 @@ id,name0,name1,role,dept,hits
 10958,Richard Masel,,professor,ECE,0
 10959,Zbigniew Kalbarczyk,,professor,ECE,0
 10960,Constantine Polychronopoulous,,professor,ECE,0
-10961,Alejandro DomÃŒÂ¥_nguez-GarcÃŒÂ¥_a,,professor,ECE,0
+10961,Alejandro DomíëŒ«_nguez-GarcíëŒ«_a,,professor,ECE,0
 10962,Negar Kiyavash,,professor,ECE,0
 10963,Scott Carney,,professor,ECE,0
 10964,Martin Wong,,professor,ECE,0
@@ -11668,7 +11668,7 @@ id,name0,name1,role,dept,hits
 11667,Patrick Bray,,professor,FR,0
 11668,Zsuzsanna Fagyal,,professor,FR,0
 11669,Malyoune Benoit,,professor,FR,0
-11670,LaÃŒÂ¥â€°Ã›Â¡titia Deleuze,,professor,FR,0
+11670,LaíëŒ«äóÁí_Œçtitia Deleuze,,professor,FR,0
 11671,Juliette Dade,,professor,FR,0
 11672,Christopher Carignan,,professor,FR,0
 11673,Nick Strole,,professor,FR,0
@@ -11772,7 +11772,7 @@ id,name0,name1,role,dept,hits
 11771,Corina Lacatus,,professor,GER,0
 11772,Nadezda Berkovich,,professor,GER,0
 11773,Derek Drake,,professor,GER,0
-11774,SÃŒÂ¥_ren Priebe,,professor,GER,0
+11774,SíëŒ«_ren Priebe,,professor,GER,0
 11775,Anna Stenport,,professor,GER,0
 11776,Shawn Boyd,,professor,GER,0
 11777,Richard Jenkins,,professor,GER,0
@@ -13477,7 +13477,7 @@ id,name0,name1,role,dept,hits
 13476,Marianna Nadeu,,professor,SPAN,0
 13477,Lily Martinez,,professor,SPAN,0
 13478,Sally Perret,,professor,SPAN,0
-13479,Antonio Perez-NÃŒÂ¥_ÃŒÂ¥Ã¥Â±ez,,professor,SPAN,0
+13479,Antonio Perez-NíëŒ«_íëŒ«í«Œ±ez,,professor,SPAN,0
 13480,Itxaso Rodriguez,,professor,SPAN,0
 13481,Anna Rivera,,professor,SPAN,0
 13482,Alannah Hernandez,,professor,SPAN,0
@@ -13487,7 +13487,7 @@ id,name0,name1,role,dept,hits
 13486,Song Hong Cho,,professor,SPAN,0
 13487,Justin Davidson,,professor,SPAN,0
 13488,Megan Garguilo,,professor,SPAN,0
-13489,Mariselle MelÃŒÂ¥Ã¥Â©ndez,,professor,SPAN,0
+13489,Mariselle MelíëŒ«í«Œ©ndez,,professor,SPAN,0
 13490,Anna Maria Escobar,,professor,SPAN,0
 13491,Christina Deangelo,,professor,SPAN,0
 13492,Nacho Alvarez,,professor,SPAN,0
