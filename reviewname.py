@@ -1,15 +1,39 @@
 from app import db, models
 from fuzzywuzzy import fuzz, process
+import csv
 
-subjects = []
+subjects = {}
 bad=[]
 todo = []
 
 depts = db.session.query(models.Search).filter(models.Search.role=='department')
 for x in depts.all():
-    subjects.append(x.name0)
+    subjects[x.name1] = x.name0
 
-for x in db.session.query(models.Reviews).all():
+f = open('data/professors3.csv', 'r', encoding='WINDOWS-1252')
+read = csv.reader(f, delimiter=',')
+
+new_lines = []
+i=0
+for line in read:
+    if i != 0:
+        department = line[1].split(',')[0]
+        test = process.extractOne(department, list(subjects.keys()))
+        if test[1] > 95:
+            new_lines.append([line[0], subjects[test[0]], line[2], line[3], line[4], line[5], line[6], line[7], line[8]])
+        else:
+            new_lines.append([line[0], line[1], line[2], line[3], line[4], line[5], line[6], line[7], line[8]])
+    i+=1
+
+f = open('data/professors4.csv', 'w')
+write = csv.writer(f)
+
+for lines in new_lines:
+    write.writerow(lines)
+
+
+
+'''for x in db.session.query(models.Reviews).all():
     try:
         thing = x.classname.split()[0]
     except IndexError:
@@ -45,3 +69,4 @@ for x in bad:
 for x in todo:
     print(x)
     var = input('done')
+'''
