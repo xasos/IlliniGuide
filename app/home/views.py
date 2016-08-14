@@ -16,7 +16,7 @@ def signup():
         db.session.commit()
         login_user(new_user)
         return redirect('/')
-    return render_template('signup.html', form=form)
+    return render_template('home/signup.html', form=form)
 
 @home.route('/login', methods=['GET', 'POST'])
 def login():
@@ -35,7 +35,7 @@ def login():
         else:
             login_user(user)
         return form.redirect('index')
-    return render_template('login.html', form=form)
+    return render_template('home/login.html', form=form)
 
 @home.route('/reauthenticate', methods=['GET', 'POST'])
 @login_required
@@ -47,7 +47,7 @@ def reauthenticate():
             return render_template('reauth.html', form=form)
         login_user(current_user, remember=True)
         return form.redirect(url_for('home.index'))
-    return render_template('reauth.html', user=current_user, form=form)
+    return render_template('home/reauth.html', user=current_user, form=form)
 
 #TODO: Logout deletes current device's cookies
 @home.route('/logout')
@@ -61,11 +61,11 @@ def logout():
 @home.route('/')
 @home.route("/index")
 def index():
-    return render_template("index.html")
+    return render_template("home/index.html")
 
 @home.route("/about")
 def about():
-    return render_template("about.html")
+    return render_template("home/about.html")
 
 @home.route("/class")
 def classes():
@@ -73,7 +73,7 @@ def classes():
     classes = []
     for x in query:
         classes.append((x.name0, x.name1))
-    return render_template("classlist.html", classes=classes)
+    return render_template("home/classlist.html", classes=classes)
 
 @home.route("/autocomplete", methods=['GET'])
 def autocomplete():

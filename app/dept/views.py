@@ -10,7 +10,7 @@ def departmentlist():
     departments = []
     for x in query:
         departments.append((x.name0, x.name1))
-    return render_template("alldept.html", departments=departments)
+    return render_template("dept/alldept.html", departments=departments)
 
 @dept.route('/<dept>')
 @dept.route('/<dept>/<int:page>')
@@ -28,7 +28,7 @@ def departmentpage(dept):#, page=1):
         classes.append((x.name0, x.name1))
     for x in professorsquery:
         professors.append(x.name0)
-    return render_template("departmentlist.html", departmentname = str(department), classes=classes, professors=professors)
+    return render_template("dept/departmentlist.html", departmentname = str(department), classes=classes, professors=professors)
 
 @dept.route('/<dept>/class/<classnum>', methods=['GET', 'POST'])
 def classpage(dept, classnum):
@@ -45,4 +45,4 @@ def classpage(dept, classnum):
     professors = []
     for x in reviews.order_by(models.Reviews.professorname).distinct(models.Reviews.professorname):
         professors.append(x.professorname)
-    return render_template("class.html", form=form, classname = str(department) + " " + str(classnum), reviews=reviews.order_by(models.Reviews.date.desc()), stats=stats, professors=professors)
+    return render_template("dept/class.html", form=form, classname = str(department) + " " + str(classnum), reviews=reviews.order_by(models.Reviews.date.desc()), stats=stats, professors=professors)

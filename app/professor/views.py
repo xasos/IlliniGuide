@@ -16,7 +16,7 @@ def professorlist():
     profs = []
     for x in query:
         profs.append(x.name0)
-    return render_template("allprof.html", professors=sorted(profs))
+    return render_template("professor/allprof.html", professors=sorted(profs))
 
 @prof.route('/<professor>', methods=['GET', 'POST'])
 def professorpage(professor):
@@ -33,4 +33,4 @@ def professorpage(professor):
     classes = []
     for x in reviews.order_by(models.Reviews.classname).distinct(models.Reviews.classname):
         classes.append(x.classname)
-    return render_template("profpage.html", form=form, professorname = str(professor), reviews=reviews.order_by(models.Reviews.date.desc()), stats=stats, classes=classes)
+    return render_template("professor/profpage.html", form=form, professorname = str(professor), reviews=reviews.order_by(models.Reviews.date.desc()), stats=stats, classes=classes)
