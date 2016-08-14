@@ -6,7 +6,7 @@ import os
 
 app = Flask(__name__)
 app.config.from_object('config')
-if (os.path.isfile(os.path.join(os.path.dirname(__file__), '../config.py'))):
+if (os.path.isfile(os.path.join(os.path.dirname(__file__), '../config2.py'))):
     app.config.from_object('config2')
 
 app.wsgi_app = ProxyFix(app.wsgi_app)
