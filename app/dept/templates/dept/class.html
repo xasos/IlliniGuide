@@ -22,7 +22,7 @@
     </ul>
 
     <h3>Leave a Review!</h3>
-    {% if current_user.is_authenticated() %}
+    {% if current_user.is_authenticated %}
         <form action="" method="post" name="Review">
             {{ form.hidden_tag() }}
             <p>
