@@ -61,7 +61,7 @@
             <p><input type="submit" value="Submit Review"></p>
         </form>
     {% else %}
-        <p>Please <a href='{{ url_for(home.login) }}'>login</a> to write a review</p>
+        <p>Please <a href="{{ url_for('home.login') }}">login</a> to write a review</p>
     {% endif %}
 
     <h3>Reviews (Will be organized by prof in future) </h3>
